@@ -103,8 +103,23 @@ Use the checkbox to select your needed corpora, geoparsers, and metrics.
 
 ### Upload your resources
 * Click the "Add corpus..." button to upload your dataset
+<p align="center">
+<img align="center" src="fig/main_page4.png" width="260" height="150" />
+<img align="center" src="fig/main_page5.png" width="260" height="150"/>
+<img align="center" src="fig/main_page8.png" width="260" height="150"/>
+</p>
+
+Note: The "Adding a new corpus" window can only process one uploaded corpus in xml format, you need to upload your files separately if you want to test your multiple corpora in the same expoeriment.
+
 
 * Click the "Add geoparser..." button to connect with your geoparser API
+<p align="center">
+<img align="center" src="fig/main_page9.png" width="260" height="150" />
+<img align="center" src="fig/main_page10.png" width="260" height="150"/>
+<img align="center" src="fig/main_page11.png" width="260" height="150"/>
+</p>
+
+Note: The "Adding geoparser" function may take some time to connect with your geoparser.
 
 
 ### View the evaluation result
