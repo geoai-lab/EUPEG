@@ -1,14 +1,10 @@
-# Extensible and Unified Platform for Evaluating Geoparsers
-
-### Enhancing spatial and textual analysis with EUPEG for Transaction GIS 
-The accepted pdf manuscript for Transactions in GIS included in this directory.
+# An Extensible and Unified Platform for Evaluating Geoparsers
 
 #### Overall description
-Geoparsers are useful tools that extract structured geographic information from unstructured texts, thereby enabling spatial analysis on textual data. While a number of geoparsers have been developed, they were tested on different datasets using different metrics. Therefore, it is difficult to directly compare the performances of existing geoparsers. This paper presents EUPEG: An Extensible and Unified Platform for Evaluating Geoparsers. EUPEG is an open source and Web based benchmarking platform which hosts a majority of open corpora, geoparsers, and performance metrics reported in the literature. A newly developed geoparser can be connected to EUPEG and compared with other geoparsers based on the hosted datasets and new datasets uploaded. The main objective of EUPEG is to reduce the time and efforts that researchers have to spend in preparing datasets and baselines, thereby facilitating effective and efficient comparisons of geoparsers. Consequently, we open the source codes of EUPEG so that it can be more convenient for other researchers to host their own data and tools.  
+Geoparsers are useful tools that extract structured geographic information from unstructured texts, thereby enabling spatial analysis on textual data. While a number of geoparsers have been developed, they were tested on different datasets using different metrics. Therefore, it is difficult to directly compare the performances of existing geoparsers. Here, we present EUPEG: An Extensible and Unified Platform for Evaluating Geoparsers. EUPEG is an open source and Web based benchmarking platform which hosts a majority of open corpora, geoparsers, and performance metrics reported in the literature. A newly developed geoparser can be connected to EUPEG and compared with other geoparsers based on the hosted datasets and new datasets uploaded. The main objective of EUPEG is to reduce the time and efforts that researchers have to spend in preparing datasets and baselines, thereby facilitating effective and efficient comparisons of geoparsers.  
 
 #### Resources
-This repository contains the accompanying data and source code for EUPEG proposed in the paper. Additional raw corpora dataset required as the files are too large for GitHub, please download files from:(https://path/download/the-raw-corpora). 
-
+This repository contains the source code of EUPEG as well as corpora under permitted licenses. 
 
 #### Repository organization
 
