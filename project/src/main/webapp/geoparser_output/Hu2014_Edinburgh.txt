@@ -1,0 +1,134 @@
+No Gaz,,Hempstead County,,33.7353,,-93.66844,,11,,27||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,Washington,,38.89511,,-77.03637,,30,,40||
+
+No Gaz,,Arkansas,,34.75037,,-92.50044,,20,,28||No Gaz,,Washington,,38.89511,,-77.03637,,69,,79||No Gaz,,America,,51.43667,,5.97917,,230,,237||
+
+No Gaz,,Washington,,38.89511,,-77.03637,,12,,22||No Gaz,,Woodbury,,44.92386,,-92.95938,,61,,69||No Gaz,,Litchfield,,41.74732,,-73.18872,,71,,81||No Gaz,,Kent,,41.15367,,-81.35789,,83,,87||No Gaz,,New Milford,,41.57704,,-73.40845,,93,,104||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,Washington,,38.89511,,-77.03637,,104,,114||
+No Gaz,,Washington,,38.89511,,-77.03637,,35,,45||No Gaz,,Parish of Judea,,4.41667,,-75.45,,105,,120||No Gaz,,Woodbury,,44.92386,,-92.95938,,137,,145||
+No Gaz,,George Washington,,22.59801,,-80.31392,,75,,92||
+No Gaz,,Washington,,38.89511,,-77.03637,,16,,26||
+No Gaz,,Washington,,38.89511,,-77.03637,,163,,173||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,Washington,,38.89511,,-77.03637,,44,,54||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||No Gaz,,Peoria,,40.69365,,-89.58899,,39,,45||No Gaz,,Illinois,,40.00032,,-89.25037,,75,,83||
+No Gaz,,Washington,,38.89511,,-77.03637,,36,,46||No Gaz,,Peoria,,40.69365,,-89.58899,,171,,177||No Gaz,,Fort Clark,,39.9873,,-80.67591,,184,,194||
+No Gaz,,Washington,,38.89511,,-77.03637,,186,,196||No Gaz,,Dorsey,,39.88757,,-80.87093,,231,,237||No Gaz,,Walthan,,,,,,239,,246||No Gaz,,Robinson,,41.02812,,-80.49479,,251,,259||
+No Gaz,,Washington,,38.89511,,-77.03637,,36,,46||No Gaz,,Deer Creek,,40.63004,,-89.33259,,77,,87||No Gaz,,Morton Townships,,,,,,92,,108||
+No Gaz,,Washington,,38.89511,,-77.03637,,30,,40||No Gaz,,Kentucky,,38.20042,,-84.87762,,94,,102||
+No Gaz,,Washington,,38.89511,,-77.03637,,82,,92||
+No Gaz,,Washington,,38.89511,,-77.03637,,65,,75||
+
+No Gaz,,Dorsey,,39.17733,,-76.74303,,0,,6||
+No Gaz,,Washington,,38.89511,,-77.03637,,60,,70||
+
+No Gaz,,Washington,,38.89511,,-77.03637,,20,,30||No Gaz,,Geo,,6.80448,,-58.15527,,67,,70||
+No Gaz,,Goodwin,,39.6798,,-80.91149,,77,,84||No Gaz,,Washington,,38.89511,,-77.03637,,108,,118||
+No Gaz,,Washington,,38.89511,,-77.03637,,27,,37||No Gaz,,Peoria,,40.69365,,-89.58899,,86,,92||
+No Gaz,,Tazewell County,,40.50752,,-89.51342,,93,,108||No Gaz,,Woodford county,,40.8467,,-89.02813,,121,,136||No Gaz,,Washington,,38.89511,,-77.03637,,179,,189||
+No Gaz,,city of Washington,,38.89511,,-77.03637,,32,,50||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,Washington,,38.89511,,-77.03637,,27,,37||No Gaz,,Illinois,,40.00032,,-89.25037,,125,,133||
+No Gaz,,city of Washington,,38.89511,,-77.03637,,4,,22||
+No Gaz,,Washington,,38.89511,,-77.03637,,8,,18||
+No Gaz,,Washington,,38.89511,,-77.03637,,23,,33||
+No Gaz,,Peoria,,40.69365,,-89.58899,,49,,55||No Gaz,,Washington,,38.89511,,-77.03637,,64,,74||No Gaz,,Chicago,,41.85003,,-87.65005,,91,,98||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,Washington,,40.70365,,-89.40731,,72,,82||No Gaz,,Illinois,,40.00032,,-89.25037,,84,,92||
+No Gaz,,Washington,,40.70365,,-89.40731,,70,,80||No Gaz,,Illinois,,40.00032,,-89.25037,,82,,90||
+No Gaz,,City of Washington,,38.89511,,-77.03637,,4,,22||
+No Gaz,,Washington,,38.89511,,-77.03637,,28,,38||No Gaz,,Iowa,,42.00027,,-93.50049,,70,,74||No Gaz,,Iowa City,,41.66113,,-91.53017,,100,,109||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||No Gaz,,Washington County,,41.62732,,-71.45339,,51,,68||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||No Gaz,,Washington,,38.89511,,-77.03637,,95,,105||No Gaz,,Washington county,,38.89511,,-77.03637,,137,,154||
+No Gaz,,Central Park,,40.94754,,-90.37096,,59,,71||No Gaz,,Washington,,38.89511,,-77.03637,,84,,94||
+No Gaz,,Central Park,,46.97343,,-123.69239,,43,,55||
+No Gaz,,Washington,,38.89511,,-77.03637,,288,,298||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||No Gaz,,Kansas,,38.50029,,-98.50063,,39,,45||No Gaz,,US,,39.76,,-98.5,,49,,51||No Gaz,,Washington County,,36.71524,,-95.90437,,91,,108||
+No Gaz,,Washington,,38.89511,,-77.03637,,101,,111||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||
+
+
+No Gaz,,Washington City,,38.89511,,-77.03637,,68,,83||
+No Gaz,,Washington,,38.89511,,-77.03637,,242,,252||
+No Gaz,,Washington,,35.05896,,-97.48448,,34,,44||No Gaz,,Kansas,,38.50029,,-98.50063,,46,,52||
+No Gaz,,Washington,,38.89511,,-77.03637,,13,,23||
+No Gaz,,Washington,,38.89511,,-77.03637,,28,,38||
+No Gaz,,Washington,,38.89511,,-77.03637,,70,,80||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||
+
+No Gaz,,City of Washington,,38.89511,,-77.03637,,4,,22||
+No Gaz,,Washington city,,38.89511,,-77.03637,,122,,137||
+No Gaz,,Washington,,38.89511,,-77.03637,,42,,52||No Gaz,,Louisiana,,31.00047,,-92.0004,,85,,94||
+No Gaz,,Washington,,38.89511,,-77.03637,,106,,116||
+No Gaz,,Washington,,38.89511,,-77.03637,,12,,22||No Gaz,,Williamsburg,,38.92032,,-91.70156,,34,,46||
+No Gaz,,Washington,,38.89511,,-77.03637,,37,,47||
+No Gaz,,New Orleans,,29.95465,,-90.07507,,41,,52||No Gaz,,Washington,,38.89511,,-77.03637,,110,,120||
+No Gaz,,Washington,,38.89511,,-77.03637,,44,,54||No Gaz,,Bayou Courtableau,,30.45381,,-91.74317,,138,,155||
+No Gaz,,Washington,,38.89511,,-77.03637,,9,,19||No Gaz,,Washington,,38.89511,,-77.03637,,71,,81||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,Washington,,38.89511,,-77.03637,,29,,39||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||No Gaz,,Maine,,45.50032,,-69.24977,,12,,17||No Gaz,,Knox County,,44.07575,,-69.12598,,109,,120||No Gaz,,Rockland,,42.13066,,-70.91616,,149,,157||No Gaz,,Augusta,,44.31062,,-69.77949,,183,,190||
+No Gaz,,Washington,,38.89511,,-77.03637,,43,,53||
+No Gaz,,Washington Village,,44.27369,,-69.36727,,199,,217||No Gaz,,West Washington,,44.26091,,-69.44088,,219,,234||No Gaz,,Razorville,,44.27646,,-69.39699,,236,,246||No Gaz,,Stickney Corners,,,,,,252,,268||
+No Gaz,,Washington Pond,,44.28907,,-69.37396,,19,,34||No Gaz,,Crystal Lake,,44.73339,,-72.15398,,39,,51||
+No Gaz,,Medomak River,,44.00897,,-69.3831,,64,,77||No Gaz,,Washington,,38.89511,,-77.03637,,83,,93||No Gaz,,Calderwood,,44.01917,,-80.86833,,98,,108||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||No Gaz,,New Jersey,,40.16706,,-74.49987,,46,,56||No Gaz,,Warren County,,40.85725,,-74.99702,,60,,73||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,Pohatcong Mountain,,40.73038,,-75.01739,,166,,184||No Gaz,,Phillipsburg,,40.69371,,-75.19018,,290,,302||No Gaz,,Washington,,38.89511,,-77.03637,,330,,340||
+No Gaz,,Upper Pohatcong Mountain,,40.84177,,-74.86128,,0,,24||No Gaz,,Washington,,38.89511,,-77.03637,,46,,56||No Gaz,,Hackettstown,,40.85399,,-74.82906,,103,,115||
+No Gaz,,Washington Borough,,38.89511,,-77.03637,,0,,18||No Gaz,,Washington,,38.89511,,-77.03637,,71,,81||
+No Gaz,,Washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,Washington,,38.89511,,-77.03637,,53,,63||
+
+No Gaz,,Washington,,38.89511,,-77.03637,,32,,42||
+No Gaz,,Washington Borough,,38.89511,,-77.03637,,122,,140||
+No Gaz,,Washington,,38.89511,,-77.03637,,204,,214||No Gaz,,Lehigh,,39.1465,,-76.62663,,241,,247||No Gaz,,York City,,39.9626,,-76.72774,,281,,290||
+No Gaz,,Washington,,38.89511,,-77.03637,,61,,71||
+No Gaz,,Washington,,38.89511,,-77.03637,,56,,66||
+No Gaz,,Washington,,38.89511,,-77.03637,,29,,39||No Gaz,,North Carolina,,35.50069,,-80.00032,,41,,55||No Gaz,,America,,51.43667,,5.97917,,79,,86||No Gaz,,George Washington,,22.59801,,-80.31392,,111,,128||
+No Gaz,,Washington,,38.89511,,-77.03637,,72,,82||No Gaz,,Washington,,38.89511,,-77.03637,,124,,134||
+No Gaz,,Washington,,38.89511,,-77.03637,,52,,62||No Gaz,,Washington,,38.89511,,-77.03637,,214,,224||No Gaz,,North Carolina,,35.50069,,-80.00032,,226,,240||
+No Gaz,,Little Washington,,40.69589,,-82.47267,,62,,79||No Gaz,,Blue Ridge Mountains,,35.76428,,-82.26568,,120,,140||
+No Gaz,,Little Washington,,40.69589,,-82.47267,,246,,263||No Gaz,,George Washington,,22.59801,,-80.31392,,673,,690||
+No Gaz,,Washington,,38.89511,,-77.03637,,12,,22||No Gaz,,Little Washington,,38.854,,-76.84775,,91,,108||No Gaz,,Washington, DC.,,38.89511,,-77.03637,,136,,151||
+No Gaz,,Little Washington,,40.69589,,-82.47267,,0,,17||
+No Gaz,,Little Washington,,40.69589,,-82.47267,,223,,240||
+No Gaz,,Washington,,38.89511,,-77.03637,,6,,16||No Gaz,,Rappahannock County,,38.68471,,-78.15925,,46,,65||No Gaz,,Little Washington,,39.04039,,-77.59499,,108,,125||
+No Gaz,,Little Washington,,40.69589,,-82.47267,,267,,284||
+No Gaz,,Greenville,,35.61266,,-77.36635,,75,,85||
+No Gaz,,Greenville,,35.61266,,-77.36635,,19,,29||
+No Gaz,,Montgomery,,32.36681,,-86.29997,,35,,45||No Gaz,,U.S.,,39.76,,-98.5,,60,,64||No Gaz,,Greenville,,33.41012,,-91.06177,,104,,114||No Gaz,,Butler County,,41.22608,,-97.13177,,149,,162||
+No Gaz,,Greenville,,35.61266,,-77.36635,,80,,90||
+No Gaz,,Greenville,,35.61266,,-77.36635,,142,,152||No Gaz,,Camellia City,,-33.81975,,151.02643,,158,,171||
+No Gaz,,Greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,Meriwether County,,33.04066,,-84.68831,,31,,48||
+No Gaz,,Meriwether County,,33.04066,,-84.68831,,83,,100||No Gaz,,Greenville,,34.85262,,-82.39401,,115,,125||
+No Gaz,,Meriwether County,,33.04066,,-84.68831,,24,,41||No Gaz,,Greenville,,34.85262,,-82.39401,,87,,97||No Gaz,,Manchester,,53.48095,,-2.23743,,146,,156||
+No Gaz,,Lone Oak,,33.17179,,-84.81604,,40,,48||No Gaz,,Luthersville,,33.21012,,-84.74438,,50,,62||No Gaz,,Woodbury,,32.98374,,-84.5827,,82,,90||No Gaz,,City of Greenville,,33.03224,,-84.71622,,122,,140||
+No Gaz,,Greenville,,33.41012,,-91.06177,,0,,10||No Gaz,,Illinois,,40.00032,,-89.25037,,12,,20||No Gaz,,Bond County,,38.88682,,-89.43555,,33,,44||
+No Gaz,,Greenville,,35.61266,,-77.36635,,0,,10||
+No Gaz,,Greenville,,35.61266,,-77.36635,,0,,10||
+No Gaz,,Greenville,,35.61266,,-77.36635,,0,,10||
+No Gaz,,Greenville,,39.14088,,-87.30196,,11,,21||No Gaz,,Indiana,,40.00032,,-86.25027,,23,,30||
+No Gaz,,Floyd County,,36.93149,,-80.36255,,9,,21||No Gaz,,Greenville,,34.85262,,-82.39401,,33,,43||
+No Gaz,,Western Kentucky,,,,,,35,,51||No Gaz,,Greenville,,35.61266,,-77.36635,,53,,63||
+No Gaz,,Greenville,,35.61266,,-77.36635,,0,,10||
+No Gaz,,Greenville,,35.61266,,-77.36635,,13,,23||
+No Gaz,,Greenville,,33.41012,,-91.06177,,0,,10||No Gaz,,Mississippi,,32.75041,,-89.75036,,12,,23||
+No Gaz,,Greenville,,35.61266,,-77.36635,,0,,10||
+No Gaz,,Mississippi,,32.75041,,-89.75036,,50,,61||No Gaz,,Greenville,,33.41012,,-91.06177,,63,,73||
+
+No Gaz,,City of Greenville,,5.01133,,-9.0388,,110,,128||
+No Gaz,,East Carolina,,,,,,18,,31||No Gaz,,Greenville,,35.61266,,-77.36635,,33,,43||
+No Gaz,,Greenville,,35.61266,,-77.36635,,242,,252||
+No Gaz,,Greenville,,35.61266,,-77.36635,,192,,202||
+No Gaz,,Greenville,,35.61266,,-77.36635,,58,,68||
+No Gaz,,North Carolina,,35.50069,,-80.00032,,137,,151||No Gaz,,Greenville,,35.61266,,-77.36635,,210,,220||No Gaz,,Pitt County,,35.59352,,-77.37465,,225,,236||
+No Gaz,,Greenville,,35.61266,,-77.36635,,414,,424||
+No Gaz,,Greenville,,35.61266,,-77.36635,,87,,97||No Gaz,,North Carolina,,35.50069,,-80.00032,,99,,113||
+No Gaz,,Borough of Greenville,,5.01133,,-9.0388,,4,,25||
+No Gaz,,Borough of Greenville,,5.01133,,-9.0388,,4,,25||
+No Gaz,,Borough of Greenville,,5.01133,,-9.0388,,70,,91||
+No Gaz,,Borough of Greenville,,5.01133,,-9.0388,,4,,25||

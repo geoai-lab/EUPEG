@@ -1,0 +1,134 @@
+Hempstead County,,Hempstead County,,33.7353,,-93.66844,,11,,27||Washington State Park,,Washington State Park,,30.32604,,-96.15246,,65,,86||
+Washington,,Washington,,39.81806,,-97.05086,,0,,10||
+Washington,,Washington,,39.81806,,-97.05086,,30,,40||
+Arkansas,,Arkansas,,34.75037,,-92.50044,,55,,63||
+Arkansas,,Arkansas,,34.75037,,-92.50044,,20,,28||Washington,,Washington,,36.38367,,-90.87568,,69,,79||America,,America,,39.76,,-98.5,,230,,237||
+Washington State Park,,Washington State Park,,30.32604,,-96.15246,,30,,51||
+Woodbury,,Woodbury,,44.92386,,-92.95938,,61,,69||Litchfield,,Litchfield,,33.4356,,-112.3496,,71,,81||New Milford,,New Milford,,40.9351,,-74.01903,,93,,104||
+Washington,,Washington,,39.81806,,-97.05086,,0,,10||
+Washington,,Washington,,47.50012,,-120.50147,,104,,114||
+Washington,,Washington,,31.57878,,-91.29928,,35,,45||
+
+Washington,,Washington,,39.81806,,-97.05086,,16,,26||
+
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||
+Washington,,Washington,,39.81806,,-97.05086,,44,,54||
+Washington,,Washington,,40.70365,,-89.40731,,0,,10||Peoria,,Peoria,,40.69365,,-89.58899,,39,,45||Illinois,,Illinois,,40.00032,,-89.25037,,75,,83||
+Washington,,Washington,,40.70365,,-89.40731,,36,,46||Peoria,,Peoria,,33.5806,,-112.23738,,171,,177||Fort Clark,,Fort Clark,,39.17862,,-94.19328,,184,,194||
+Holland,,Holland,,46.72544,,-117.12378,,22,,29||Washington,,Washington,,54.9,,-1.51667,,186,,196||Holland,,Holland,,46.72544,,-117.12378,,222,,229||
+Washington,,Washington,,40.70365,,-89.40731,,36,,46||
+Washington,,Washington,,39.89255,,-85.04163,,30,,40||Kentucky,,Kentucky,,38.20042,,-84.87762,,94,,102||
+Holland,,Holland,,46.72544,,-117.12378,,0,,7||Washington,,Washington,,54.9,,-1.51667,,82,,92||
+Washington,,Washington,,47.50012,,-120.50147,,65,,75||
+Washington,,Washington,,47.50012,,-120.50147,,52,,62||
+Washington,,Washington,,47.50012,,-120.50147,,57,,67||
+Washington,,Washington,,47.50012,,-120.50147,,60,,70||Main,,Main,,36.10503,,-104.28637,,120,,124||
+
+Washington,,Washington,,39.81806,,-97.05086,,20,,30||
+Washington,,Washington,,47.50012,,-120.50147,,108,,118||
+Washington,,Washington,,40.70365,,-89.40731,,27,,37||Peoria,,Peoria,,33.5806,,-112.23738,,86,,92||
+Tazewell County,,Tazewell County,,40.50752,,-89.51342,,93,,108||Woodford,,Woodford,,42.64862,,-89.86262,,121,,129||Washington,,Washington,,40.70365,,-89.40731,,179,,189||
+Washington,,Washington,,39.81806,,-97.05086,,40,,50||
+Washington,,Washington,,39.81806,,-97.05086,,0,,10||
+Washington,,Washington,,40.70365,,-89.40731,,27,,37||State of Illinois,,State of Illinois,,40.00032,,-89.25037,,116,,133||
+Washington,,Washington,,47.50012,,-120.50147,,12,,22||
+Washington,,Washington,,39.81806,,-97.05086,,8,,18||
+Washington,,Washington,,39.81806,,-97.05086,,23,,33||
+Peoria,,Peoria,,40.69365,,-89.58899,,49,,55||Washington,,Washington,,40.70365,,-89.40731,,64,,74||Chicago,,Chicago,,41.85003,,-87.65005,,91,,98||
+Washington,,Washington,,40.70365,,-89.40731,,0,,10||
+
+
+
+Washington,,Washington,,41.29918,,-91.69294,,28,,38||Iowa,,Iowa,,42.00027,,-93.50049,,70,,74||Iowa,,Iowa,,42.00027,,-93.50049,,100,,104||
+Washington,,Washington,,44.27369,,-69.36727,,0,,10||Washington County,,Washington County,,45.56007,,-123.09849,,51,,68||
+Washington,,Washington,,40.70365,,-89.40731,,0,,10||Washington,,Washington,,40.70365,,-89.40731,,95,,105||Washington,,Washington,,40.70365,,-89.40731,,137,,147||Washington,,Washington,,40.70365,,-89.40731,,226,,236||
+Central Park,,Central Park,,46.97343,,-123.69239,,59,,71||Washington,,Washington,,41.63148,,-73.31067,,84,,94||
+Central Park,,Central Park,,46.97343,,-123.69239,,43,,55||Washington,,Washington,,41.63148,,-73.31067,,79,,89||
+Washington,,Washington,,31.57878,,-91.29928,,288,,298||
+Washington,,Washington,,39.81806,,-97.05086,,0,,10||
+Washington,,Washington,,39.81806,,-97.05086,,0,,10||Kansas,,Kansas,,38.50029,,-98.50063,,39,,45||US,,US,,62.49536,,11.22807,,49,,51||Washington County,,Washington County,,39.7842,,-97.08754,,91,,108||
+Washington,,Washington,,39.81806,,-97.05086,,101,,111||
+Washington,,Washington,,31.57878,,-91.29928,,0,,10||
+Washington,,Washington,,39.81806,,-97.05086,,0,,10||
+
+Washington City Park,,Washington City Park,,43.59182,,-119.0516,,68,,88||
+Washington,,Washington,,47.50012,,-120.50147,,242,,252||
+Washington,,Washington,,39.81806,,-97.05086,,34,,44||Kansas,,Kansas,,38.50029,,-98.50063,,46,,52||
+Washington,,Washington,,39.81806,,-97.05086,,13,,23||
+Washington,,Washington,,39.81806,,-97.05086,,28,,38||
+Washington,,Washington,,47.50012,,-120.50147,,70,,80||
+Washington,,Washington,,39.81806,,-97.05086,,0,,10||
+
+
+Washington,,Washington,,47.50012,,-120.50147,,122,,132||
+Washington,,Washington,,32.50441,,-93.77411,,42,,52||Louisiana,,Louisiana,,31.00047,,-92.0004,,85,,94||
+Washington,,Washington,,47.50012,,-120.50147,,106,,116||
+Virginia,,Virginia,,38.26697,,-94.49579,,53,,61||
+Washington,,Washington,,32.50441,,-93.77411,,37,,47||Louisiana,,Louisiana,,31.00047,,-92.0004,,76,,85||
+New Orleans,,New Orleans,,29.95465,,-90.07507,,41,,52||Washington,,Washington,,30.61631,,-92.05706,,110,,120||
+Washington,,Washington,,31.57878,,-91.29928,,44,,54||
+Washington,,Washington,,31.57878,,-91.29928,,9,,19||Washington,,Washington,,31.57878,,-91.29928,,71,,81||Louisiana,,Louisiana,,31.00047,,-92.0004,,116,,125||
+Washington,,Washington,,31.57878,,-91.29928,,0,,10||
+Washington,,Washington,,39.81806,,-97.05086,,29,,39||
+Washington,,Washington,,44.4902,,-69.84188,,0,,10||Maine,,Maine,,45.50032,,-69.24977,,12,,17||Knox County,,Knox County,,35.99322,,-83.93709,,109,,120||Rockland,,Rockland,,42.13066,,-70.91616,,149,,157||Augusta,,Augusta,,44.31062,,-69.77949,,183,,190||
+Washington,,Washington,,39.81806,,-97.05086,,43,,53||Washington,,Washington,,39.81806,,-97.05086,,85,,95||
+Washington Village,,Washington Village,,38.5915,,-75.2913,,199,,217||West Washington,,West Washington,,38.90483,,-77.06248,,219,,234||
+
+Washington,,Washington,,47.50012,,-120.50147,,83,,93||
+Washington,,Washington,,42.73008,,-73.70123,,0,,10||New Jersey,,New Jersey,,40.16706,,-74.49987,,46,,56||Warren County,,Warren County,,39.42758,,-84.16676,,60,,73||
+Washington,,Washington,,42.73008,,-73.70123,,0,,10||Washington Township,,Washington Township,,40.3943,,-75.60873,,120,,139||
+Pohatcong Mountain,,Pohatcong Mountain,,40.73038,,-75.01739,,166,,184||Appalachian Mountains,,Appalachian Mountains,,40.00037,,-78.0,,245,,266||Phillipsburg,,Phillipsburg,,40.69371,,-75.19018,,290,,302||Washington,,Washington,,42.73008,,-73.70123,,330,,340||
+Upper Pohatcong Mountain,,Upper Pohatcong Mountain,,40.84177,,-74.86128,,0,,24||Washington,,Washington,,31.57878,,-91.29928,,46,,56||Hackettstown,,Hackettstown,,40.85399,,-74.82906,,103,,115||
+Washington Township,,Washington Township,,44.2734,,-69.39105,,71,,90||
+Washington,,Washington,,39.81806,,-97.05086,,0,,10||
+Washington Station,,Washington Station,,41.46477,,-83.95244,,53,,71||
+Mecca,,Mecca,,21.62425,,41.20422,,316,,321||
+Washington,,Washington,,39.81806,,-97.05086,,32,,42||
+
+Washington,,Washington,,42.73008,,-73.70123,,204,,214||Lehigh Valley,,Lehigh Valley,,40.6701,,-75.49546,,241,,254||New York City,,New York City,,40.71427,,-74.00597,,277,,290||
+Washington,,Washington,,47.50012,,-120.50147,,61,,71||
+Washington,,Washington,,47.50012,,-120.50147,,56,,66||
+Washington,,Washington,,35.54655,,-77.05217,,29,,39||North Carolina,,North Carolina,,35.50069,,-80.00032,,41,,55||America,,America,,39.76,,-98.5,,79,,86||
+Washington,,Washington,,47.50012,,-120.50147,,72,,82||Washington,,Washington,,47.50012,,-120.50147,,124,,134||Main Street,,Main Street,,44.01927,,12.5465,,300,,311||
+Washington,,Washington,,35.54655,,-77.05217,,52,,62||Washington,,Washington,,35.54655,,-77.05217,,214,,224||North Carolina,,North Carolina,,35.50069,,-80.00032,,226,,240||
+Blue Ridge Mountains,,Blue Ridge Mountains,,33.15734,,-86.15025,,120,,140||
+South,,South,,37.32922,,-86.3647,,345,,350||Washington,,Washington,,42.72448,,-83.03604,,575,,585||Virginia,,Virginia,,47.70732,,-122.63737,,587,,595||
+
+Washington,,Washington,,39.26119,,-81.6718,,7,,17||Historic District,,Historic District,,35.66819,,-80.46867,,266,,283||
+
+Washington,,Washington,,40.17396,,-80.24617,,6,,16||Rappahannock County,,Rappahannock County,,38.68471,,-78.15925,,46,,65||
+Virginia,,Virginia,,37.54812,,-77.44675,,77,,85||Shenandoah National Park,,Shenandoah National Park,,38.49177,,-78.4691,,118,,142||Little Washington,,Little Washington,,38.854,,-76.84775,,267,,284||
+Gulf Coast,,Gulf Coast,,29.36901,,-95.00565,,44,,54||Greenville,,Greenville,,35.61266,,-77.36635,,75,,85||
+Greenville,,Greenville,,35.61266,,-77.36635,,19,,29||
+Montgomery,,Montgomery,,32.36681,,-86.29997,,35,,45||Alabama,,Alabama,,32.75041,,-86.75026,,72,,79||Butler County,,Butler County,,39.43865,,-84.57566,,149,,162||
+Greenville,,Greenville,,35.61266,,-77.36635,,80,,90||
+Greenville,,Greenville,,-32.85298,,117.32251,,142,,152||
+Greenville,,Greenville,,35.61266,,-77.36635,,0,,10||Meriwether County,,Meriwether County,,33.04066,,-84.68831,,31,,48||
+Meriwether County,,Meriwether County,,33.04066,,-84.68831,,83,,100||Greenville,,Greenville,,35.61266,,-77.36635,,115,,125||
+Meriwether County,,Meriwether County,,33.04066,,-84.68831,,24,,41||Manchester,,Manchester,,33.59205,,-86.31026,,146,,156||
+Gay,,Gay,,43.04825,,-112.1183,,35,,38||Lone Oak,,Lone Oak,,38.14118,,-85.68774,,40,,48||Luthersville,,Luthersville,,35.56931,,-80.58173,,50,,62||Warm Springs,,Warm Springs,,37.54827,,-121.98857,,64,,76||City of Greenville,,City of Greenville,,35.59586,,-77.3764,,122,,140||
+Greenville,,Greenville,,35.61266,,-77.36635,,0,,10||Illinois,,Illinois,,40.00032,,-89.25037,,12,,20||Bond County,,Bond County,,38.88682,,-89.43555,,33,,44||
+
+Greenville,,Greenville,,35.61266,,-77.36635,,0,,10||
+
+Greenville,,Greenville,,35.61266,,-77.36635,,11,,21||Indiana,,Indiana,,40.00032,,-86.25027,,23,,30||
+Greenville,,Greenville,,35.61266,,-77.36635,,33,,43||
+Greenville,,Greenville,,35.61266,,-77.36635,,53,,63||
+
+
+Greenville,,Greenville,,33.41012,,-91.06177,,0,,10||Mississippi,,Mississippi,,32.75041,,-89.75036,,12,,23||
+Delta,,Delta,,39.35218,,-112.57717,,40,,45||
+State of Mississippi,,State of Mississippi,,32.75041,,-89.75036,,41,,61||Greenville,,Greenville,,33.4765,,-92.13208,,63,,73||
+Greenville,,Greenville,,35.61266,,-77.36635,,9,,19||
+City of Greenville,,City of Greenville,,35.59586,,-77.3764,,110,,128||
+Greenville,,Greenville,,35.61266,,-77.36635,,33,,43||
+Greenville,,Greenville,,35.61266,,-77.36635,,242,,252||
+
+
+North Carolina,,North Carolina,,35.50069,,-80.00032,,137,,151||East,,East,,42.06121,,-71.86396,,159,,163||Greenville,,Greenville,,35.61266,,-77.36635,,210,,220||Pitt County,,Pitt County,,35.59352,,-77.37465,,225,,236||
+Greenville,,Greenville,,35.61266,,-77.36635,,414,,424||
+Greenville,,Greenville,,35.61266,,-77.36635,,87,,97||North Carolina,,North Carolina,,35.50069,,-80.00032,,99,,113||
+
+Greenville,,Greenville,,35.61266,,-77.36635,,15,,25||
+
+

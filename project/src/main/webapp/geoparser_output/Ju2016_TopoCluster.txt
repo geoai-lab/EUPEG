@@ -1,0 +1,5441 @@
+No Gaz,,washington,,38.89511,,-77.03637,,134,,144||
+No Gaz,,washington,,38.89511,,-77.03637,,61,,71||No Gaz,,washington,,38.89511,,-77.03637,,95,,105||
+No Gaz,,washington,,38.89511,,-77.03637,,30,,40||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,hempstead county,,33.7353,,-93.66844,,24,,40||
+No Gaz,,washington,,38.89511,,-77.03637,,98,,108||
+
+No Gaz,,washington,,38.89511,,-77.03637,,31,,41||
+No Gaz,,washington,,38.89511,,-77.03637,,12,,22||No Gaz,,washington,,38.89511,,-77.03637,,136,,146||
+No Gaz,,washington depot,,41.64093,,-73.31595,,87,,103||No Gaz,,litchfield county,,41.79249,,-73.24532,,105,,122||No Gaz,,washington,,38.89511,,-77.03637,,12,,22||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,roxbury,,42.3251,,-71.09533,,98,,105||
+No Gaz,,washington,,38.89511,,-77.03637,,99,,109||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+
+No Gaz,,washington,,38.89511,,-77.03637,,12,,22||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,wilkes county,,36.20621,,-81.16292,,57,,70||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,washington,,38.89511,,-77.03637,,65,,75||
+No Gaz,,washington,,38.89511,,-77.03637,,2,,12||
+No Gaz,,washington,,38.89511,,-77.03637,,882,,892||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,tazewell county,,37.12497,,-81.56066,,24,,39||
+No Gaz,,washington,,38.89511,,-77.03637,,15,,25||
+No Gaz,,washington,,38.89511,,-77.03637,,100,,110||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+
+No Gaz,,washington,,38.89511,,-77.03637,,128,,138||
+No Gaz,,washington county,,39.60367,,-77.81398,,125,,142||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,daviess county,,38.70241,,-87.07207,,24,,38||
+No Gaz,,washington,,38.89511,,-77.03637,,101,,111||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+
+No Gaz,,washington,,38.89511,,-77.03637,,152,,162||
+No Gaz,,washington,,38.89511,,-77.03637,,5,,15||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,daviess county,,38.70241,,-87.07207,,32,,46||
+No Gaz,,washington county,,39.60367,,-77.81398,,72,,89||
+No Gaz,,new philadelphia,,40.48979,,-81.44567,,195,,211||No Gaz,,washington,,38.89511,,-77.03637,,28,,38||No Gaz,,washington county,,39.60367,,-77.81398,,28,,45||
+No Gaz,,washington county,,39.60367,,-77.81398,,0,,17||
+No Gaz,,washington,,38.89511,,-77.03637,,33,,43||
+No Gaz,,u.s.,,45.679546,,-112.46167,,42,,46||No Gaz,,washington county,,39.60367,,-77.81398,,0,,17||
+No Gaz,,washington county,,39.60367,,-77.81398,,0,,17||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,washington,,38.89511,,-77.03637,,100,,110||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+
+No Gaz,,washington county,,39.60367,,-77.81398,,8,,25||No Gaz,,washington,,38.89511,,-77.03637,,8,,18||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,washington county,,39.60367,,-77.81398,,47,,64||No Gaz,,united states,,45.679546,,-112.46167,,68,,81||
+No Gaz,,washington,,38.89511,,-77.03637,,47,,57||
+No Gaz,,washington,,38.89511,,-77.03637,,103,,113||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,washington county,,39.60367,,-77.81398,,85,,102||
+No Gaz,,washington,,38.89511,,-77.03637,,63,,73||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,washington county,,39.60367,,-77.81398,,47,,64||No Gaz,,united states,,45.679546,,-112.46167,,68,,81||
+No Gaz,,washington,,38.89511,,-77.03637,,98,,108||
+
+No Gaz,,washington,,38.89511,,-77.03637,,12,,22||
+No Gaz,,washington,,38.89511,,-77.03637,,23,,33||
+No Gaz,,washington,,38.89511,,-77.03637,,23,,33||
+
+No Gaz,,washington,,38.89511,,-77.03637,,11,,21||
+No Gaz,,washington,,38.89511,,-77.03637,,72,,82||
+No Gaz,,washington county,,39.60367,,-77.81398,,0,,17||No Gaz,,washington county,,39.60367,,-77.81398,,155,,172||
+No Gaz,,washington county,,39.60367,,-77.81398,,0,,17||
+No Gaz,,washington county,,39.60367,,-77.81398,,11,,28||
+No Gaz,,washington county,,39.60367,,-77.81398,,0,,17||
+No Gaz,,maysville,,38.64119,,-83.74436,,117,,126||No Gaz,,washington,,38.89511,,-77.03637,,128,,138||
+No Gaz,,maysville,,38.64119,,-83.74436,,56,,65||No Gaz,,washington,,38.89511,,-77.03637,,67,,77||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,washington,,38.89511,,-77.03637,,107,,117||No Gaz,,washington,,38.89511,,-77.03637,,204,,214||
+No Gaz,,washington,,38.89511,,-77.03637,,115,,125||
+No Gaz,,washington,,38.89511,,-77.03637,,57,,67||
+No Gaz,,maysville,,38.64119,,-83.74436,,33,,42||No Gaz,,washington,,38.89511,,-77.03637,,73,,83||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,mason county,,40.23965,,-89.91678,,53,,65||
+No Gaz,,washington,,38.89511,,-77.03637,,22,,32||No Gaz,,washington,,38.89511,,-77.03637,,153,,163||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,united states,,45.679546,,-112.46167,,45,,58||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,washington,,38.89511,,-77.03637,,100,,110||
+
+No Gaz,,washington,,38.89511,,-77.03637,,4,,14||
+No Gaz,,washington,,38.89511,,-77.03637,,100,,110||
+No Gaz,,washington county,,39.60367,,-77.81398,,0,,17||
+No Gaz,,washington,,38.89511,,-77.03637,,64,,74||
+No Gaz,,washington,,38.89511,,-77.03637,,50,,60||
+No Gaz,,washington,,38.89511,,-77.03637,,18,,28||
+No Gaz,,washington,,38.89511,,-77.03637,,3,,13||
+No Gaz,,mount washington,,44.26667,,-71.3,,133,,149||No Gaz,,berkshire county,,42.37067,,-73.2064,,153,,169||
+
+
+No Gaz,,washington county,,39.60367,,-77.81398,,0,,17||No Gaz,,yazoo county,,32.78031,,-90.39642,,125,,137||
+No Gaz,,washington county,,39.60367,,-77.81398,,0,,17||No Gaz,,yazoo,,32.5,,-90.5,,36,,41||
+No Gaz,,washington,,38.89511,,-77.03637,,36,,46||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,united states,,45.679546,,-112.46167,,137,,150||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,franklin county,,39.41486,,-85.06028,,38,,53||
+No Gaz,,washington,,38.89511,,-77.03637,,74,,84||
+No Gaz,,washington,,38.89511,,-77.03637,,101,,111||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+
+
+No Gaz,,washington county,,39.60367,,-77.81398,,4,,21||
+
+No Gaz,,washington,,38.89511,,-77.03637,,25,,35||
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||No Gaz,,washington,,38.89511,,-77.03637,,73,,83||No Gaz,,washington,,38.89511,,-77.03637,,196,,206||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,washington,,38.89511,,-77.03637,,22,,32||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,washington,,38.89511,,-77.03637,,99,,109||
+
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,warren county,,40.84883,,-90.61503,,27,,40||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,washington,,38.89511,,-77.03637,,111,,121||
+No Gaz,,washington,,38.89511,,-77.03637,,101,,111||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,beaufort county,,32.35706,,-80.69217,,24,,39||
+No Gaz,,washington,,38.89511,,-77.03637,,12,,22||
+No Gaz,,washington,,38.89511,,-77.03637,,102,,112||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+
+No Gaz,,washington,,38.89511,,-77.03637,,53,,63||No Gaz,,washington,,38.89511,,-77.03637,,172,,182||
+No Gaz,,washington,,38.89511,,-77.03637,,5,,15||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,beaufort county,,32.35706,,-80.69217,,32,,47||
+No Gaz,,washington,,38.89511,,-77.03637,,98,,108||
+
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,mcclain county,,39.0,,-77.0,,24,,38||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+
+No Gaz,,washington,,38.89511,,-77.03637,,73,,83||
+No Gaz,,washington,,38.89511,,-77.03637,,75,,85||
+No Gaz,,washington,,38.89511,,-77.03637,,63,,73||
+No Gaz,,washington county,,39.60367,,-77.81398,,26,,43||
+No Gaz,,topeka,,39.04833,,-95.67804,,58,,64||No Gaz,,washington county,,39.60367,,-77.81398,,22,,39||No Gaz,,bartlesville,,36.74731,,-95.98082,,148,,160||
+No Gaz,,washington county,,39.60367,,-77.81398,,58,,75||
+No Gaz,,washington county,,39.60367,,-77.81398,,52,,69||
+No Gaz,,washington county,,39.60367,,-77.81398,,0,,17||
+No Gaz,,washington,,38.89511,,-77.03637,,101,,111||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,washington county,,39.60367,,-77.81398,,24,,41||No Gaz,,united states,,45.679546,,-112.46167,,45,,58||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,washington county,,39.60367,,-77.81398,,24,,41||No Gaz,,united states,,45.679546,,-112.46167,,45,,58||
+No Gaz,,washington,,38.89511,,-77.03637,,101,,111||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,washington,,38.89511,,-77.03637,,21,,31||
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||No Gaz,,washington,,38.89511,,-77.03637,,73,,83||No Gaz,,washington,,38.89511,,-77.03637,,196,,206||
+No Gaz,,washington,,38.89511,,-77.03637,,412,,422||
+No Gaz,,washington,,38.89511,,-77.03637,,48,,58||
+No Gaz,,washington,,38.89511,,-77.03637,,22,,32||
+No Gaz,,washington,,38.89511,,-77.03637,,100,,110||
+No Gaz,,washington,,38.89511,,-77.03637,,134,,144||No Gaz,,washington,,38.89511,,-77.03637,,472,,482||
+No Gaz,,washington,,38.89511,,-77.03637,,266,,276||
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||No Gaz,,rappahannock county,,38.68471,,-78.15925,,24,,43||
+No Gaz,,washington,,38.89511,,-77.03637,,134,,144||No Gaz,,washington,,38.89511,,-77.03637,,472,,482||
+No Gaz,,washington,,38.89511,,-77.03637,,266,,276||
+No Gaz,,washington,,38.89511,,-77.03637,,20,,30||
+No Gaz,,washington,,38.89511,,-77.03637,,8,,18||
+No Gaz,,washington,,38.89511,,-77.03637,,47,,57||
+No Gaz,,washington,,38.89511,,-77.03637,,66,,76||
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,washington,,38.89511,,-77.03637,,51,,61||
+No Gaz,,washington,,38.89511,,-77.03637,,101,,111||
+
+No Gaz,,washington,,38.89511,,-77.03637,,0,,10||
+No Gaz,,washington,,38.89511,,-77.03637,,47,,57||
+No Gaz,,washington,,38.89511,,-77.03637,,4,,14||No Gaz,,washington,,38.89511,,-77.03637,,85,,95||
+No Gaz,,washington,,38.89511,,-77.03637,,25,,35||
+No Gaz,,united states,,45.679546,,-112.46167,,102,,115||No Gaz,,washington,,38.89511,,-77.03637,,73,,83||No Gaz,,washington,,38.89511,,-77.03637,,197,,207||
+No Gaz,,washington county,,39.60367,,-77.81398,,30,,47||
+No Gaz,,washington county,,39.60367,,-77.81398,,0,,17||
+No Gaz,,washington county,,39.60367,,-77.81398,,15,,32||
+No Gaz,,washington county,,39.60367,,-77.81398,,9,,26||
+No Gaz,,washington county,,39.60367,,-77.81398,,15,,32||
+No Gaz,,washington county,,39.60367,,-77.81398,,0,,17||
+No Gaz,,washington county,,39.60367,,-77.81398,,20,,37||
+No Gaz,,washington county,,39.60367,,-77.81398,,0,,17||
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,24,,35||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,47,,58||
+No Gaz,,springfield,,42.10148,,-72.58981,,62,,73||
+No Gaz,,springfield,,42.10148,,-72.58981,,14,,25||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+No Gaz,,baca county,,37.31918,,-102.56047,,103,,114||No Gaz,,springfield,,42.10148,,-72.58981,,21,,32||
+No Gaz,,springfield,,42.10148,,-72.58981,,100,,111||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,21,,32||
+No Gaz,,springfield,,42.10148,,-72.58981,,21,,32||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,19,,30||
+
+
+
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,14,,25||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,35,,46||
+
+
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,31,,42||
+
+
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+
+No Gaz,,united states,,45.679546,,-112.46167,,102,,115||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,panama city,,30.15946,,-85.65983,,99,,110||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,effingham county,,39.05977,,-88.58986,,40,,56||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,effingham county,,39.05977,,-88.58986,,25,,41||
+No Gaz,,springfield,,42.10148,,-72.58981,,101,,112||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,31,,42||
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,102,,113||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+
+No Gaz,,america,,45.679546,,-112.46167,,473,,480||No Gaz,,springfield,,42.10148,,-72.58981,,21,,32||
+No Gaz,,springfield,,42.10148,,-72.58981,,25,,36||
+No Gaz,,jacksonville,,30.33218,,-81.65565,,77,,89||No Gaz,,united states,,45.679546,,-112.46167,,331,,344||No Gaz,,sangamon county,,39.75817,,-89.6589,,220,,235||No Gaz,,springfield,,42.10148,,-72.58981,,697,,708||No Gaz,,jacksonville,,30.33218,,-81.65565,,512,,524||
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,washington county,,39.60367,,-77.81398,,44,,61||No Gaz,,united states,,45.679546,,-112.46167,,65,,78||
+No Gaz,,springfield,,42.10148,,-72.58981,,98,,109||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,washington county,,39.60367,,-77.81398,,32,,49||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,21,,32||No Gaz,,springfield,,42.10148,,-72.58981,,93,,104||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,united states,,45.679546,,-112.46167,,46,,59||
+No Gaz,,springfield,,42.10148,,-72.58981,,101,,112||
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,19,,30||
+
+
+
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,14,,25||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,35,,46||
+
+
+
+
+
+
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,springfield,,42.10148,,-72.58981,,205,,216||No Gaz,,west florida,,30.5,,-87.5,,86,,98||
+No Gaz,,springfield,,42.10148,,-72.58981,,100,,111||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,19,,30||
+
+
+
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,14,,25||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,35,,46||
+
+
+
+
+
+
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,penobscot county,,45.40051,,-68.64943,,25,,41||
+
+No Gaz,,western new england,,42.0,,-72.5,,68,,87||No Gaz,,springfield,,42.10148,,-72.58981,,30,,41||
+No Gaz,,maine,,45.39992,,-69.24149,,90,,95||No Gaz,,west springfield,,42.10704,,-72.62037,,12,,28||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,102,,113||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,calhoun county,,38.8445,,-81.11757,,25,,39||No Gaz,,u.s.,,45.679546,,-112.46167,,47,,51||
+No Gaz,,springfield,,42.10148,,-72.58981,,101,,112||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,brown county,,44.47433,,-87.99287,,25,,37||
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,102,,113||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,sarpy county,,41.11293,,-96.11199,,25,,37||
+No Gaz,,springfield,,42.10148,,-72.58981,,100,,111||
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,gretna,,54.9938,,-3.06594,,75,,81||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+No Gaz,,springfield,,42.10148,,-72.58981,,66,,77||
+
+
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,380,,391||
+No Gaz,,springfield,,42.10148,,-72.58981,,12,,23||No Gaz,,springfield,,42.10148,,-72.58981,,137,,148||
+No Gaz,,springfield,,42.10148,,-72.58981,,12,,23||No Gaz,,springfield,,42.10148,,-72.58981,,56,,67||No Gaz,,sullivan county,,41.71642,,-74.76814,,69,,84||
+No Gaz,,united states,,45.679546,,-112.46167,,103,,116||
+
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,12,,23||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,102,,113||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,21,,32||No Gaz,,springfield,,42.10148,,-72.58981,,103,,114||No Gaz,,clark county,,39.33357,,-87.78772,,524,,536||No Gaz,,clark county,,39.33357,,-87.78772,,554,,566||No Gaz,,springfield,,42.10148,,-72.58981,,169,,180||
+No Gaz,,springfield,,42.10148,,-72.58981,,25,,36||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,u.s.,,45.679546,,-112.46167,,29,,33||
+No Gaz,,columbus,,38.11021,,-118.01928,,46,,54||No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+No Gaz,,springfield,,42.10148,,-72.58981,,11,,22||
+No Gaz,,springfield,,42.10148,,-72.58981,,47,,58||
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,17,,28||No Gaz,,clark county,,39.33357,,-87.78772,,35,,47||
+No Gaz,,springfield,,42.10148,,-72.58981,,22,,33||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,117,,128||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,lane county,,43.94155,,-122.87655,,25,,36||
+No Gaz,,springfield,,42.10148,,-72.58981,,101,,112||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,138,,149||
+No Gaz,,springfield,,42.10148,,-72.58981,,100,,111||
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,orangeburg county,,33.43899,,-80.8003,,25,,42||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,19,,30||
+
+
+
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,14,,25||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,35,,46||
+
+
+
+
+No Gaz,,williston,,48.14697,,-103.61797,,31,,40||
+
+
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,orangeburg county,,33.43899,,-80.8003,,25,,42||
+No Gaz,,springfield,,42.10148,,-72.58981,,101,,112||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+No Gaz,,springfield,,42.10148,,-72.58981,,54,,65||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,bon homme county,,42.98837,,-97.88463,,33,,49||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,robertson county,,38.51882,,-84.05203,,25,,41||
+No Gaz,,springfield,,42.10148,,-72.58981,,101,,112||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,15,,26||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,windsor county,,43.58,,-72.58624,,25,,39||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,81,,92||No Gaz,,united states,,45.679546,,-112.46167,,110,,123||No Gaz,,springfield,,42.10148,,-72.58981,,213,,224||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,100,,111||
+
+No Gaz,,fairfax county,,38.83469,,-77.27622,,446,,460||No Gaz,,fairfax county,,38.83469,,-77.27622,,551,,565||No Gaz,,springfield,,42.10148,,-72.58981,,21,,32||No Gaz,,springfield,,42.10148,,-72.58981,,44,,55||No Gaz,,fairfax county,,38.83469,,-77.27622,,622,,636||No Gaz,,springfield,,42.10148,,-72.58981,,76,,87||No Gaz,,franconia,,44.22701,,-71.74786,,34,,43||No Gaz,,springfield,,42.10148,,-72.58981,,151,,162||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,united states,,45.679546,,-112.46167,,62,,75||No Gaz,,washington,,38.89511,,-77.03637,,92,,102||No Gaz,,u.s.,,45.679546,,-112.46167,,150,,154||No Gaz,,fairfax county,,38.83469,,-77.27622,,44,,58||
+
+No Gaz,,northern hampshire county,,41.5,,-87.5,,60,,85||No Gaz,,u.s.,,45.679546,,-112.46167,,93,,97||
+No Gaz,,springfield,,42.10148,,-72.58981,,23,,34||No Gaz,,springfield,,42.10148,,-72.58981,,60,,71||No Gaz,,springfield,,42.10148,,-72.58981,,181,,192||
+No Gaz,,springfield,,42.10148,,-72.58981,,4,,15||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,101,,112||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,103,,116||
+
+No Gaz,,northwestern county,,49.5,,1.0,,-1,,18||No Gaz,,springfield,,42.10148,,-72.58981,,12,,23||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,united states,,45.679546,,-112.46167,,38,,51||
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,united states,,45.679546,,-112.46167,,38,,51||
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,united states,,45.679546,,-112.46167,,38,,51||
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,0,,11||No Gaz,,united states,,45.679546,,-112.46167,,38,,51||
+
+No Gaz,,united states,,45.679546,,-112.46167,,96,,109||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,franklin county,,39.41486,,-85.06028,,0,,15||No Gaz,,nashville,,36.16589,,-86.78444,,74,,83||No Gaz,,birmingham,,52.48142,,-1.89983,,50,,60||
+
+
+No Gaz,,izard county,,36.09487,,-91.91342,,20,,32||
+No Gaz,,izard county,,36.09487,,-91.91342,,22,,34||
+
+
+No Gaz,,london county,,41.5,,-72.0,,27,,40||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,38,,51||
+No Gaz,,america,,45.679546,,-112.46167,,32,,39||
+No Gaz,,franklin county,,39.41486,,-85.06028,,30,,45||
+
+No Gaz,,franklin county,,39.41486,,-85.06028,,22,,37||
+
+
+
+
+
+No Gaz,,morgan county,,39.48155,,-86.44621,,25,,38||
+
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+No Gaz,,cook county,,41.8954,,-87.64616,,30,,41||
+
+
+
+
+
+No Gaz,,johnson county,,39.48997,,-86.10164,,22,,36||
+No Gaz,,louisville,,38.25424,,-85.75941,,188,,198||No Gaz,,kentucky,,37.531567,,-85.28619,,200,,208||No Gaz,,united states,,45.679546,,-112.46167,,248,,261||
+
+
+
+No Gaz,,franklin county,,39.41486,,-85.06028,,0,,15||
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,63,,76||
+
+No Gaz,,nashville,,36.16589,,-86.78444,,50,,59||No Gaz,,tennessee,,35.853416,,-86.339386,,61,,70||
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,112,,125||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,112,,125||
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+
+
+
+No Gaz,,boston,,42.35843,,-71.05977,,113,,119||No Gaz,,norfolk county,,42.17097,,-71.18381,,48,,62||
+
+No Gaz,,boston,,42.35843,,-71.05977,,80,,86||No Gaz,,norfolk county,,42.17097,,-71.18381,,15,,29||
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+No Gaz,,oakland county,,42.66041,,-83.3858,,46,,60||No Gaz,,u.s.,,45.679546,,-112.46167,,68,,72||No Gaz,,southfield,,42.47337,,-83.22187,,25,,35||
+
+No Gaz,,oakland county,,42.66041,,-83.3858,,33,,47||
+
+
+No Gaz,,renville county,,44.72681,,-94.94714,,22,,37||
+No Gaz,,u.s.,,45.679546,,-112.46167,,50,,54||
+
+
+
+No Gaz,,howard county,,39.25072,,-76.93119,,26,,39||
+No Gaz,,kansas city,,39.09973,,-94.57857,,30,,41||
+
+
+
+No Gaz,,franklin county,,39.41486,,-85.06028,,72,,87||
+
+
+No Gaz,,franklin county,,39.41486,,-85.06028,,22,,37||
+
+
+No Gaz,,franklin county,,39.41486,,-85.06028,,96,,111||
+No Gaz,,merrimack county,,43.29765,,-71.68019,,22,,38||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,36,,49||
+
+No Gaz,,franklin county,,39.41486,,-85.06028,,0,,15||
+
+No Gaz,,columbus,,38.11021,,-118.01928,,39,,47||
+No Gaz,,franklin county,,39.41486,,-85.06028,,41,,56||
+
+
+No Gaz,,knoxville,,35.96064,,-83.92074,,99,,108||
+No Gaz,,macon county,,39.86,,-88.9616,,41,,53||No Gaz,,united states,,45.679546,,-112.46167,,58,,71||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,warren county,,40.84883,,-90.61503,,22,,35||
+No Gaz,,warren county,,40.84883,,-90.61503,,99,,112||
+No Gaz,,middletown,,40.05727,,-85.5372,,80,,90||No Gaz,,warren county,,40.3469,,-87.35331,,48,,61||
+
+No Gaz,,middletown,,40.05727,,-85.5372,,47,,57||No Gaz,,warren county,,40.3469,,-87.35331,,15,,28||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,38,,51||
+
+No Gaz,,united states,,45.679546,,-112.46167,,38,,51||
+No Gaz,,united states,,45.679546,,-112.46167,,38,,51||
+
+No Gaz,,united states of america,,36.5,,-114.5,,63,,87||
+No Gaz,,united states,,45.679546,,-112.46167,,33,,46||
+
+
+
+
+No Gaz,,williamson county,,35.89378,,-86.8986,,138,,155||No Gaz,,williamson county,,35.89378,,-86.8986,,175,,192||
+No Gaz,,nashville,,36.16589,,-86.78444,,23,,32||
+
+
+No Gaz,,robertson county,,38.51882,,-84.05203,,22,,38||
+
+No Gaz,,franklin county,,39.41486,,-85.06028,,0,,15||
+
+
+
+
+
+
+
+
+No Gaz,,pendleton county,,38.68073,,-79.35089,,22,,38||
+
+
+
+
+
+
+
+
+
+No Gaz,,milwaukee county,,43.01546,,-87.58056,,48,,64||No Gaz,,west allis,,43.01668,,-88.00703,,90,,100||
+
+
+No Gaz,,milwaukee county,,43.01546,,-87.58056,,15,,31||No Gaz,,west allis,,43.01668,,-88.00703,,57,,67||
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,64,,77||
+
+
+
+
+
+
+
+
+No Gaz,,st mary county,,48.5,,-123.5,,48,,62||
+
+
+No Gaz,,st mary county,,48.5,,-123.5,,15,,29||
+
+
+
+No Gaz,,greenville,,34.85262,,-82.39401,,100,,110||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,100,,110||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,plumas county,,40.00468,,-120.8386,,49,,62||No Gaz,,united states,,45.679546,,-112.46167,,66,,79||
+No Gaz,,greenville,,34.85262,,-82.39401,,17,,27||
+No Gaz,,greenville,,34.85262,,-82.39401,,26,,36||
+No Gaz,,greenville,,34.85262,,-82.39401,,109,,119||No Gaz,,taylorsville,,38.03173,,-85.34245,,121,,133||
+
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+No Gaz,,plumas county,,40.00468,,-120.8386,,48,,61||
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,new castle county,,39.57833,,-75.63898,,49,,66||
+No Gaz,,greenville,,34.85262,,-82.39401,,62,,72||
+
+No Gaz,,new castle county,,39.57833,,-75.63898,,45,,62||No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,wilmington,,39.74595,,-75.54659,,43,,53||
+No Gaz,,greenville,,34.85262,,-82.39401,,11,,21||
+No Gaz,,greenville,,34.85262,,-82.39401,,17,,27||
+No Gaz,,greenville,,34.85262,,-82.39401,,26,,36||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,madison county,,38.41369,,-78.27924,,24,,38||
+No Gaz,,greenville,,34.85262,,-82.39401,,100,,110||
+
+
+No Gaz,,greenville,,34.85262,,-82.39401,,219,,229||
+No Gaz,,greenville,,34.85262,,-82.39401,,101,,111||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,meriwether county,,33.04066,,-84.68831,,24,,41||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,united states,,45.679546,,-112.46167,,39,,52||
+No Gaz,,greenville,,34.85262,,-82.39401,,101,,111||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+
+
+
+No Gaz,,greenville,,34.85262,,-82.39401,,100,,110||
+
+No Gaz,,floyd county,,36.93149,,-80.36255,,22,,34||
+
+
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+
+
+No Gaz,,greenville,,34.85262,,-82.39401,,45,,55||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,muhlenberg county,,37.21579,,-87.14204,,47,,64||
+No Gaz,,greenville,,34.85262,,-82.39401,,101,,111||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+
+
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,piscataquis county,,45.83736,,-69.28452,,24,,42||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,81,,91||No Gaz,,united states,,45.679546,,-112.46167,,109,,122||No Gaz,,greenville,,34.85262,,-82.39401,,212,,222||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,montcalm county,,43.31096,,-85.15252,,24,,39||No Gaz,,u.s.,,45.679546,,-112.46167,,47,,51||
+No Gaz,,greenville,,34.85262,,-82.39401,,101,,111||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,montcalm county,,43.31096,,-85.15252,,32,,47||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+No Gaz,,greenville,,34.85262,,-82.39401,,32,,42||
+No Gaz,,mexico,,23.947536,,-102.52345,,145,,151||No Gaz,,northern minnesota,,47.5,,-94.0,,111,,129||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,washington county,,39.60367,,-77.81398,,24,,41||No Gaz,,united states,,45.679546,,-112.46167,,45,,58||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,102,,112||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,100,,110||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,u.s.,,45.679546,,-112.46167,,52,,56||No Gaz,,united states,,45.679546,,-112.46167,,134,,147||No Gaz,,wayne county,,38.14595,,-82.42695,,112,,124||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,19,,29||No Gaz,,greenville city,,49.5,,3.5,,19,,34||
+No Gaz,,greenville,,34.85262,,-82.39401,,28,,38||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,31,,41||
+
+
+No Gaz,,greenville city,,51.5,,0.0,,14,,29||
+
+No Gaz,,greenville city,,40.5,,-74.5,,35,,50||
+
+
+
+
+No Gaz,,greenville,,34.85262,,-82.39401,,38,,48||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,25,,35||
+
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,hillsborough county,,27.90623,,-82.34692,,24,,43||
+No Gaz,,greenville,,34.85262,,-82.39401,,97,,107||
+No Gaz,,greenville,,34.85262,,-82.39401,,81,,91||No Gaz,,united states,,45.679546,,-112.46167,,110,,123||No Gaz,,greenville,,34.85262,,-82.39401,,213,,223||
+No Gaz,,united states,,45.679546,,-112.46167,,102,,115||
+No Gaz,,greenville,,34.85262,,-82.39401,,212,,222||
+
+No Gaz,,washington,,38.89511,,-77.03637,,226,,236||
+No Gaz,,greenville,,34.85262,,-82.39401,,71,,81||
+No Gaz,,greenville,,34.85262,,-82.39401,,4,,14||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,united states,,45.679546,,-112.46167,,61,,74||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,120,,133||No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,greenburgh,,41.03288,,-73.84291,,92,,102||
+
+No Gaz,,united states,,45.679546,,-112.46167,,120,,133||No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,greenburgh,,41.03288,,-73.84291,,92,,102||
+No Gaz,,united states,,45.679546,,-112.46167,,120,,133||No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,greenburgh,,41.03288,,-73.84291,,92,,102||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,103,,113||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,9,,19||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,87,,97||
+
+No Gaz,,raleigh,,37.75678,,-81.17427,,158,,165||No Gaz,,washington,,38.89511,,-77.03637,,255,,265||No Gaz,,richmond,,37.55376,,-77.46026,,219,,227||No Gaz,,atlantic ocean,,10.0,,-25.0,,188,,202||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+No Gaz,,greenville,,34.85262,,-82.39401,,40,,50||
+No Gaz,,greenville,,34.85262,,-82.39401,,33,,43||
+No Gaz,,u.s.,,45.679546,,-112.46167,,80,,84||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,101,,111||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,darke county,,40.13323,,-84.61931,,24,,36||
+
+No Gaz,,dayton,,39.75895,,-84.19161,,84,,90||No Gaz,,darke county,,40.13323,,-84.61931,,52,,64||No Gaz,,greenville,,34.85262,,-82.39401,,22,,32||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,dayton,,39.75895,,-84.19161,,49,,55||No Gaz,,darke county,,40.13323,,-84.61931,,17,,29||
+
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+No Gaz,,greenville,,34.85262,,-82.39401,,101,,111||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+
+
+
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,providence county,,41.87136,,-71.5786,,87,,104||
+No Gaz,,greenville,,34.85262,,-82.39401,,15,,25||No Gaz,,greenville,,34.85262,,-82.39401,,113,,123||
+
+
+No Gaz,,greenville,,34.85262,,-82.39401,,54,,64||
+No Gaz,,greenville,,34.85262,,-82.39401,,17,,27||
+No Gaz,,greenville,,34.85262,,-82.39401,,26,,36||
+No Gaz,,greenville,,34.85262,,-82.39401,,102,,112||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+
+No Gaz,,greenville county,,34.89431,,-82.37072,,79,,96||No Gaz,,greenville county,,34.89431,,-82.37072,,255,,272||No Gaz,,washington,,38.89511,,-77.03637,,346,,356||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+No Gaz,,greenville county,,34.89431,,-82.37072,,49,,66||
+No Gaz,,greenville,,34.85262,,-82.39401,,101,,111||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+
+No Gaz,,american,,36.57645,,-91.58764,,137,,145||No Gaz,,greenville,,34.85262,,-82.39401,,21,,31||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,united states,,45.679546,,-112.46167,,78,,91||
+No Gaz,,mexico,,23.947536,,-102.52345,,153,,159||No Gaz,,greenville,,34.85262,,-82.39401,,55,,65||
+No Gaz,,greenville,,34.85262,,-82.39401,,18,,28||
+No Gaz,,greenville,,34.85262,,-82.39401,,98,,108||
+
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||No Gaz,,augusta county,,38.16452,,-79.13383,,49,,63||
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+No Gaz,,greenville,,34.85262,,-82.39401,,4,,14||
+
+No Gaz,,united states,,45.679546,,-112.46167,,59,,72||
+
+No Gaz,,monroe county,,43.30916,,-77.68018,,146,,159||
+No Gaz,,greenville,,34.85262,,-82.39401,,0,,10||
+No Gaz,,united states,,45.679546,,-112.46167,,59,,72||
+
+No Gaz,,united states,,45.679546,,-112.46167,,59,,72||
+No Gaz,,greenville,,34.85262,,-82.39401,,100,,110||
+
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+
+
+
+No Gaz,,galveston texas,,30.5,,-96.5,,248,,263||
+
+
+
+
+No Gaz,,bristol city,,51.5,,-2.5,,375,,387||No Gaz,,bristol,,51.45523,,-2.59665,,375,,382||No Gaz,,american,,36.57645,,-91.58764,,261,,269||
+No Gaz,,hartford county,,41.80642,,-72.73284,,38,,53||No Gaz,,bristol,,51.45523,,-2.59665,,0,,7||No Gaz,,united states,,45.679546,,-112.46167,,57,,70||
+
+
+
+
+
+No Gaz,,bristol,,51.45523,,-2.59665,,0,,7||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+
+
+
+No Gaz,,bristol,,51.45523,,-2.59665,,46,,53||
+
+
+No Gaz,,bristol,,51.45523,,-2.59665,,11,,18||
+
+No Gaz,,bristol,,51.45523,,-2.59665,,17,,24||
+
+No Gaz,,bristol,,51.45523,,-2.59665,,0,,7||
+No Gaz,,chicago,,41.85003,,-87.65005,,54,,61||
+No Gaz,,bristol,,51.45523,,-2.59665,,0,,7||No Gaz,,washington,,38.89511,,-77.03637,,21,,31||No Gaz,,elkhart county,,41.59738,,-85.85876,,42,,56||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,lincoln county,,38.17536,,-82.07039,,27,,41||
+
+
+
+
+No Gaz,,bristol,,51.45523,,-2.59665,,0,,7||No Gaz,,lincoln county,,38.17536,,-82.07039,,91,,105||
+No Gaz,,bristol,,51.45523,,-2.59665,,48,,55||
+
+
+
+
+
+No Gaz,,bristol,,51.45523,,-2.59665,,0,,7||
+No Gaz,,grafton county,,43.94074,,-71.82055,,21,,35||
+No Gaz,,u.s.,,45.679546,,-112.46167,,97,,101||
+
+
+No Gaz,,grafton county,,43.94074,,-71.82055,,21,,35||
+No Gaz,,u.s.,,45.679546,,-112.46167,,103,,107||
+
+No Gaz,,united states,,45.679546,,-112.46167,,107,,120||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+No Gaz,,ontario county,,42.85285,,-77.29982,,63,,77||
+No Gaz,,delaware river,,39.43261,,-75.52881,,116,,130||No Gaz,,n.j.,,40.19738,,-74.6646,,104,,108||
+
+No Gaz,,philadelphia,,39.95234,,-75.16379,,191,,203||
+
+
+
+
+
+
+
+No Gaz,,bristol,,51.45523,,-2.59665,,43,,50||No Gaz,,delaware river,,39.43261,,-75.52881,,90,,104||
+No Gaz,,bristol,,51.45523,,-2.59665,,52,,59||No Gaz,,new jersey,,40.19738,,-74.6646,,77,,87||
+No Gaz,,bristol,,51.45523,,-2.59665,,33,,40||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,107,,120||
+
+No Gaz,,bristol,,51.45523,,-2.59665,,59,,66||
+
+No Gaz,,bristol,,51.45523,,-2.59665,,39,,46||
+
+
+
+
+No Gaz,,bristol,,51.45523,,-2.59665,,0,,7||
+No Gaz,,united states,,45.679546,,-112.46167,,47,,60||
+
+
+
+
+No Gaz,,sullivan county,,41.71642,,-74.76814,,21,,36||
+No Gaz,,virginia,,37.53038,,-78.830025,,32,,40||No Gaz,,virginia,,37.53038,,-78.830025,,97,,105||No Gaz,,bristol,,51.45523,,-2.59665,,23,,30||
+
+
+
+
+
+No Gaz,,bristol,,51.45523,,-2.59665,,21,,28||
+
+
+No Gaz,,canada,,61.362064,,-98.30777,,165,,171||
+No Gaz,,bristol,,51.45523,,-2.59665,,0,,7||No Gaz,,burlington,,40.07122,,-74.86489,,56,,66||No Gaz,,addison county,,44.03091,,-73.14094,,22,,36||
+No Gaz,,addison county,,44.03091,,-73.14094,,21,,35||
+
+No Gaz,,united states,,45.679546,,-112.46167,,106,,119||
+No Gaz,,bristol,,51.45523,,-2.59665,,44,,51||
+No Gaz,,bristol,,51.45523,,-2.59665,,50,,57||
+No Gaz,,bristol,,51.45523,,-2.59665,,44,,51||
+No Gaz,,bristol,,51.45523,,-2.59665,,50,,57||
+No Gaz,,united states,,45.679546,,-112.46167,,36,,49||No Gaz,,tennessee,,35.853416,,-86.339386,,92,,101||No Gaz,,washington county,,39.60367,,-77.81398,,62,,79||No Gaz,,tennessee,,35.853416,,-86.339386,,124,,133||
+No Gaz,,bristol,,51.45523,,-2.59665,,53,,60||No Gaz,,washington county,,39.60367,,-77.81398,,68,,85||
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,8,,21||
+
+
+
+
+
+
+No Gaz,,tennessee,,35.853416,,-86.339386,,98,,107||No Gaz,,united states,,45.679546,,-112.46167,,44,,57||No Gaz,,virginia,,37.53038,,-78.830025,,34,,42||No Gaz,,tennessee,,35.853416,,-86.339386,,130,,139||No Gaz,,virginia,,37.53038,,-78.830025,,79,,87||
+No Gaz,,bristol,,51.45523,,-2.59665,,53,,60||No Gaz,,virginia,,37.53038,,-78.830025,,62,,70||
+
+
+
+No Gaz,,bristol,,51.45523,,-2.59665,,0,,7||No Gaz,,county,,52.0295,,1.0807,,22,,28||No Gaz,,united states,,45.679546,,-112.46167,,34,,47||
+No Gaz,,bristol,,51.45523,,-2.59665,,0,,7||No Gaz,,county,,52.0295,,1.0807,,22,,28||No Gaz,,united states,,45.679546,,-112.46167,,34,,47||
+
+No Gaz,,bristol,,51.45523,,-2.59665,,0,,7||No Gaz,,united states,,45.679546,,-112.46167,,35,,48||
+No Gaz,,bristol,,51.45523,,-2.59665,,12,,19||No Gaz,,united states,,45.679546,,-112.46167,,54,,67||
+
+
+
+
+
+
+
+No Gaz,,middlesex county,,40.44004,,-74.40889,,50,,66||
+No Gaz,,united states,,45.679546,,-112.46167,,106,,119||
+
+
+
+No Gaz,,chicago,,41.85003,,-87.65005,,156,,163||No Gaz,,springfield,,42.10148,,-72.58981,,225,,236||No Gaz,,st. louis,,38.62727,,-90.19789,,188,,197||No Gaz,,dewitt county,,40.0,,-88.5,,30,,43||
+
+
+
+No Gaz,,dewitt county,,40.0,,-88.5,,31,,44||
+
+
+No Gaz,,clinton county,,38.60645,,-89.42248,,43,,57||
+
+
+
+
+No Gaz,,vermillion county,,39.8538,,-87.46397,,21,,38||
+
+
+No Gaz,,alaska,,64.29455,,-152.58867,,239,,245||
+
+No Gaz,,vermillion county,,39.8538,,-87.46397,,29,,46||
+
+
+
+
+No Gaz,,clinton county,,38.60645,,-89.42248,,44,,58||No Gaz,,united states,,45.679546,,-112.46167,,62,,75||
+No Gaz,,clinton county,,38.60645,,-89.42248,,84,,98||No Gaz,,new york,,42.951813,,-75.52074,,147,,155||
+
+
+
+No Gaz,,hickman county,,35.80325,,-87.47331,,21,,35||
+No Gaz,,united states,,45.679546,,-112.46167,,69,,82||
+
+
+No Gaz,,kennebec county,,44.40916,,-69.76726,,21,,36||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+
+
+
+
+
+No Gaz,,worcester county,,38.2165,,-75.29667,,21,,37||
+
+No Gaz,,united states,,45.679546,,-112.46167,,106,,119||
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,93,,97||
+
+
+
+
+
+
+
+No Gaz,,hinds county,,32.2667,,-90.44282,,21,,33||
+No Gaz,,new york,,42.951813,,-75.52074,,236,,244||
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,hinds county,,32.2667,,-90.44282,,46,,58||No Gaz,,louisiana,,31.08208,,-92.01432,,118,,127||
+
+
+
+
+No Gaz,,hinds county,,32.2667,,-90.44282,,14,,26||No Gaz,,louisiana,,31.08208,,-92.01432,,86,,95||
+
+
+
+
+
+
+
+No Gaz,,henry county,,39.93104,,-85.39644,,21,,33||
+
+
+No Gaz,,missoula county,,47.03649,,-113.92371,,46,,61||
+
+
+No Gaz,,missoula,,46.8727,,-113.9865,,71,,79||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+
+No Gaz,,hunterdon county,,40.56729,,-74.91222,,21,,37||
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,35,,48||
+
+No Gaz,,united states,,45.679546,,-112.46167,,35,,48||
+No Gaz,,united states,,45.679546,,-112.46167,,35,,48||
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,38,,51||
+No Gaz,,united states,,45.679546,,-112.46167,,38,,51||
+
+
+
+
+
+No Gaz,,sampson county,,34.99163,,-78.37152,,303,,317||
+
+
+
+No Gaz,,sampson county,,34.99163,,-78.37152,,29,,43||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,41,,54||No Gaz,,summit county,,41.12598,,-81.53217,,24,,37||
+
+
+No Gaz,,clinton county,,38.60645,,-89.42248,,38,,52||
+No Gaz,,clinton county,,38.60645,,-89.42248,,34,,48||
+No Gaz,,clinton county,,38.60645,,-89.42248,,17,,31||
+
+
+
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,56,,60||
+
+
+
+
+
+
+
+No Gaz,,laurens county,,34.48357,,-82.00593,,50,,64||
+No Gaz,,laurens county,,34.48357,,-82.00593,,29,,43||
+
+
+No Gaz,,anderson county,,38.2142,,-95.29333,,21,,36||
+
+
+
+
+
+No Gaz,,davis county,,40.74769,,-92.40972,,29,,41||
+
+
+No Gaz,,davis county,,40.74769,,-92.40972,,21,,33||
+
+No Gaz,,davis county,,40.74769,,-92.40972,,29,,41||
+
+
+No Gaz,,southern whidbey island,,48.0,,-122.5,,68,,91||No Gaz,,island county,,48.16291,,-122.57526,,95,,108||
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,45,,49||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,106,,119||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,fairview pleasanton,,44.5,,-109.5,,-1,,18||
+
+
+
+
+
+
+No Gaz,,stockbridge,,51.11398,,-1.48839,,132,,143||
+No Gaz,,fulton county,,40.47277,,-90.20747,,25,,38||
+
+
+No Gaz,,missouri,,38.38417,,-92.49201,,71,,79||
+No Gaz,,st. clair county,,38.5,,-90.0,,30,,46||
+
+
+
+
+
+
+
+
+
+No Gaz,,brown county,,44.47433,,-87.99287,,22,,34||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+No Gaz,,u.s.,,45.679546,,-112.46167,,95,,99||
+No Gaz,,u.s.,,45.679546,,-112.46167,,95,,99||
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,114,,118||
+No Gaz,,united states,,45.679546,,-112.46167,,52,,65||
+
+No Gaz,,united states,,45.679546,,-112.46167,,52,,65||
+No Gaz,,united states,,45.679546,,-112.46167,,52,,65||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,newton county,,40.95585,,-87.39754,,22,,35||
+
+
+
+
+
+No Gaz,,richland county,,43.37564,,-90.42948,,22,,37||
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,47,,60||
+No Gaz,,united states,,45.679546,,-112.46167,,128,,141||No Gaz,,middletown,,40.05727,,-85.5372,,89,,99||
+No Gaz,,united states,,45.679546,,-112.46167,,128,,141||No Gaz,,middletown,,40.05727,,-85.5372,,89,,99||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,72,,85||
+
+No Gaz,,united states,,45.679546,,-112.46167,,72,,85||
+No Gaz,,greenburgh,,41.03288,,-73.84291,,80,,90||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||
+
+
+
+
+
+
+No Gaz,,cuyahoga county,,41.63506,,-81.7002,,27,,42||
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,multnomah county,,45.54687,,-122.41534,,22,,38||
+
+
+
+
+No Gaz,,multnomah county,,45.54687,,-122.41534,,30,,46||
+No Gaz,,butler county,,37.78127,,-96.83907,,25,,38||
+
+No Gaz,,united states,,45.679546,,-112.46167,,108,,121||
+
+
+
+
+
+No Gaz,,lincoln county,,38.17536,,-82.07039,,22,,36||
+
+
+No Gaz,,williamson county,,35.89378,,-86.8986,,30,,47||
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,39,,52||No Gaz,,collin county,,33.18791,,-96.57237,,22,,35||
+
+
+
+
+
+
+No Gaz,,sanpete county,,39.37396,,-111.57634,,22,,36||
+
+
+No Gaz,,marion county,,39.51,,-80.2434,,22,,35||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||
+
+No Gaz,,minn.,,46.309353,,-94.313446,,35,,40||
+
+
+
+No Gaz,,lincoln county,,38.17536,,-82.07039,,25,,39||
+
+
+
+
+
+No Gaz,,upson county,,32.88127,,-84.29934,,22,,34||
+No Gaz,,u.s.,,45.679546,,-112.46167,,31,,35||
+
+
+
+No Gaz,,louisville,,38.25424,,-85.75941,,60,,70||No Gaz,,kentucky,,37.531567,,-85.28619,,72,,80||
+
+
+
+No Gaz,,washington county,,39.60367,,-77.81398,,40,,57||No Gaz,,united states,,45.679546,,-112.46167,,61,,74||No Gaz,,washington,,38.89511,,-77.03637,,19,,29||
+
+No Gaz,,american,,36.57645,,-91.58764,,37,,45||
+No Gaz,,american,,36.57645,,-91.58764,,21,,29||
+No Gaz,,pittsburgh,,48.62943,,-97.17813,,109,,119||
+No Gaz,,american,,36.57645,,-91.58764,,44,,52||
+
+
+No Gaz,,louisville,,38.25424,,-85.75941,,79,,89||No Gaz,,washington county,,39.60367,,-77.81398,,42,,59||No Gaz,,kentucky,,37.531567,,-85.28619,,91,,99||
+
+
+No Gaz,,louisville,,38.25424,,-85.75941,,49,,59||No Gaz,,washington county,,39.60367,,-77.81398,,12,,29||No Gaz,,kentucky,,37.531567,,-85.28619,,61,,69||
+
+
+
+No Gaz,,louisville,,38.25424,,-85.75941,,60,,70||No Gaz,,kentucky,,37.531567,,-85.28619,,72,,80||
+
+
+
+
+
+
+No Gaz,,livingston county,,40.89156,,-88.55772,,19,,36||
+
+
+
+
+
+
+
+No Gaz,,salem city,,39.5,,-75.5,,14,,24||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,essex county,,40.78707,,-74.24687,,19,,31||
+
+
+
+
+
+
+
+
+
+No Gaz,,richardson county,,40.12506,,-95.71753,,22,,39||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,96,,109||
+
+
+
+
+
+No Gaz,,richardson county,,40.12506,,-95.71753,,22,,39||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,salem county,,39.57658,,-75.35791,,19,,31||
+No Gaz,,salem county,,39.57658,,-75.35791,,93,,105||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,montreal,,45.50884,,-73.58781,,104,,112||No Gaz,,vermont,,44.075993,,-72.666374,,81,,88||
+
+
+
+
+
+
+
+No Gaz,,northern columbiana county,,11.5,,78.0,,19,,45||
+No Gaz,,u.s.,,45.679546,,-112.46167,,143,,147||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,america,,45.679546,,-112.46167,,55,,62||
+
+
+
+
+
+
+
+
+No Gaz,,oconee county,,34.75351,,-83.06588,,19,,32||
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,97,,110||
+No Gaz,,mccook county,,11.5,,78.0,,42,,55||
+
+
+
+No Gaz,,miami,,38.9061,,1.4188,,60,,65||No Gaz,,new york,,42.951813,,-75.52074,,67,,75||No Gaz,,chicago,,41.85003,,-87.65005,,77,,84||
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,30,,43||
+
+
+
+
+No Gaz,,roanoke county,,37.20907,,-80.05085,,8,,22||No Gaz,,roanoke county,,37.20907,,-80.05085,,101,,115||No Gaz,,roanoke county,,37.20907,,-80.05085,,212,,226||No Gaz,,roanoke county,,37.20907,,-80.05085,,649,,663||No Gaz,,roanoke county,,37.20907,,-80.05085,,773,,787||
+
+
+
+No Gaz,,harrison county,,39.28353,,-80.37988,,19,,34||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,32,,45||
+
+No Gaz,,united states,,45.679546,,-112.46167,,32,,45||
+No Gaz,,united states,,45.679546,,-112.46167,,32,,45||
+
+
+
+
+
+
+No Gaz,,st. francis county,,35.0,,-90.5,,21,,39||
+
+
+No Gaz,,boston,,42.35843,,-71.05977,,152,,158||
+
+
+
+
+
+No Gaz,,madison,,38.67935,,-121.9683,,12,,19||
+
+
+
+No Gaz,,madison county,,38.41369,,-78.27924,,167,,181||No Gaz,,madison county,,38.41369,,-78.27924,,234,,248||No Gaz,,madison county,,38.41369,,-78.27924,,282,,296||No Gaz,,madison county,,38.41369,,-78.27924,,382,,396||
+No Gaz,,madison county,,38.41369,,-78.27924,,21,,35||
+
+No Gaz,,madison county,,38.41369,,-78.27924,,0,,14||
+
+No Gaz,,new york city,,40.71427,,-74.00597,,98,,111||
+
+
+
+
+
+
+No Gaz,,morgan county,,39.48155,,-86.44621,,21,,34||
+
+
+No Gaz,,madison county,,38.41369,,-78.27924,,21,,35||
+
+No Gaz,,chicago,,41.85003,,-87.65005,,11,,18||
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,41,,54||No Gaz,,ohio river,,36.98672,,-89.13063,,66,,76||No Gaz,,jefferson county,,43.99885,,-76.05211,,21,,37||
+
+No Gaz,,ohio river,,36.98672,,-89.13063,,133,,143||
+
+No Gaz,,cincinnati,,39.162,,-84.45689,,154,,164||No Gaz,,louisville,,38.25424,,-85.75941,,110,,120||
+No Gaz,,louisville,,38.25424,,-85.75941,,76,,86||
+
+No Gaz,,united states,,45.679546,,-112.46167,,41,,54||No Gaz,,greenwood county,,37.87779,,-96.23264,,21,,37||
+
+
+
+
+
+
+No Gaz,,somerset county,,38.08007,,-75.85347,,21,,36||
+No Gaz,,united states,,45.679546,,-112.46167,,45,,58||No Gaz,,lac qui parle county,,45.0,,-96.5,,21,,41||
+
+No Gaz,,earth county,,38.5,,-122.0,,31,,43||
+
+
+No Gaz,,lac qui parle county,,45.0,,-96.5,,29,,49||
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,83,,96||
+
+No Gaz,,wisconsin,,44.6437,,-90.01486,,213,,222||
+
+No Gaz,,madison county,,38.41369,,-78.27924,,21,,35||
+No Gaz,,united states,,45.679546,,-112.46167,,62,,75||
+No Gaz,,madison county,,38.41369,,-78.27924,,26,,40||
+
+No Gaz,,monroe county,,43.30916,,-77.68018,,21,,34||
+
+
+
+
+No Gaz,,madison county,,38.41369,,-78.27924,,44,,58||
+No Gaz,,u.s.,,45.679546,,-112.46167,,152,,156||No Gaz,,united states,,45.679546,,-112.46167,,200,,213||
+
+No Gaz,,madison town,,38.5,,-122.0,,19,,31||
+
+
+
+
+
+No Gaz,,madison town,,51.5,,0.0,,14,,26||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,49,,62||No Gaz,,morris county,,40.86203,,-74.54444,,24,,37||
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+No Gaz,,parsippany,,40.85788,,-74.42599,,60,,70||No Gaz,,madison,,38.67935,,-121.9683,,22,,29||
+
+No Gaz,,parsippany,,40.85788,,-74.42599,,27,,37||No Gaz,,madison,,38.67935,,-121.9683,,0,,7||
+
+
+
+
+
+
+
+
+
+No Gaz,,rockingham county,,38.51213,,-78.87576,,29,,46||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,46,,59||No Gaz,,lake county,,41.47221,,-87.37637,,24,,35||
+
+
+No Gaz,,madison county,,38.41369,,-78.27924,,11,,25||
+No Gaz,,springfield,,42.10148,,-72.58981,,122,,133||No Gaz,,united states,,45.679546,,-112.46167,,48,,61||No Gaz,,madison county,,38.41369,,-78.27924,,63,,77||No Gaz,,columbus,,38.11021,,-118.01928,,109,,117||
+No Gaz,,madison county,,38.41369,,-78.27924,,0,,14||
+No Gaz,,madison county,,38.41369,,-78.27924,,0,,14||No Gaz,,london,,51.50853,,-0.12574,,138,,144||
+No Gaz,,madison,,38.67935,,-121.9683,,150,,157||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+No Gaz,,westmoreland county,,38.11282,,-76.79991,,24,,43||
+No Gaz,,united states,,45.679546,,-112.46167,,107,,120||
+
+
+
+No Gaz,,lake county,,41.47221,,-87.37637,,21,,32||
+No Gaz,,lake county,,41.47221,,-87.37637,,29,,40||
+
+
+
+No Gaz,,madison,,38.67935,,-121.9683,,0,,7||No Gaz,,u.s.,,45.679546,,-112.46167,,96,,100||No Gaz,,lake county,,41.47221,,-87.37637,,71,,82||
+No Gaz,,madison,,38.67935,,-121.9683,,0,,7||No Gaz,,u.s.,,45.679546,,-112.46167,,96,,100||No Gaz,,lake county,,41.47221,,-87.37637,,71,,82||
+
+
+
+No Gaz,,madison county,,38.41369,,-78.27924,,21,,35||
+No Gaz,,madison,,38.67935,,-121.9683,,71,,78||
+
+No Gaz,,madison,,38.67935,,-121.9683,,55,,62||
+No Gaz,,boone county,,38.023,,-81.71121,,21,,33||
+
+
+
+
+
+No Gaz,,boone county,,38.023,,-81.71121,,29,,41||
+
+
+
+
+
+
+
+No Gaz,,fitchburg,,42.58342,,-71.8023,,310,,319||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+
+
+
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,37,,41||
+
+
+No Gaz,,fairfield county,,41.22496,,-73.3712,,55,,71||
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+
+No Gaz,,fairfield county,,41.22496,,-73.3712,,27,,43||
+
+
+No Gaz,,sussex county,,38.6833,,-75.33954,,24,,37||
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+No Gaz,,georgetown,,38.90483,,-77.06248,,23,,33||
+
+
+No Gaz,,sussex county,,38.6833,,-75.33954,,35,,48||
+
+
+
+No Gaz,,georgetown,,38.90483,,-77.06248,,44,,54||
+
+No Gaz,,georgetown,,38.90483,,-77.06248,,102,,112||
+
+No Gaz,,georgetown,,38.90483,,-77.06248,,48,,58||
+
+
+
+
+
+No Gaz,,georgetown,,38.90483,,-77.06248,,106,,116||
+No Gaz,,georgetown,,38.90483,,-77.06248,,31,,41||
+No Gaz,,georgetown,,38.90483,,-77.06248,,118,,128||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,62,,75||
+No Gaz,,u.s.,,45.679546,,-112.46167,,32,,36||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,danville,,36.58597,,-79.39502,,27,,35||No Gaz,,tennessee,,35.853416,,-86.339386,,78,,87||
+No Gaz,,vermilion county,,40.18342,,-87.73283,,24,,40||
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,37,,50||
+
+
+
+
+
+
+No Gaz,,scott county,,38.68507,,-85.74747,,24,,36||
+No Gaz,,scott county,,38.68507,,-85.74747,,59,,71||
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,43,,56||
+
+
+
+
+No Gaz,,missouri,,38.38417,,-92.49201,,37,,45||
+
+
+
+No Gaz,,missouri,,38.38417,,-92.49201,,83,,91||
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,37,,41||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+No Gaz,,essex county,,40.78707,,-74.24687,,52,,64||No Gaz,,boston,,42.35843,,-71.05977,,132,,138||
+
+No Gaz,,boston,,42.35843,,-71.05977,,97,,103||No Gaz,,essex county,,40.78707,,-74.24687,,17,,29||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,copiah county,,31.86924,,-90.4488,,24,,37||
+
+
+No Gaz,,copiah county,,31.86924,,-90.4488,,24,,37||
+
+
+No Gaz,,madison county,,38.41369,,-78.27924,,98,,112||
+
+
+
+
+
+No Gaz,,brown county,,44.47433,,-87.99287,,27,,39||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,40,,53||No Gaz,,ohio river,,36.98672,,-89.13063,,66,,76||
+No Gaz,,montgomery county,,39.13638,,-77.20424,,113,,130||
+No Gaz,,u.s.,,45.679546,,-112.46167,,43,,47||No Gaz,,georgetown county,,33.41275,,-79.29934,,82,,99||
+No Gaz,,sampit river,,33.34433,,-79.272,,88,,100||
+
+
+
+No Gaz,,georgetown county,,33.41275,,-79.29934,,483,,500||No Gaz,,georgetown county,,33.41275,,-79.29934,,569,,586||
+
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,70,,83||
+No Gaz,,georgetown,,38.90483,,-77.06248,,89,,99||
+
+
+
+No Gaz,,virginia,,37.53038,,-78.830025,,76,,84||No Gaz,,alexandria,,31.21564,,29.95527,,122,,132||No Gaz,,arlington,,42.74915,,-91.67127,,64,,73||
+
+
+
+
+
+
+
+No Gaz,,california,,37.24226,,-119.60236,,165,,175||No Gaz,,american,,36.57645,,-91.58764,,93,,101||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,alameda county,,37.65055,,-121.91789,,24,,38||
+
+
+
+
+No Gaz,,cass county,,40.76149,,-86.34595,,24,,35||
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+
+
+No Gaz,,clark county,,39.33357,,-87.78772,,54,,66||
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+
+No Gaz,,united states,,45.679546,,-112.46167,,73,,86||No Gaz,,ohio river,,36.98672,,-89.13063,,119,,129||No Gaz,,boyd county,,42.89968,,-98.76646,,58,,69||
+
+
+
+
+
+
+No Gaz,,springfield,,42.10148,,-72.58981,,217,,228||No Gaz,,tennessee,,35.853416,,-86.339386,,48,,57||No Gaz,,tennessee,,35.853416,,-86.339386,,164,,173||
+
+
+
+No Gaz,,aroostook county,,46.65881,,-68.59889,,21,,37||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+No Gaz,,benton county,,44.49176,,-123.42931,,21,,34||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,benton county,,44.49176,,-123.42931,,21,,34||
+
+
+No Gaz,,benton county,,44.49176,,-123.42931,,21,,34||
+
+
+No Gaz,,boone county,,38.023,,-81.71121,,21,,33||
+
+
+
+No Gaz,,rosebud county,,46.22974,,-106.73082,,46,,60||
+
+
+No Gaz,,custer county,,44.24142,,-114.2818,,33,,46||
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+
+
+
+
+
+
+No Gaz,,saunders county,,41.22637,,-96.6374,,21,,36||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,grafton county,,43.94074,,-71.82055,,21,,35||
+No Gaz,,u.s.,,45.679546,,-112.46167,,168,,172||
+
+
+
+
+No Gaz,,camden county,,39.80353,,-74.95976,,114,,127||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,35,,48||
+No Gaz,,united states,,45.679546,,-112.46167,,35,,48||
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,25,,29||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,74,,78||No Gaz,,pittsburg county,,34.92391,,-95.7484,,31,,47||
+
+No Gaz,,pittsburg county,,34.92391,,-95.7484,,21,,37||
+
+No Gaz,,pittsburg county,,34.92391,,-95.7484,,21,,37||
+No Gaz,,pittsburg county,,34.92391,,-95.7484,,21,,37||
+
+
+
+
+
+
+
+
+No Gaz,,california,,37.24226,,-119.60236,,102,,112||
+No Gaz,,jacksonville,,30.33218,,-81.65565,,101,,113||
+
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,49,,53||No Gaz,,schuylkill county,,40.7058,,-76.21595,,24,,41||
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+
+No Gaz,,richmond,,37.55376,,-77.46026,,40,,48||No Gaz,,hanover county,,37.76015,,-77.49087,,52,,66||
+No Gaz,,hanover county,,37.76015,,-77.49087,,92,,106||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,58,,62||
+
+
+
+
+
+
+
+
+No Gaz,,calhoun county,,38.8445,,-81.11757,,28,,42||
+
+
+No Gaz,,izard county,,36.09487,,-91.91342,,20,,32||
+
+
+
+No Gaz,,oxford,,51.71338,,-1.21446,,12,,18||
+
+No Gaz,,oxford,,51.71338,,-1.21446,,37,,43||
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,165,,169||
+No Gaz,,oxford,,51.71338,,-1.21446,,0,,6||
+
+No Gaz,,united states,,45.679546,,-112.46167,,44,,57||No Gaz,,newton county,,40.95585,,-87.39754,,20,,33||
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,45,,58||
+
+
+
+
+No Gaz,,benton county,,44.49176,,-123.42931,,40,,53||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,johnson county,,39.48997,,-86.10164,,20,,34||
+
+No Gaz,,united states,,45.679546,,-112.46167,,97,,110||
+No Gaz,,sumner county,,36.46941,,-86.46036,,43,,56||
+
+
+No Gaz,,sumner county,,36.46941,,-86.46036,,20,,33||
+No Gaz,,united states,,45.679546,,-112.46167,,97,,110||
+
+
+
+No Gaz,,oxford county,,44.49977,,-70.75657,,52,,65||
+
+
+No Gaz,,oxford county,,44.49977,,-70.75657,,20,,33||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,talbot county,,38.7491,,-76.17862,,56,,69||
+
+
+
+
+
+
+
+
+No Gaz,,washington,,38.89511,,-77.03637,,73,,83||No Gaz,,annapolis,,44.58616,,-65.16485,,51,,60||No Gaz,,baltimore,,39.29038,,-76.61219,,62,,71||
+
+
+
+No Gaz,,worcester county,,38.2165,,-75.29667,,20,,36||
+
+No Gaz,,united states,,45.679546,,-112.46167,,105,,118||
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,45,,49||No Gaz,,oakland county,,42.66041,,-83.3858,,23,,37||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,57,,61||
+
+
+
+
+
+
+
+
+No Gaz,,warren county,,40.84883,,-90.61503,,95,,108||
+
+No Gaz,,oxford,,51.71338,,-1.21446,,42,,48||
+No Gaz,,chenango county,,42.49351,,-75.61158,,20,,35||
+
+No Gaz,,united states,,45.679546,,-112.46167,,106,,119||
+
+
+No Gaz,,chenango county,,42.49351,,-75.61158,,95,,110||
+
+
+
+No Gaz,,granville county,,36.30402,,-78.65302,,20,,36||
+
+
+
+
+No Gaz,,miami,,38.9061,,1.4188,,20,,25||
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,50,,63||No Gaz,,northwestern butler county,,44.0,,70.0,,20,,46||
+No Gaz,,miami,,38.9061,,1.4188,,83,,88||No Gaz,,u.s.,,45.679546,,-112.46167,,20,,24||
+No Gaz,,miami,,38.9061,,1.4188,,59,,64||
+
+
+No Gaz,,chester county,,39.97314,,-75.74845,,23,,37||
+
+
+
+
+No Gaz,,marquette county,,43.81958,,-89.39875,,11,,27||
+No Gaz,,marquette county,,43.81958,,-89.39875,,11,,27||
+No Gaz,,marquette county,,43.81958,,-89.39875,,23,,39||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,97,,110||
+No Gaz,,arlington,,42.74915,,-91.67127,,17,,26||
+No Gaz,,arlington,,42.74915,,-91.67127,,16,,25||
+No Gaz,,arlington,,42.74915,,-91.67127,,12,,21||
+
+
+
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,calhoun county,,38.8445,,-81.11757,,23,,37||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+No Gaz,,arlington,,42.74915,,-91.67127,,101,,110||
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||No Gaz,,arlington,,42.74915,,-91.67127,,73,,82||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,u.s.,,45.679546,,-112.46167,,53,,57||No Gaz,,cook county,,41.8954,,-87.64616,,34,,45||
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||No Gaz,,arlington,,42.74915,,-91.67127,,73,,82||
+No Gaz,,arlington,,42.74915,,-91.67127,,101,,110||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+No Gaz,,arlington,,42.74915,,-91.67127,,100,,109||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,fayette county,,38.02878,,-81.08119,,23,,37||
+No Gaz,,arlington,,42.74915,,-91.67127,,12,,21||No Gaz,,arlington,,42.74915,,-91.67127,,66,,75||
+
+
+
+
+No Gaz,,arlington,,42.74915,,-91.67127,,100,,109||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,reno county,,37.95295,,-98.08601,,23,,34||
+No Gaz,,nebraska,,41.531254,,-99.79096,,79,,87||
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||No Gaz,,arlington,,42.74915,,-91.67127,,73,,82||
+No Gaz,,arlington,,42.74915,,-91.67127,,12,,21||No Gaz,,arlington,,42.74915,,-91.67127,,66,,75||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,98,,107||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,carlisle county,,36.85322,,-88.97106,,23,,38||
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||No Gaz,,arlington,,42.74915,,-91.67127,,73,,82||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,boston,,42.35843,,-71.05977,,89,,95||No Gaz,,middlesex county,,40.44004,,-74.40889,,23,,39||No Gaz,,united states,,45.679546,,-112.46167,,43,,56||
+No Gaz,,arlington,,42.74915,,-91.67127,,12,,21||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+No Gaz,,arlington,,42.74915,,-91.67127,,100,,109||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+
+No Gaz,,africa,,7.1881,,21.09375,,406,,412||
+
+
+
+
+
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,sibley county,,44.57948,,-94.23216,,23,,36||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,15,,24||
+No Gaz,,arlington,,42.74915,,-91.67127,,60,,69||No Gaz,,arlington,,42.74915,,-91.67127,,227,,236||
+No Gaz,,arlington,,42.74915,,-91.67127,,11,,20||
+No Gaz,,arlington,,42.74915,,-91.67127,,4,,13||
+No Gaz,,washington county,,39.60367,,-77.81398,,92,,109||No Gaz,,arlington,,42.74915,,-91.67127,,15,,24||
+No Gaz,,arlington,,42.74915,,-91.67127,,98,,107||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,washington county,,39.60367,,-77.81398,,26,,43||No Gaz,,united states,,45.679546,,-112.46167,,47,,60||
+No Gaz,,arlington,,42.74915,,-91.67127,,15,,24||No Gaz,,arlington,,42.74915,,-91.67127,,71,,80||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||No Gaz,,arlington,,42.74915,,-91.67127,,73,,82||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,dutchess county,,41.76515,,-73.74286,,62,,77||
+No Gaz,,dutchess county,,41.76515,,-73.74286,,52,,67||No Gaz,,connecticut,,41.626938,,-72.725494,,96,,107||No Gaz,,arlington,,42.74915,,-91.67127,,22,,31||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,dutchess county,,41.76515,,-73.74286,,17,,32||No Gaz,,connecticut,,41.626938,,-72.725494,,61,,72||
+
+
+
+
+No Gaz,,arlington,,42.74915,,-91.67127,,19,,28||No Gaz,,arlington,,42.74915,,-91.67127,,59,,68||
+No Gaz,,arlington,,42.74915,,-91.67127,,28,,37||
+
+
+
+No Gaz,,arlington,,42.74915,,-91.67127,,14,,23||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,yadkin county,,36.16054,,-80.66534,,24,,37||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,hancock county,,39.82355,,-85.77324,,26,,40||
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||No Gaz,,arlington,,42.74915,,-91.67127,,73,,82||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,gilliam county,,45.37806,,-120.21087,,23,,37||
+No Gaz,,arlington,,42.74915,,-91.67127,,23,,32||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,43,,52||
+No Gaz,,arlington,,42.74915,,-91.67127,,19,,28||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,27,,36||
+No Gaz,,arlington,,42.74915,,-91.67127,,23,,32||
+
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,gilliam county,,45.37806,,-120.21087,,60,,74||
+No Gaz,,arlington,,42.74915,,-91.67127,,12,,21||
+
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,u.s.,,45.679546,,-112.46167,,63,,67||
+No Gaz,,arlington,,42.74915,,-91.67127,,14,,23||
+No Gaz,,arlington city,,32.5,,-97.0,,19,,33||No Gaz,,arlington city,,32.5,,-97.0,,61,,75||
+No Gaz,,arlington,,42.74915,,-91.67127,,28,,37||
+No Gaz,,arlington,,42.74915,,-91.67127,,30,,39||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,30,,39||
+
+
+No Gaz,,arlington city,,32.5,,-97.0,,14,,28||
+
+No Gaz,,arlington city,,32.5,,-97.0,,35,,49||
+
+
+
+
+No Gaz,,arlington,,42.74915,,-91.67127,,43,,52||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,25,,34||
+
+
+No Gaz,,arlington,,42.74915,,-91.67127,,101,,110||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,17,,26||
+No Gaz,,arlington,,42.74915,,-91.67127,,26,,35||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,shelby county,,39.39116,,-88.80554,,23,,36||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+No Gaz,,arlington,,42.74915,,-91.67127,,62,,71||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,u.s.,,45.679546,,-112.46167,,144,,148||
+No Gaz,,arlington,,42.74915,,-91.67127,,25,,34||
+No Gaz,,arlington,,42.74915,,-91.67127,,101,,110||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,102,,111||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,21,,30||No Gaz,,arlington,,42.74915,,-91.67127,,110,,119||No Gaz,,arlington,,42.74915,,-91.67127,,179,,188||No Gaz,,arlington,,42.74915,,-91.67127,,412,,421||No Gaz,,arlington,,42.74915,,-91.67127,,455,,464||No Gaz,,arlington,,42.74915,,-91.67127,,499,,508||No Gaz,,pantego,,35.58905,,-76.66216,,237,,244||No Gaz,,arlington,,42.74915,,-91.67127,,600,,609||No Gaz,,dalworthington,,32.5,,-97.0,,267,,281||
+No Gaz,,arlington,,42.74915,,-91.67127,,9,,18||
+No Gaz,,arlington,,42.74915,,-91.67127,,21,,30||No Gaz,,arkansas,,34.904453,,-92.444305,,675,,683||
+No Gaz,,arlington city,,32.5,,-97.0,,240,,254||No Gaz,,arlington city,,32.5,,-97.0,,378,,392||No Gaz,,united states,,45.679546,,-112.46167,,126,,139||No Gaz,,arlington,,42.74915,,-91.67127,,153,,162||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,tarrant county,,32.77156,,-97.29124,,23,,37||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,united states,,45.679546,,-112.46167,,75,,88||
+No Gaz,,arlington,,42.74915,,-91.67127,,113,,122||No Gaz,,arlington,,42.74915,,-91.67127,,156,,165||No Gaz,,american,,36.57645,,-91.58764,,407,,415||No Gaz,,arlington,,42.74915,,-91.67127,,201,,210||No Gaz,,united states,,45.679546,,-112.46167,,280,,293||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+No Gaz,,arlington,,42.74915,,-91.67127,,81,,90||No Gaz,,united states,,45.679546,,-112.46167,,108,,121||No Gaz,,arlington,,42.74915,,-91.67127,,211,,220||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,bennington county,,43.03546,,-73.09295,,23,,40||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+
+No Gaz,,bennington county,,43.03546,,-73.09295,,0,,17||No Gaz,,arlington,,42.74915,,-91.67127,,423,,432||
+No Gaz,,canada,,61.362064,,-98.30777,,100,,106||No Gaz,,arlington,,42.74915,,-91.67127,,244,,253||
+No Gaz,,arlington,,42.74915,,-91.67127,,66,,75||
+No Gaz,,arlington,,42.74915,,-91.67127,,48,,57||
+No Gaz,,canada,,61.362064,,-98.30777,,100,,106||No Gaz,,arlington,,42.74915,,-91.67127,,244,,253||
+No Gaz,,arlington,,42.74915,,-91.67127,,66,,75||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,bennington county,,43.03546,,-73.09295,,24,,41||
+No Gaz,,united states,,45.679546,,-112.46167,,28,,41||
+No Gaz,,arlington,,42.74915,,-91.67127,,100,,109||
+
+No Gaz,,arlington county,,38.87862,,-77.10096,,15,,31||
+No Gaz,,arlington,,42.74915,,-91.67127,,46,,55||No Gaz,,arlington county,,38.87862,,-77.10096,,46,,62||No Gaz,,south arlington,,39.0,,-76.5,,392,,407||No Gaz,,shirlington,,38.84178,,-77.08831,,430,,441||No Gaz,,rosslyn,,38.89678,,-77.07248,,383,,390||No Gaz,,arlington county,,38.87862,,-77.10096,,329,,345||
+No Gaz,,arlington county,,38.87862,,-77.10096,,0,,16||No Gaz,,washington,,38.89511,,-77.03637,,51,,61||
+No Gaz,,arlington county,,38.87862,,-77.10096,,0,,16||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,united states,,45.679546,,-112.46167,,79,,92||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,northern snohomish county,,48.0,,-122.0,,23,,48||No Gaz,,united states,,45.679546,,-112.46167,,52,,65||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+No Gaz,,arlington,,42.74915,,-91.67127,,101,,110||
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,0,,9||No Gaz,,columbia county,,42.25008,,-73.63185,,26,,41||
+
+No Gaz,,arlington,,42.74915,,-91.67127,,98,,107||
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||No Gaz,,arlington,,42.74915,,-91.67127,,73,,82||
+No Gaz,,arlington,,42.74915,,-91.67127,,4,,13||
+
+
+
+
+
+
+
+No Gaz,,louisiana,,31.08208,,-92.01432,,139,,148||No Gaz,,clarke county,,39.11226,,-77.99673,,46,,59||
+
+
+No Gaz,,louisiana,,31.08208,,-92.01432,,107,,116||No Gaz,,clarke county,,39.11226,,-77.99673,,14,,27||
+
+
+
+
+
+No Gaz,,amador county,,38.44639,,-120.65112,,110,,123||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,breathitt county,,37.52162,,-83.32409,,55,,71||
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,46,,59||
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,166,,170||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,jackson county,,38.83447,,-81.67479,,593,,607||No Gaz,,dahlem,,49.9167,,6.6,,280,,286||
+No Gaz,,jackson county,,38.83447,,-81.67479,,0,,14||
+No Gaz,,u.s.,,45.679546,,-112.46167,,79,,83||
+
+
+No Gaz,,jackson county,,38.83447,,-81.67479,,21,,35||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,cape girardeau county,,37.38404,,-89.68445,,21,,42||
+
+
+
+
+
+No Gaz,,cape girardeau county,,37.38404,,-89.68445,,97,,118||No Gaz,,cape girardeau county,,37.38404,,-89.68445,,200,,221||No Gaz,,cape girardeau county,,37.38404,,-89.68445,,370,,391||
+
+
+
+
+
+
+No Gaz,,dakota county,,44.67189,,-93.06544,,24,,37||
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,cassville,,36.67701,,-93.86881,,190,,199||
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,167,,171||
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,86,,90||
+
+
+
+No Gaz,,virginia,,37.53038,,-78.830025,,97,,105||
+No Gaz,,jackson county,,38.83447,,-81.67479,,0,,14||
+No Gaz,,jackson county,,38.83447,,-81.67479,,44,,58||
+
+
+
+No Gaz,,jackson county,,38.83447,,-81.67479,,122,,136||
+
+No Gaz,,aiken county,,33.54437,,-81.63474,,21,,33||
+
+
+
+No Gaz,,columbia,,47.56399,,-122.2754,,27,,35||
+No Gaz,,madison county,,38.41369,,-78.27924,,21,,35||
+
+
+
+
+No Gaz,,madison county,,38.41369,,-78.27924,,145,,159||
+
+
+
+
+
+
+No Gaz,,teton county,,43.75946,,-111.2077,,56,,68||
+
+
+
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+No Gaz,,burlington,,40.07122,,-74.86489,,100,,110||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,237,,247||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,carson county,,35.40351,,-101.35418,,94,,107||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+No Gaz,,burlington,,40.07122,,-74.86489,,42,,52||
+No Gaz,,burlington,,40.07122,,-74.86489,,7,,17||
+No Gaz,,burlington,,40.07122,,-74.86489,,70,,80||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+No Gaz,,burlington,,40.07122,,-74.86489,,31,,41||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,kane county,,41.93894,,-88.42866,,27,,38||
+No Gaz,,burlington,,40.07122,,-74.86489,,15,,25||No Gaz,,burlington,,40.07122,,-74.86489,,70,,80||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,98,,108||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,burlington,,40.07122,,-74.86489,,24,,34||No Gaz,,carroll county,,39.56286,,-77.02252,,45,,59||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,19,,29||No Gaz,,burlington,,40.07122,,-74.86489,,63,,73||
+No Gaz,,burlington,,40.07122,,-74.86489,,28,,38||No Gaz,,burlington,,40.07122,,-74.86489,,82,,92||
+
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,14,,24||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,35,,45||
+
+
+
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,25,,35||
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,burlington,,40.07122,,-74.86489,,33,,43||
+No Gaz,,burlington,,40.07122,,-74.86489,,4,,14||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,101,,111||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,middletown,,40.05727,,-85.5372,,80,,90||
+No Gaz,,burlington,,40.07122,,-74.86489,,41,,51||No Gaz,,united states,,45.679546,,-112.46167,,67,,80||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+No Gaz,,mississippi river,,38.22901,,-90.36049,,134,,151||No Gaz,,burlington,,40.07122,,-74.86489,,17,,27||No Gaz,,united states,,45.679546,,-112.46167,,55,,68||No Gaz,,west burlington,,41.76369,,-76.67467,,12,,27||No Gaz,,des moines county,,40.92318,,-91.18147,,34,,51||
+No Gaz,,burlington,,40.07122,,-74.86489,,100,,110||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,coffey county,,38.23684,,-95.73411,,47,,60||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,boone county,,38.023,,-81.71121,,72,,84||
+No Gaz,,burlington,,40.07122,,-74.86489,,101,,111||
+
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||No Gaz,,burlington,,40.07122,,-74.86489,,73,,83||No Gaz,,burlington,,40.07122,,-74.86489,,196,,206||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,167,,177||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,19,,29||No Gaz,,burlington,,40.07122,,-74.86489,,63,,73||
+No Gaz,,burlington,,40.07122,,-74.86489,,28,,38||No Gaz,,burlington,,40.07122,,-74.86489,,82,,92||
+
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,14,,24||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,35,,45||
+
+
+
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,25,,35||
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,middlesex county,,40.44004,,-74.40889,,24,,40||
+No Gaz,,boston,,42.35843,,-71.05977,,116,,122||No Gaz,,middlesex county,,40.44004,,-74.40889,,52,,68||No Gaz,,burlington,,40.07122,,-74.86489,,22,,32||
+No Gaz,,burlington,,40.07122,,-74.86489,,27,,37||No Gaz,,burlington,,40.07122,,-74.86489,,97,,107||No Gaz,,burlington,,40.07122,,-74.86489,,131,,141||No Gaz,,burlington,,40.07122,,-74.86489,,184,,194||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,boston,,42.35843,,-71.05977,,81,,87||No Gaz,,middlesex county,,40.44004,,-74.40889,,17,,33||
+No Gaz,,burlington,,40.07122,,-74.86489,,27,,37||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,98,,108||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,100,,110||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,calhoun county,,38.8445,,-81.11757,,27,,41||No Gaz,,u.s.,,45.679546,,-112.46167,,49,,53||
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||No Gaz,,burlington,,40.07122,,-74.86489,,73,,83||No Gaz,,burlington,,40.07122,,-74.86489,,196,,206||
+No Gaz,,american,,36.57645,,-91.58764,,49,,57||No Gaz,,burlington,,40.07122,,-74.86489,,12,,22||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,burlington county,,39.87769,,-74.6682,,24,,41||No Gaz,,united states,,45.679546,,-112.46167,,46,,59||
+No Gaz,,burlington,,40.07122,,-74.86489,,68,,78||
+No Gaz,,burlington,,40.07122,,-74.86489,,102,,112||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+
+
+
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,u.s.,,45.679546,,-112.46167,,62,,66||
+No Gaz,,burlington,,40.07122,,-74.86489,,32,,42||No Gaz,,alamance county,,36.04407,,-79.39951,,101,,116||
+No Gaz,,burlington,,40.07122,,-74.86489,,103,,113||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,66,,76||
+No Gaz,,burlington,,40.07122,,-74.86489,,9,,19||
+No Gaz,,burlington,,40.07122,,-74.86489,,12,,22||
+No Gaz,,burlington,,40.07122,,-74.86489,,12,,22||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,31,,41||
+No Gaz,,burlington,,40.07122,,-74.86489,,24,,34||
+
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,united states,,45.679546,,-112.46167,,46,,59||
+No Gaz,,ward county,,48.22175,,-101.54183,,53,,64||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,burlington,,40.07122,,-74.86489,,245,,255||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,minot,,48.23251,,-101.29627,,80,,85||
+No Gaz,,burlington,,40.07122,,-74.86489,,22,,32||
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,4,,14||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,lawrence county,,38.84116,,-86.48345,,27,,42||
+
+
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,alfalfa county,,36.73098,,-98.324,,24,,38||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,12,,22||No Gaz,,burlington,,40.07122,,-74.86489,,67,,77||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,98,,108||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,15,,25||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,bradford county,,41.78867,,-76.51545,,27,,42||
+No Gaz,,burlington,,40.07122,,-74.86489,,101,,111||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+No Gaz,,burlington,,40.07122,,-74.86489,,21,,31||No Gaz,,burlington,,40.07122,,-74.86489,,163,,173||No Gaz,,burlington,,40.07122,,-74.86489,,418,,428||No Gaz,,burlington,,40.07122,,-74.86489,,445,,455||No Gaz,,burlington,,40.07122,,-74.86489,,488,,498||No Gaz,,iran,,32.57503,,54.27407,,355,,359||
+No Gaz,,burlington,,40.07122,,-74.86489,,19,,29||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,55,,65||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,21,,31||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,skagit county,,48.48215,,-121.80227,,24,,37||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,burlington,,40.07122,,-74.86489,,144,,154||
+No Gaz,,burlington,,40.07122,,-74.86489,,100,,110||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+No Gaz,,racine county,,42.75117,,-87.69606,,117,,130||No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||No Gaz,,u.s.,,45.679546,,-112.46167,,60,,64||No Gaz,,racine,,5.99293,,-4.26434,,24,,30||
+No Gaz,,burlington,,40.07122,,-74.86489,,101,,111||
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,19,,29||No Gaz,,burlington,,40.07122,,-74.86489,,63,,73||
+No Gaz,,burlington,,40.07122,,-74.86489,,28,,38||No Gaz,,burlington,,40.07122,,-74.86489,,82,,92||
+
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,14,,24||
+
+No Gaz,,burlington,,40.07122,,-74.86489,,35,,45||
+
+
+
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,25,,35||
+
+
+No Gaz,,burlington,,40.07122,,-74.86489,,12,,22||No Gaz,,burlington,,40.07122,,-74.86489,,67,,77||
+
+No Gaz,,montana,,47.03154,,-109.62538,,61,,68||No Gaz,,burlington,,40.07122,,-74.86489,,0,,10||
+No Gaz,,burlington,,40.07122,,-74.86489,,22,,32||
+No Gaz,,hartford county,,41.80642,,-72.73284,,24,,39||
+
+
+
+
+
+
+
+No Gaz,,new england,,44.20556,,-70.30642,,296,,307||
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,70,,74||
+
+
+
+
+
+
+
+
+No Gaz,,delaware county,,39.91681,,-75.3989,,24,,39||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,kennebec county,,44.40916,,-69.76726,,36,,51||
+
+No Gaz,,pennsylvania,,30.87324,,-88.0475,,155,,167||No Gaz,,northeastern carroll county,,33.0,,-96.5,,46,,73||No Gaz,,united states of america,,36.5,,-114.5,,112,,136||No Gaz,,baltimore,,39.29038,,-76.61219,,192,,201||
+No Gaz,,baltimore county,,39.44307,,-76.61632,,194,,210||No Gaz,,carroll county,,39.56286,,-77.02252,,82,,96||
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,51,,55||No Gaz,,washtenaw county,,42.25323,,-83.83877,,27,,43||
+
+
+
+
+
+
+No Gaz,,st. louis county,,47.5,,-92.5,,24,,40||
+
+
+
+
+No Gaz,,st. louis county,,47.5,,-92.5,,32,,48||
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,38,,42||No Gaz,,england,,52.59844,,-1.459341,,82,,89||No Gaz,,northern england,,54.91667,,-2.33333,,-1,,15||No Gaz,,maine,,45.39992,,-69.24149,,167,,172||
+No Gaz,,boston,,42.35843,,-71.05977,,50,,56||
+No Gaz,,between york city,,40.0,,-75.0,,-1,,16||No Gaz,,philadelphia,,39.95234,,-75.16379,,116,,128||No Gaz,,atlantic city,,39.36428,,-74.42293,,133,,146||
+
+
+No Gaz,,ontario county,,42.85285,,-77.29982,,54,,68||
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,43,,56||No Gaz,,adams county,,39.98789,,-91.18849,,27,,39||
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+
+
+No Gaz,,grant county,,42.86749,,-90.70622,,24,,36||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,grant county,,42.86749,,-90.70622,,24,,36||
+
+No Gaz,,united states,,45.679546,,-112.46167,,42,,55||No Gaz,,york county,,39.91996,,-76.72651,,27,,38||
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,coffee county,,35.49062,,-86.07476,,24,,37||
+No Gaz,,nashville,,36.16589,,-86.78444,,36,,45||
+No Gaz,,nashville,,36.16589,,-86.78444,,119,,128||
+No Gaz,,alabama,,32.793873,,-86.83148,,165,,172||No Gaz,,motlow,,35.5,,-86.5,,112,,118||
+
+No Gaz,,nashville,,36.16589,,-86.78444,,84,,93||
+
+
+No Gaz,,northeast,,41.91676,,-73.56624,,85,,94||
+
+
+
+No Gaz,,bennington county,,43.03546,,-73.09295,,133,,150||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,bennington county,,43.03546,,-73.09295,,85,,102||
+
+No Gaz,,new york,,42.951813,,-75.52074,,172,,180||
+
+No Gaz,,bennington county,,43.03546,,-73.09295,,85,,102||
+
+No Gaz,,new york,,42.951813,,-75.52074,,172,,180||
+
+
+
+
+No Gaz,,kitsap county,,47.63983,,-122.649,,49,,62||
+
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+
+
+
+No Gaz,,milton town,,-19.0,,31.5,,19,,30||
+
+
+
+
+No Gaz,,milton town,,51.5,,0.0,,14,,25||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,milton,,-27.70027,,30.04219,,82,,88||No Gaz,,milton,,-27.70027,,30.04219,,227,,233||
+
+No Gaz,,united states,,45.679546,,-112.46167,,44,,57||No Gaz,,sussex county,,38.6833,,-75.33954,,20,,33||
+
+
+
+
+
+
+
+No Gaz,,santa rosa county,,30.6929,,-87.01845,,169,,186||
+
+
+
+
+
+
+
+No Gaz,,fulton county,,40.47277,,-90.20747,,20,,33||
+
+
+
+No Gaz,,pike county,,37.46902,,-82.39587,,23,,34||
+
+
+
+
+
+
+
+No Gaz,,milton,,-27.70027,,30.04219,,0,,6||No Gaz,,washington,,38.89511,,-77.03637,,23,,33||
+
+
+
+
+No Gaz,,milton town,,-19.0,,31.5,,19,,30||
+
+
+
+
+No Gaz,,milton town,,51.5,,0.0,,14,,25||
+No Gaz,,milton,,-27.70027,,30.04219,,20,,26||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,wayne county,,38.14595,,-82.42695,,18,,30||
+
+
+No Gaz,,madison,,38.67935,,-121.9683,,53,,60||
+
+
+
+
+No Gaz,,milton city,,49.5,,3.5,,19,,30||No Gaz,,milton city,,49.5,,3.5,,59,,70||
+No Gaz,,milton city,,-19.0,,31.5,,28,,39||
+
+
+
+No Gaz,,milton city,,51.5,,0.0,,14,,25||
+
+No Gaz,,milton city,,40.5,,-74.5,,35,,46||
+
+
+
+
+
+No Gaz,,milton city,,51.5,,-0.5,,25,,36||
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,38,,51||No Gaz,,ohio river,,36.98672,,-89.13063,,63,,73||No Gaz,,trimble county,,38.61303,,-85.33757,,20,,34||
+
+
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,88,,92||
+
+
+
+No Gaz,,lafayette county,,42.6605,,-90.13172,,50,,66||No Gaz,,milton county,,34.0,,-84.5,,24,,37||
+No Gaz,,united states,,45.679546,,-112.46167,,38,,51||No Gaz,,norfolk county,,42.17097,,-71.18381,,20,,34||No Gaz,,boston,,42.35843,,-71.05977,,76,,82||
+No Gaz,,milton abbey,,51.0,,-2.5,,408,,420||
+
+
+
+
+
+No Gaz,,boston,,42.35843,,-71.05977,,102,,108||No Gaz,,norfolk county,,42.17097,,-71.18381,,44,,58||
+No Gaz,,boston,,42.35843,,-71.05977,,39,,45||
+
+No Gaz,,boston,,42.35843,,-71.05977,,71,,77||No Gaz,,norfolk county,,42.17097,,-71.18381,,13,,27||
+
+
+No Gaz,,strafford county,,43.29743,,-71.0294,,20,,36||
+
+
+
+No Gaz,,maine,,45.39992,,-69.24149,,41,,46||
+
+
+
+
+No Gaz,,milton,,-27.70027,,30.04219,,67,,73||
+No Gaz,,milton,,-27.70027,,30.04219,,63,,69||
+
+No Gaz,,caswell county,,36.39335,,-79.33359,,20,,34||
+No Gaz,,america,,45.679546,,-112.46167,,72,,79||
+
+
+
+
+
+No Gaz,,milton city,,36.0,,50.0,,19,,30||No Gaz,,milton city,,36.0,,50.0,,59,,70||
+No Gaz,,milton city,,-19.0,,31.5,,28,,39||
+
+
+
+No Gaz,,milton city,,51.5,,0.0,,14,,25||
+
+No Gaz,,milton city,,47.0,,7.5,,35,,46||
+
+
+
+
+
+No Gaz,,milton city,,51.5,,-0.5,,25,,36||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,north west corner of county,,-19.0,,31.5,,-1,,26||
+
+
+
+
+
+No Gaz,,susquehanna river,,39.54039,,-76.07384,,55,,72||No Gaz,,harrisburg,,40.2737,,-76.88442,,100,,110||No Gaz,,northumberland county,,37.85466,,-76.37952,,23,,44||
+
+
+
+No Gaz,,northumberland county,,37.85466,,-76.37952,,8,,29||
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,97,,110||
+
+
+
+No Gaz,,chittenden county,,44.46098,,-73.08092,,20,,37||
+No Gaz,,united states,,45.679546,,-112.46167,,105,,118||
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,52,,56||
+No Gaz,,cabell county,,38.4203,,-82.24172,,20,,33||
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,35,,48||
+No Gaz,,america,,45.679546,,-112.46167,,92,,99||
+
+No Gaz,,jackson county,,38.83447,,-81.67479,,21,,35||
+No Gaz,,newport,,-27.88333,,30.3,,31,,38||
+
+
+
+
+
+
+No Gaz,,jackson county,,38.83447,,-81.67479,,178,,192||
+
+No Gaz,,jackson county,,38.83447,,-81.67479,,29,,43||
+No Gaz,,newport,,-27.88333,,30.3,,31,,38||
+No Gaz,,newport beach,,33.59058,,-117.91895,,0,,13||No Gaz,,orange county,,41.40214,,-74.30557,,50,,63||
+
+
+No Gaz,,newport beach,,33.59058,,-117.91895,,0,,13||
+No Gaz,,new castle county,,39.57833,,-75.63898,,21,,38||
+No Gaz,,newport,,-27.88333,,30.3,,12,,19||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+
+
+No Gaz,,newport town,,50.5,,-1.5,,19,,31||
+
+
+
+
+No Gaz,,newport town,,50.5,,-1.5,,14,,26||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,vermillion county,,39.8538,,-87.46397,,42,,59||
+
+
+No Gaz,,vermillion county,,39.8538,,-87.46397,,43,,60||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,40,,53||No Gaz,,campbell county,,36.40351,,-84.14938,,21,,36||
+
+No Gaz,,newport,,-27.88333,,30.3,,32,,39||
+
+
+
+
+
+
+
+
+No Gaz,,penobscot county,,45.40051,,-68.64943,,21,,37||
+
+No Gaz,,united states,,45.679546,,-112.46167,,106,,119||
+No Gaz,,pittsfield,,44.59944,,-88.2451,,190,,200||No Gaz,,palmyra,,34.55736,,38.31689,,181,,188||
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,42,,55||No Gaz,,washington county,,39.60367,,-77.81398,,21,,38||
+
+
+No Gaz,,newport,,-27.88333,,30.3,,0,,7||No Gaz,,united states,,45.679546,,-112.46167,,39,,52||
+
+
+
+No Gaz,,newport,,-27.88333,,30.3,,0,,7||No Gaz,,united states,,45.679546,,-112.46167,,39,,52||
+No Gaz,,carteret county,,34.86401,,-76.53249,,21,,36||
+
+
+
+
+
+No Gaz,,carteret county,,34.86401,,-76.53249,,21,,36||
+No Gaz,,atlantic,,34.88489,,-76.34047,,13,,21||
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+
+
+
+
+
+No Gaz,,united states coast,,57.0,,-135.0,,516,,535||No Gaz,,newport marina,,44.88916,,-87.84455,,230,,244||No Gaz,,newport marina,,44.88916,,-87.84455,,363,,377||No Gaz,,lincoln county,,38.17536,,-82.07039,,30,,44||No Gaz,,united states,,45.679546,,-112.46167,,516,,529||
+
+
+No Gaz,,perry county,,37.24429,,-83.22148,,24,,36||
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,america,,45.679546,,-112.46167,,262,,269||
+
+No Gaz,,newport,,-27.88333,,30.3,,0,,7||No Gaz,,york county,,39.91996,,-76.72651,,25,,36||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+No Gaz,,cocke county,,35.92542,,-83.12116,,21,,33||
+
+
+
+
+
+
+
+No Gaz,,newport city,,51.5,,-3.0,,38,,50||
+
+
+
+
+No Gaz,,idaho,,44.392708,,-114.651825,,67,,72||No Gaz,,pend oreille river,,49.00381,,-117.61775,,97,,115||
+
+
+No Gaz,,pend oreille county,,48.5323,,-117.27397,,21,,40||
+
+
+
+No Gaz,,newport shores,,47.57066,,-122.19234,,129,,143||
+
+No Gaz,,newport shores,,47.57066,,-122.19234,,33,,47||
+No Gaz,,newport,,-27.88333,,30.3,,42,,49||
+
+
+
+No Gaz,,georgia,,42.168556,,43.5078,,117,,124||
+
+
+
+No Gaz,,georgia,,42.168556,,43.5078,,86,,93||
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,62,,75||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,barrow county,,33.9932,,-83.71276,,28,,41||
+
+
+
+No Gaz,,sangamon county,,39.75817,,-89.6589,,20,,35||
+
+
+
+
+
+
+No Gaz,,dekalb county,,33.5,,-84.0,,20,,33||
+
+No Gaz,,de kalb county,,41.0,,-85.0,,44,,58||
+
+
+No Gaz,,de kalb county,,41.0,,-85.0,,13,,27||
+
+
+
+
+
+
+
+
+
+No Gaz,,shawnee county,,39.04151,,-95.75653,,20,,34||
+
+
+No Gaz,,logan county,,37.83153,,-81.93534,,20,,32||
+
+No Gaz,,auburn,,30.82019,,-86.53773,,48,,54||No Gaz,,logan county,,37.83153,,-81.93534,,59,,71||
+No Gaz,,auburn,,30.82019,,-86.53773,,50,,56||No Gaz,,logan county,,37.83153,,-81.93534,,61,,73||
+No Gaz,,androscoggin county,,44.16585,,-70.20644,,43,,62||
+
+No Gaz,,minot,,48.23251,,-101.29627,,187,,192||No Gaz,,cumberland county,,43.80608,,-70.3302,,19,,36||No Gaz,,poland,,52.127594,,19.39013,,171,,177||
+No Gaz,,danville,,36.58597,,-79.39502,,176,,184||No Gaz,,durham,,54.77676,,-1.57566,,186,,192||No Gaz,,poland,,52.127594,,19.39013,,199,,205||No Gaz,,hebron,,31.52935,,35.0938,,221,,227||No Gaz,,topsham,,50.68596,,-3.46696,,379,,386||No Gaz,,lewiston,,44.10035,,-70.21478,,236,,244||No Gaz,,west minot,,44.17118,,-70.36589,,396,,406||No Gaz,,lisbon,,38.71667,,-9.13333,,246,,252||No Gaz,,lisbon,,38.71667,,-9.13333,,254,,260||No Gaz,,minot,,48.23251,,-101.29627,,296,,301||No Gaz,,north yarmouth,,44.0,,70.0,,329,,343||
+
+No Gaz,,auburn,,30.82019,,-86.53773,,21,,27||
+No Gaz,,auburn,,30.82019,,-86.53773,,24,,30||
+
+No Gaz,,danville,,36.58597,,-79.39502,,169,,177||No Gaz,,durham,,54.77676,,-1.57566,,179,,185||No Gaz,,poland,,52.127594,,19.39013,,192,,198||No Gaz,,hebron,,31.52935,,35.0938,,214,,220||No Gaz,,topsham,,50.68596,,-3.46696,,372,,379||No Gaz,,north yarmouth,,44.0,,70.0,,322,,336||No Gaz,,lewiston,,44.10035,,-70.21478,,229,,237||No Gaz,,west minot,,44.17118,,-70.36589,,389,,399||No Gaz,,lisbon,,38.71667,,-9.13333,,239,,245||No Gaz,,west poland,,44.03563,,-70.43867,,401,,412||No Gaz,,lisbon,,38.71667,,-9.13333,,247,,253||No Gaz,,minot,,48.23251,,-101.29627,,289,,294||
+
+No Gaz,,north yarmouth,,44.0,,70.0,,191,,205||No Gaz,,minot,,48.23251,,-101.29627,,158,,163||No Gaz,,danville,,36.58597,,-79.39502,,38,,46||No Gaz,,durham,,54.77676,,-1.57566,,48,,54||No Gaz,,poland,,52.127594,,19.39013,,61,,67||No Gaz,,hebron,,31.52935,,35.0938,,83,,89||No Gaz,,topsham,,50.68596,,-3.46696,,241,,248||No Gaz,,lewiston,,44.10035,,-70.21478,,98,,106||No Gaz,,west minot,,44.17118,,-70.36589,,258,,268||No Gaz,,lisbon,,38.71667,,-9.13333,,108,,114||No Gaz,,lisbon,,38.71667,,-9.13333,,116,,122||
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,oakland county,,42.66041,,-83.3858,,41,,55||No Gaz,,u.s.,,45.679546,,-112.46167,,64,,68||
+No Gaz,,nemaha county,,39.78345,,-96.0141,,21,,34||
+
+
+
+No Gaz,,nemaha county,,39.78345,,-96.0141,,20,,33||
+No Gaz,,brownville,,44.007,,-75.98409,,124,,134||
+No Gaz,,auburn,,30.82019,,-86.53773,,54,,60||
+No Gaz,,rockingham county,,38.51213,,-78.87576,,20,,37||
+
+
+No Gaz,,america,,45.679546,,-112.46167,,78,,85||No Gaz,,cayuga county,,43.01033,,-76.57436,,43,,56||
+
+
+
+
+
+
+
+No Gaz,,washington,,38.89511,,-77.03637,,6,,16||
+
+No Gaz,,schuylkill county,,40.7058,,-76.21595,,23,,40||
+
+
+
+
+
+
+No Gaz,,auburn,,30.82019,,-86.53773,,73,,79||
+
+No Gaz,,auburn,,30.82019,,-86.53773,,0,,6||
+No Gaz,,auburn,,30.82019,,-86.53773,,17,,23||
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,auburn town,,51.5,,0.0,,14,,25||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,lincoln county,,38.17536,,-82.07039,,45,,59||No Gaz,,united states,,45.679546,,-112.46167,,70,,83||
+No Gaz,,united states,,45.679546,,-112.46167,,97,,110||
+
+No Gaz,,centerville,,41.64872,,-70.34808,,54,,65||
+
+No Gaz,,houston county,,43.67144,,-91.49283,,25,,39||
+
+
+
+
+No Gaz,,centerville,,41.64872,,-70.34808,,12,,23||
+No Gaz,,centerville,,41.64872,,-70.34808,,12,,23||
+No Gaz,,centerville,,41.64872,,-70.34808,,12,,23||
+No Gaz,,centerville,,41.64872,,-70.34808,,30,,41||
+No Gaz,,centerville,,41.64872,,-70.34808,,12,,23||
+No Gaz,,wayne county,,38.14595,,-82.42695,,42,,54||
+
+
+No Gaz,,centerville,,41.64872,,-70.34808,,0,,11||
+No Gaz,,centerville,,41.64872,,-70.34808,,30,,41||
+
+
+No Gaz,,centerville,,41.64872,,-70.34808,,0,,11||
+No Gaz,,america,,45.679546,,-112.46167,,47,,54||
+
+
+
+
+
+
+No Gaz,,america,,45.679546,,-112.46167,,43,,50||
+
+No Gaz,,united states,,45.679546,,-112.46167,,102,,115||
+
+No Gaz,,centerville,,41.64872,,-70.34808,,17,,28||
+
+
+
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,171,,180||No Gaz,,centerville,,41.64872,,-70.34808,,144,,155||
+No Gaz,,centerville,,41.64872,,-70.34808,,0,,11||No Gaz,,reynolds county,,37.36233,,-90.96908,,25,,40||
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,102,,115||
+
+
+
+
+No Gaz,,centerville,,41.64872,,-70.34808,,25,,36||
+
+
+No Gaz,,centerville,,41.64872,,-70.34808,,35,,46||
+No Gaz,,warrenton,,38.71345,,-77.79527,,49,,58||
+No Gaz,,centerville,,41.64872,,-70.34808,,0,,11||No Gaz,,united states,,45.679546,,-112.46167,,41,,54||
+
+No Gaz,,centerville,,41.64872,,-70.34808,,0,,11||No Gaz,,united states,,45.679546,,-112.46167,,41,,54||
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,65,,69||
+No Gaz,,centerville,,41.64872,,-70.34808,,0,,11||No Gaz,,united states,,45.679546,,-112.46167,,41,,54||
+
+No Gaz,,centerville,,41.64872,,-70.34808,,0,,11||No Gaz,,united states,,45.679546,,-112.46167,,41,,54||
+
+No Gaz,,centerville,,41.64872,,-70.34808,,0,,11||No Gaz,,anderson county,,38.2142,,-95.29333,,29,,44||
+
+No Gaz,,centerville,,41.64872,,-70.34808,,59,,70||No Gaz,,centerville,,41.64872,,-70.34808,,116,,127||
+No Gaz,,centerville,,41.64872,,-70.34808,,48,,59||
+No Gaz,,centerville,,41.64872,,-70.34808,,42,,53||
+No Gaz,,centerville,,41.64872,,-70.34808,,34,,45||
+No Gaz,,centerville,,41.64872,,-70.34808,,39,,50||
+No Gaz,,centerville,,41.64872,,-70.34808,,0,,11||No Gaz,,anderson county,,38.2142,,-95.29333,,50,,65||
+
+No Gaz,,turner county,,43.31087,,-97.14866,,25,,38||
+No Gaz,,centerville,,41.64872,,-70.34808,,96,,107||
+
+
+No Gaz,,turner county,,43.31087,,-97.14866,,25,,38||
+
+
+No Gaz,,centerville,,41.64872,,-70.34808,,0,,11||No Gaz,,hickman county,,35.80325,,-87.47331,,25,,39||
+
+
+
+
+No Gaz,,hickman county,,35.80325,,-87.47331,,39,,53||No Gaz,,centerville,,41.64872,,-70.34808,,0,,11||
+No Gaz,,leon county,,30.45804,,-84.27788,,25,,36||
+
+
+
+
+
+No Gaz,,davis county,,40.74769,,-92.40972,,25,,37||
+
+No Gaz,,centerville,,41.64872,,-70.34808,,17,,28||
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,102,,115||
+
+
+
+
+
+
+No Gaz,,contra costa county,,37.92342,,-121.95121,,60,,79||
+
+
+No Gaz,,wilmington,,39.74595,,-75.54659,,30,,40||
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,57,,61||
+
+
+
+
+
+
+No Gaz,,rabun county,,34.88168,,-83.40214,,21,,33||
+No Gaz,,united states,,45.679546,,-112.46167,,195,,208||
+
+
+No Gaz,,clayton county,,42.84475,,-91.34143,,127,,141||
+No Gaz,,clayton county,,42.84475,,-91.34143,,26,,40||
+No Gaz,,clayton county,,42.84475,,-91.34143,,0,,14||
+
+No Gaz,,northeast,,41.91676,,-73.56624,,45,,54||
+No Gaz,,custer county,,44.24142,,-114.2818,,21,,34||
+
+No Gaz,,clayton city,,22.5,,88.5,,19,,31||No Gaz,,clayton city,,22.5,,88.5,,58,,70||
+No Gaz,,clayton city,,33.5,,-84.5,,28,,40||
+
+
+
+No Gaz,,clayton city,,51.5,,0.0,,14,,26||
+
+No Gaz,,clayton city,,40.5,,-74.5,,35,,47||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,adams county,,39.98789,,-91.18849,,24,,36||
+
+
+
+
+No Gaz,,mooresville,,35.58486,,-80.81007,,138,,149||No Gaz,,hendricks county,,39.76952,,-86.50998,,45,,61||No Gaz,,plainfield,,40.61682,,-74.41727,,123,,133||No Gaz,,united states,,45.679546,,-112.46167,,65,,78||No Gaz,,danville,,36.58597,,-79.39502,,113,,121||
+
+
+
+
+
+
+No Gaz,,clayton town,,51.5,,0.0,,14,,26||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,missouri,,38.38417,,-92.49201,,29,,37||
+
+No Gaz,,missouri,,38.38417,,-92.49201,,48,,56||
+No Gaz,,united states,,45.679546,,-112.46167,,50,,63||
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,46,,50||No Gaz,,lenawee county,,41.89508,,-84.06636,,24,,38||
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,107,,120||
+
+
+No Gaz,,kansas city,,39.09973,,-94.57857,,22,,33||
+
+No Gaz,,st. louis county,,47.5,,-92.5,,68,,84||
+
+No Gaz,,st. louis county,,47.5,,-92.5,,30,,46||
+
+
+
+
+
+No Gaz,,gloucester county,,37.40121,,-76.52297,,24,,41||
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+
+No Gaz,,philadelphia,,39.95234,,-75.16379,,110,,122||No Gaz,,pennsylvania,,30.87324,,-88.0475,,124,,136||
+
+No Gaz,,american,,36.57645,,-91.58764,,41,,49||
+
+No Gaz,,philadelphia,,39.95234,,-75.16379,,77,,89||No Gaz,,pennsylvania,,30.87324,,-88.0475,,91,,103||
+
+
+
+
+
+
+No Gaz,,union county,,40.6598,,-74.30859,,69,,81||
+
+No Gaz,,union county,,40.6598,,-74.30859,,21,,33||
+No Gaz,,texas,,31.499144,,-99.35326,,22,,27||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,johnston county,,35.51761,,-78.36564,,22,,37||
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,pushmataha county,,34.4162,,-95.37579,,21,,38||
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,42,,46||
+
+
+
+No Gaz,,dayton,,39.75895,,-84.19161,,19,,25||
+
+
+
+
+
+No Gaz,,dayton town,,51.5,,0.0,,14,,25||
+
+No Gaz,,dayton,,39.75895,,-84.19161,,35,,41||
+
+
+
+
+
+
+
+
+
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||
+No Gaz,,marengo county,,32.24761,,-87.78952,,20,,34||
+No Gaz,,franklin county,,39.41486,,-85.06028,,20,,35||
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||
+
+
+No Gaz,,dayton,,39.75895,,-84.19161,,56,,62||
+
+No Gaz,,tippecanoe county,,40.38862,,-86.8941,,40,,57||
+
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||
+No Gaz,,dayton,,39.75895,,-84.19161,,27,,33||
+
+
+
+
+
+No Gaz,,dayton,,39.75895,,-84.19161,,3,,9||
+No Gaz,,webster county,,38.49474,,-80.42187,,20,,34||
+
+No Gaz,,united states,,45.679546,,-112.46167,,39,,52||No Gaz,,campbell county,,36.40351,,-84.14938,,20,,35||
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||No Gaz,,united states of america,,36.5,,-114.5,,77,,101||
+No Gaz,,dayton,,39.75895,,-84.19161,,101,,107||
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||
+
+
+No Gaz,,york county,,39.91996,,-76.72651,,32,,43||No Gaz,,dayton,,39.75895,,-84.19161,,8,,14||
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,56,,60||
+No Gaz,,united states,,45.679546,,-112.46167,,212,,225||No Gaz,,mississippi,,32.76437,,-89.67065,,135,,146||
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||
+
+No Gaz,,lake county,,41.47221,,-87.37637,,45,,56||
+
+No Gaz,,dayton,,39.75895,,-84.19161,,44,,50||
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||
+No Gaz,,dayton,,39.75895,,-84.19161,,101,,107||
+No Gaz,,united states,,45.679546,,-112.46167,,97,,110||
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,california,,37.24226,,-119.60236,,285,,295||
+No Gaz,,california,,37.24226,,-119.60236,,110,,120||
+
+No Gaz,,lyon county,,39.0204,,-119.1892,,45,,56||
+
+No Gaz,,middlesex county,,40.44004,,-74.40889,,104,,120||
+
+
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+No Gaz,,dayton,,39.75895,,-84.19161,,26,,32||No Gaz,,south dayton,,42.36423,,-79.05559,,48,,60||
+
+
+No Gaz,,dayton,,39.75895,,-84.19161,,19,,25||
+
+
+
+
+
+No Gaz,,dayton town,,51.5,,0.0,,14,,25||
+
+No Gaz,,dayton,,39.75895,,-84.19161,,35,,41||
+
+
+
+
+
+
+
+
+No Gaz,,south dayton,,42.36423,,-79.05559,,0,,12||No Gaz,,cattaraugus county,,42.24863,,-78.67885,,29,,47||
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,59,,63||
+No Gaz,,united states,,45.679546,,-112.46167,,120,,133||
+No Gaz,,miami valley,,32.55376,,-83.79657,,30,,42||
+No Gaz,,dayton,,39.75895,,-84.19161,,102,,108||
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||
+
+No Gaz,,yamhill county,,45.2326,,-123.30815,,20,,34||
+No Gaz,,dayton,,39.75895,,-84.19161,,39,,45||No Gaz,,yamhill county,,45.2326,,-123.30815,,96,,110||
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||
+
+No Gaz,,armstrong county,,40.81229,,-79.46454,,23,,39||
+No Gaz,,dayton,,39.75895,,-84.19161,,98,,104||
+
+
+
+
+No Gaz,,rhea county,,35.60871,,-84.9244,,20,,31||
+
+No Gaz,,dayton,,39.75895,,-84.19161,,101,,107||
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||
+
+No Gaz,,united states,,45.679546,,-112.46167,,97,,110||
+No Gaz,,liberty county,,30.15161,,-94.81221,,20,,34||
+No Gaz,,dayton,,39.75895,,-84.19161,,102,,108||
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||
+
+
+
+No Gaz,,rockingham county,,38.51213,,-78.87576,,20,,37||
+
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||No Gaz,,harrisonburg,,38.44957,,-78.86892,,91,,103||No Gaz,,washington,,38.89511,,-77.03637,,158,,168||
+
+
+
+
+
+
+
+
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||No Gaz,,columbia county,,42.25008,,-73.63185,,27,,42||
+
+No Gaz,,dayton,,39.75895,,-84.19161,,100,,106||
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||
+No Gaz,,columbia county,,42.25008,,-73.63185,,43,,58||
+
+
+No Gaz,,dayton,,39.75895,,-84.19161,,0,,6||No Gaz,,columbia county,,42.25008,,-73.63185,,28,,43||
+No Gaz,,united states,,45.679546,,-112.46167,,33,,46||
+
+No Gaz,,waupaca county,,44.47043,,-88.96482,,141,,155||
+No Gaz,,united states,,45.679546,,-112.46167,,33,,46||
+
+No Gaz,,dayton,,39.75895,,-84.19161,,19,,25||
+
+
+
+
+
+No Gaz,,dayton town,,51.5,,0.0,,14,,25||
+
+No Gaz,,dayton,,39.75895,,-84.19161,,35,,41||
+
+
+
+
+
+
+
+
+No Gaz,,sheridan county,,39.35036,,-100.44183,,20,,35||
+No Gaz,,dayton,,39.75895,,-84.19161,,100,,106||
+
+No Gaz,,sheridan county,,39.35036,,-100.44183,,20,,35||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,tennessee,,35.853416,,-86.339386,,72,,81||No Gaz,,lauderdale county,,34.90137,,-87.654,,26,,43||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,19,,28||No Gaz,,lexington,,5.04056,,-9.03806,,62,,71||
+No Gaz,,lexington,,5.04056,,-9.03806,,28,,37||
+
+
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,14,,23||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,35,,44||
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,43,,52||
+No Gaz,,lexington,,5.04056,,-9.03806,,25,,34||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,oglethorpe county,,33.88065,,-83.0807,,23,,40||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,101,,110||
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||
+No Gaz,,athens,,37.97945,,23.71622,,0,,6||No Gaz,,lexington,,5.04056,,-9.03806,,47,,56||
+No Gaz,,lexington,,5.04056,,-9.03806,,25,,34||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,mclean county,,40.5,,-88.5,,23,,36||
+No Gaz,,lexington,,5.04056,,-9.03806,,129,,138||No Gaz,,kentucky,,37.531567,,-85.28619,,140,,148||
+No Gaz,,lexington,,5.04056,,-9.03806,,98,,107||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,48,,57||
+No Gaz,,lexington,,5.04056,,-9.03806,,89,,98||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,middlesex county,,40.44004,,-74.40889,,23,,39||
+No Gaz,,lexington,,5.04056,,-9.03806,,102,,111||No Gaz,,american,,36.57645,,-91.58764,,64,,72||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+No Gaz,,lexington,,5.04056,,-9.03806,,98,,107||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,63,,72||No Gaz,,boston,,42.35843,,-71.05977,,155,,161||
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,sanilac county,,43.44331,,-82.64575,,26,,40||No Gaz,,u.s.,,45.679546,,-112.46167,,48,,52||
+No Gaz,,lexington,,5.04056,,-9.03806,,101,,110||
+
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,19,,28||No Gaz,,lexington city,,41.0,,73.0,,19,,33||
+No Gaz,,lexington,,5.04056,,-9.03806,,28,,37||No Gaz,,lexington,,5.04056,,-9.03806,,81,,90||
+
+
+
+No Gaz,,lexington city,,51.5,,0.0,,14,,28||
+
+No Gaz,,lexington city,,40.5,,-74.5,,35,,49||
+
+
+
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,25,,34||
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,12,,21||No Gaz,,lexington,,5.04056,,-9.03806,,68,,77||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,101,,110||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,holmes county,,40.5612,,-81.92936,,23,,36||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,19,,28||No Gaz,,lexington city,,41.0,,73.0,,19,,33||
+No Gaz,,lexington,,5.04056,,-9.03806,,28,,37||No Gaz,,lexington,,5.04056,,-9.03806,,81,,90||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,31,,40||
+
+
+No Gaz,,lexington city,,51.5,,0.0,,14,,28||
+
+No Gaz,,lexington city,,40.5,,-74.5,,35,,49||
+
+
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,27,,36||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,25,,34||
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,lafayette county,,42.6605,,-90.13172,,23,,39||
+No Gaz,,kansas city,,39.09973,,-94.57857,,59,,70||No Gaz,,lexington,,5.04056,,-9.03806,,21,,30||
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,100,,109||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,48,,57||No Gaz,,lafayette county,,42.6605,,-90.13172,,72,,88||No Gaz,,downtown kansas city,,39.0,,-94.5,,24,,44||
+No Gaz,,lexington,,5.04056,,-9.03806,,101,,110||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,dawson county,,47.26638,,-104.89946,,23,,36||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,lexington,,5.04056,,-9.03806,,39,,48||
+
+
+
+No Gaz,,united states of america,,36.5,,-114.5,,70,,94||
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,manhattan,,40.71427,,-74.00597,,45,,54||
+
+No Gaz,,midtown manhattan,,40.5,,-74.0,,11,,28||
+
+No Gaz,,manhattan,,40.71427,,-74.00597,,79,,88||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,davidson county,,35.79328,,-80.21269,,32,,47||
+No Gaz,,lexington,,5.04056,,-9.03806,,103,,112||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,12,,21||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,lexington,,5.04056,,-9.03806,,140,,149||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,richland county,,43.37564,,-90.42948,,26,,41||No Gaz,,u.s.,,45.679546,,-112.46167,,49,,53||
+No Gaz,,lexington,,5.04056,,-9.03806,,131,,140||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,17,,26||
+No Gaz,,lexington,,5.04056,,-9.03806,,26,,35||
+No Gaz,,lexington,,5.04056,,-9.03806,,100,,109||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,cleveland county,,33.89836,,-92.18514,,23,,39||
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,101,,110||
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,cleveland county,,33.89836,,-92.18514,,31,,47||
+No Gaz,,lexington,,5.04056,,-9.03806,,45,,54||
+No Gaz,,lexington,,5.04056,,-9.03806,,11,,20||
+No Gaz,,lexington,,5.04056,,-9.03806,,107,,116||
+No Gaz,,lexington,,5.04056,,-9.03806,,61,,70||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,96,,105||
+No Gaz,,lexington,,5.04056,,-9.03806,,12,,21||No Gaz,,southern morrow county,,41.0,,73.0,,65,,87||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,19,,28||No Gaz,,lexington,,5.04056,,-9.03806,,62,,71||
+No Gaz,,lexington,,5.04056,,-9.03806,,28,,37||
+
+
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,14,,23||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,35,,44||
+
+
+
+
+
+
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,morrow county,,40.52409,,-82.79407,,23,,36||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,lexington county,,33.90233,,-81.27219,,46,,62||
+No Gaz,,lexington,,5.04056,,-9.03806,,20,,29||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+No Gaz,,lexington,,5.04056,,-9.03806,,36,,45||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,101,,110||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+No Gaz,,lexington county,,33.90233,,-81.27219,,30,,46||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,88,,97||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,101,,110||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,henderson county,,35.65426,,-88.38799,,23,,39||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,henderson county,,35.65426,,-88.38799,,31,,47||
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,12,,21||
+No Gaz,,lexington,,5.04056,,-9.03806,,74,,83||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,lee county,,36.70545,,-83.12853,,23,,33||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+No Gaz,,lexington,,5.04056,,-9.03806,,101,,110||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,austin,,30.26715,,-97.74306,,76,,82||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,33,,42||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+No Gaz,,lexington,,5.04056,,-9.03806,,52,,61||
+No Gaz,,lexington,,5.04056,,-9.03806,,19,,28||
+No Gaz,,lexington,,5.04056,,-9.03806,,69,,78||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,19,,28||No Gaz,,lexington,,5.04056,,-9.03806,,62,,71||
+No Gaz,,lexington,,5.04056,,-9.03806,,28,,37||
+
+
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,14,,23||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,35,,44||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,lexington,,5.04056,,-9.03806,,101,,110||
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,9,,18||No Gaz,,washington,,38.89511,,-77.03637,,130,,140||No Gaz,,lexington,,5.04056,,-9.03806,,204,,213||
+No Gaz,,washington,,38.89511,,-77.03637,,40,,50||No Gaz,,washington,,38.89511,,-77.03637,,186,,196||No Gaz,,lexington,,5.04056,,-9.03806,,218,,227||
+
+No Gaz,,lexington,,5.04056,,-9.03806,,0,,9||No Gaz,,rockbridge county,,37.81461,,-79.44758,,56,,73||
+No Gaz,,lexington,,5.04056,,-9.03806,,34,,43||
+No Gaz,,milford,,52.78333,,-2.05,,101,,108||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+
+No Gaz,,united states,,45.679546,,-112.46167,,46,,59||No Gaz,,danbury,,41.39482,,-73.45401,,86,,93||No Gaz,,litchfield county,,41.79249,,-73.24532,,25,,42||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,u.s.,,45.679546,,-112.46167,,53,,57||
+No Gaz,,milford,,52.78333,,-2.05,,101,,108||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+
+No Gaz,,maryland,,39.066208,,-76.80011,,149,,157||No Gaz,,sussex county,,38.6833,,-75.33954,,46,,59||No Gaz,,milford,,52.78333,,-2.05,,22,,29||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,maryland,,39.066208,,-76.80011,,117,,125||No Gaz,,sussex county,,38.6833,,-75.33954,,14,,27||
+No Gaz,,milford,,52.78333,,-2.05,,37,,44||
+
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,milford,,52.78333,,-2.05,,24,,31||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+No Gaz,,milford,,52.78333,,-2.05,,100,,107||
+
+No Gaz,,milford,,52.78333,,-2.05,,15,,22||No Gaz,,milford,,52.78333,,-2.05,,69,,76||
+
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,united states,,45.679546,,-112.46167,,34,,47||
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,dickinson county,,38.8665,,-97.1527,,21,,37||
+No Gaz,,milford,,52.78333,,-2.05,,100,,107||
+
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,dickinson county,,38.8665,,-97.1527,,29,,45||
+No Gaz,,milford,,52.78333,,-2.05,,65,,72||
+No Gaz,,milford,,52.78333,,-2.05,,100,,107||
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,united states,,45.679546,,-112.46167,,44,,57||No Gaz,,geary county,,39.00236,,-96.75254,,21,,33||
+No Gaz,,u.s.,,45.679546,,-112.46167,,23,,27||
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,penobscot county,,45.40051,,-68.64943,,21,,37||
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+No Gaz,,milford,,52.78333,,-2.05,,12,,19||No Gaz,,boston,,42.35843,,-71.05977,,125,,131||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,worcester county,,38.2165,,-75.29667,,21,,37||
+
+No Gaz,,milford,,52.78333,,-2.05,,100,,107||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+
+No Gaz,,milford,,52.78333,,-2.05,,81,,88||No Gaz,,united states,,45.679546,,-112.46167,,106,,119||No Gaz,,milford,,52.78333,,-2.05,,209,,216||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,oakland county,,42.66041,,-83.3858,,24,,38||No Gaz,,u.s.,,45.679546,,-112.46167,,46,,50||
+No Gaz,,milford,,52.78333,,-2.05,,101,,108||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+
+No Gaz,,united states,,45.679546,,-112.46167,,107,,120||No Gaz,,milford,,52.78333,,-2.05,,73,,80||
+No Gaz,,milford,,52.78333,,-2.05,,56,,63||No Gaz,,southwest oakland county,,54.0,,-1.0,,11,,35||
+
+
+No Gaz,,milford,,52.78333,,-2.05,,15,,22||No Gaz,,milford,,52.78333,,-2.05,,66,,73||
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,barton county,,38.47896,,-98.75646,,24,,37||
+
+No Gaz,,milford,,52.78333,,-2.05,,9,,16||
+No Gaz,,milford,,52.78333,,-2.05,,9,,16||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,seward county,,40.87239,,-97.13951,,21,,34||
+No Gaz,,milford,,52.78333,,-2.05,,100,,107||
+
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,seward county,,40.87239,,-97.13951,,29,,42||
+No Gaz,,milford,,52.78333,,-2.05,,65,,72||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,hillsborough county,,27.90623,,-82.34692,,21,,40||No Gaz,,united states,,45.679546,,-112.46167,,45,,58||
+No Gaz,,milford,,52.78333,,-2.05,,19,,26||
+No Gaz,,milford,,52.78333,,-2.05,,40,,47||
+No Gaz,,milford,,52.78333,,-2.05,,40,,47||No Gaz,,milford,,52.78333,,-2.05,,220,,227||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,amherst,,37.58514,,-79.05141,,37,,44||
+No Gaz,,milford,,52.78333,,-2.05,,60,,67||
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+No Gaz,,milford,,52.78333,,-2.05,,71,,78||No Gaz,,delaware river,,39.43261,,-75.52881,,339,,353||No Gaz,,milford,,52.78333,,-2.05,,313,,320||
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+No Gaz,,milford,,52.78333,,-2.05,,102,,109||
+No Gaz,,milford,,52.78333,,-2.05,,1,,8||
+
+No Gaz,,milford,,52.78333,,-2.05,,15,,22||
+
+No Gaz,,milford,,52.78333,,-2.05,,99,,106||
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,miami river,,25.77038,,-80.18671,,92,,103||No Gaz,,u.s.,,45.679546,,-112.46167,,59,,63||
+
+No Gaz,,milford,,52.78333,,-2.05,,84,,91||No Gaz,,american,,36.57645,,-91.58764,,149,,157||No Gaz,,springfield,,42.10148,,-72.58981,,56,,67||
+No Gaz,,milford,,52.78333,,-2.05,,45,,52||
+
+No Gaz,,milford,,52.78333,,-2.05,,101,,108||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+
+No Gaz,,milford,,52.78333,,-2.05,,4,,11||
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+No Gaz,,milford,,52.78333,,-2.05,,100,,107||
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,ellis county,,38.91475,,-99.31723,,84,,96||
+No Gaz,,milford,,52.78333,,-2.05,,101,,108||
+
+No Gaz,,milford,,52.78333,,-2.05,,108,,115||
+No Gaz,,milford,,52.78333,,-2.05,,108,,115||
+No Gaz,,milford,,52.78333,,-2.05,,29,,36||
+No Gaz,,milford,,52.78333,,-2.05,,23,,30||
+No Gaz,,milford,,52.78333,,-2.05,,129,,136||
+No Gaz,,milford,,52.78333,,-2.05,,42,,49||
+
+
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||
+
+No Gaz,,milford,,52.78333,,-2.05,,100,,107||
+
+
+No Gaz,,milford,,52.78333,,-2.05,,12,,19||No Gaz,,milford,,52.78333,,-2.05,,66,,73||
+
+No Gaz,,milford,,52.78333,,-2.05,,0,,7||No Gaz,,beaver county,,40.68226,,-80.34929,,21,,34||
+No Gaz,,milford,,52.78333,,-2.05,,54,,61||No Gaz,,milford,,52.78333,,-2.05,,216,,223||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,riverside county,,33.74368,,-115.99386,,49,,65||
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+
+
+
+
+
+No Gaz,,litchfield county,,41.79249,,-73.24532,,40,,57||
+
+No Gaz,,lewis county,,38.99587,,-80.50216,,24,,36||
+
+
+
+No Gaz,,scott county,,38.68507,,-85.74747,,24,,36||
+
+
+No Gaz,,randolph county,,38.77472,,-79.8758,,46,,61||
+
+
+
+No Gaz,,randolph county,,38.77472,,-79.8758,,8,,23||No Gaz,,randolph county,,38.77472,,-79.8758,,55,,70||No Gaz,,randolph county,,38.77472,,-79.8758,,176,,191||No Gaz,,randolph county,,38.77472,,-79.8758,,239,,254||
+No Gaz,,randolph county,,38.77472,,-79.8758,,52,,67||
+No Gaz,,randolph county,,38.77472,,-79.8758,,17,,32||
+
+
+No Gaz,,jefferson county,,43.99885,,-76.05211,,24,,40||
+
+
+
+
+No Gaz,,clark county,,39.33357,,-87.78772,,47,,59||
+
+
+No Gaz,,boston,,42.35843,,-71.05977,,73,,79||No Gaz,,middlesex county,,40.44004,,-74.40889,,32,,48||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+No Gaz,,st. louis county,,47.5,,-92.5,,32,,48||
+
+No Gaz,,clark county,,39.33357,,-87.78772,,51,,63||
+
+No Gaz,,clark county,,39.33357,,-87.78772,,97,,109||
+No Gaz,,clark county,,39.33357,,-87.78772,,360,,372||
+No Gaz,,american,,36.57645,,-91.58764,,159,,167||
+No Gaz,,cheshire county,,42.91932,,-72.25118,,24,,39||
+No Gaz,,united states,,45.679546,,-112.46167,,110,,123||
+No Gaz,,cheshire county,,42.91932,,-72.25118,,36,,51||
+No Gaz,,adams county,,39.98789,,-91.18849,,27,,39||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,101,,114||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,franklin county,,39.41486,,-85.06028,,47,,62||
+No Gaz,,american,,36.57645,,-91.58764,,172,,180||No Gaz,,alabama,,32.793873,,-86.83148,,316,,323||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,charlotte county,,37.01161,,-78.66164,,26,,42||
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||
+No Gaz,,white county,,38.08748,,-88.17957,,23,,35||
+
+
+No Gaz,,northeast ohio,,41.5,,-81.5,,126,,140||
+
+
+
+
+
+
+No Gaz,,bolivar county,,33.79554,,-90.8804,,23,,37||
+No Gaz,,california,,37.24226,,-119.60236,,325,,335||No Gaz,,u.s.,,45.679546,,-112.46167,,103,,107||No Gaz,,south american,,62.5,,9.5,,231,,245||
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||
+
+
+
+No Gaz,,oswego county,,43.46389,,-76.20868,,26,,39||
+
+
+
+
+
+
+No Gaz,,rowan county,,35.63954,,-80.52464,,49,,61||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,33,,46||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,49,,62||No Gaz,,stutsman county,,46.97925,,-98.95883,,23,,38||
+
+
+
+
+
+
+
+No Gaz,,cleveland city,,41.5,,-81.5,,14,,28||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,cleveland,,-27.53333,,153.26666,,45,,54||
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,pawnee county,,36.31693,,-96.6993,,23,,36||
+No Gaz,,cleveland,,-27.53333,,153.26666,,74,,83||No Gaz,,missouri,,38.38417,,-92.49201,,232,,240||No Gaz,,missouri,,38.38417,,-92.49201,,279,,287||No Gaz,,texas,,31.499144,,-99.35326,,300,,305||
+
+
+
+
+
+
+No Gaz,,bradley county,,33.46642,,-92.1624,,23,,37||
+
+
+
+
+
+
+
+
+
+No Gaz,,liberty county,,30.15161,,-94.81221,,23,,37||
+No Gaz,,houston,,29.76328,,-95.36327,,124,,131||
+No Gaz,,houston,,29.76328,,-95.36327,,58,,65||
+
+No Gaz,,united states,,45.679546,,-112.46167,,46,,59||No Gaz,,emery county,,38.99677,,-110.70067,,23,,35||
+
+No Gaz,,emery county,,38.99677,,-110.70067,,23,,35||
+No Gaz,,russell county,,32.28838,,-85.18496,,23,,37||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,44,,48||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||
+
+No Gaz,,rural southeast weld county,,39.5,,-106.5,,68,,95||
+
+
+
+
+
+
+
+No Gaz,,weld county,,40.55484,,-104.39253,,30,,41||
+
+No Gaz,,mexico,,23.947536,,-102.52345,,87,,93||No Gaz,,palm harbor pinellas st. petersburg east,,28.0,,-82.0,,241,,281||
+No Gaz,,united states,,45.679546,,-112.46167,,92,,105||No Gaz,,pasco county,,28.30674,,-82.43887,,76,,88||
+No Gaz,,united states,,45.679546,,-112.46167,,97,,110||
+
+
+
+
+
+
+No Gaz,,mclean county,,40.5,,-88.5,,23,,36||
+
+No Gaz,,united states,,45.679546,,-112.46167,,97,,110||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,0,,4||
+
+
+
+
+
+
+
+
+No Gaz,,hudson city,,40.5,,-74.0,,14,,25||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,97,,110||
+
+
+
+
+
+
+
+
+
+No Gaz,,stafford county,,38.4207,,-77.45743,,20,,35||
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,hudson city,,40.5,,-74.0,,14,,25||
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,97,,110||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,97,,110||
+No Gaz,,middlesex county,,40.44004,,-74.40889,,20,,36||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,105,,118||
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,42,,46||No Gaz,,lenawee county,,41.89508,,-84.06636,,20,,34||
+
+
+
+
+No Gaz,,lenawee county,,41.89508,,-84.06636,,28,,42||
+No Gaz,,hillsborough county,,27.90623,,-82.34692,,20,,39||
+No Gaz,,nashua,,42.76537,,-71.46757,,248,,254||
+No Gaz,,nashua,,42.76537,,-71.46757,,86,,92||
+
+
+
+
+
+
+
+
+No Gaz,,boston,,42.35843,,-71.05977,,19,,25||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,106,,119||
+
+
+
+
+
+
+
+
+No Gaz,,columbia county,,42.25008,,-73.63185,,109,,124||No Gaz,,washington,,38.89511,,-77.03637,,359,,369||No Gaz,,columbia county,,42.25008,,-73.63185,,136,,151||No Gaz,,american,,36.57645,,-91.58764,,591,,599||
+No Gaz,,boston,,42.35843,,-71.05977,,153,,159||No Gaz,,albany,,-35.0031,,117.86595,,124,,130||No Gaz,,columbia county,,42.25008,,-73.63185,,62,,77||
+
+
+
+
+
+No Gaz,,caldwell county,,39.65575,,-93.9828,,20,,35||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,37,,50||No Gaz,,summit county,,41.12598,,-81.53217,,20,,33||
+No Gaz,,lincoln county,,38.17536,,-82.07039,,20,,34||
+
+
+
+
+No Gaz,,lincoln county,,38.17536,,-82.07039,,20,,34||
+
+
+
+
+
+No Gaz,,st. croix county,,45.0,,-92.5,,20,,36||
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,bartow county,,34.23786,,-84.8405,,22,,35||
+No Gaz,,kingston,,-38.0045,,145.0953,,100,,108||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,47,,55||
+No Gaz,,ga.,,32.0,,-6.0,,61,,64||No Gaz,,cartersville,,37.66737,,-78.08833,,47,,59||No Gaz,,kingston,,-38.0045,,145.0953,,13,,21||
+No Gaz,,kingston,,-38.0045,,145.0953,,100,,108||
+
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,plymouth county,,41.98743,,-70.73707,,30,,45||
+No Gaz,,kingston,,-38.0045,,145.0953,,81,,89||No Gaz,,united states,,45.679546,,-112.46167,,107,,120||No Gaz,,kingston,,-38.0045,,145.0953,,210,,218||
+No Gaz,,kingston,,-38.0045,,145.0953,,100,,108||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,tuscola county,,43.49134,,-83.43987,,25,,39||No Gaz,,u.s.,,45.679546,,-112.46167,,47,,51||
+No Gaz,,kingston,,-38.0045,,145.0953,,101,,109||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+No Gaz,,kingston,,-38.0045,,145.0953,,15,,23||No Gaz,,kingston,,-38.0045,,145.0953,,68,,76||
+
+
+No Gaz,,kingston,,-38.0045,,145.0953,,12,,20||No Gaz,,kingston,,-38.0045,,145.0953,,65,,73||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,14,,22||
+No Gaz,,kingston city,,28.1159,,-82.2307,,19,,32||No Gaz,,kingston city,,28.1159,,-82.2307,,60,,73||
+No Gaz,,kingston,,-38.0045,,145.0953,,28,,36||No Gaz,,kingston,,-38.0045,,145.0953,,80,,88||
+
+
+
+No Gaz,,kingston city,,28.1159,,-82.2307,,14,,27||
+
+No Gaz,,kingston city,,28.1159,,-82.2307,,35,,48||
+
+
+
+
+
+No Gaz,,kingston,,-38.0045,,145.0953,,25,,33||
+
+
+No Gaz,,kingston,,-38.0045,,145.0953,,100,,108||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,caldwell county,,39.65575,,-93.9828,,22,,37||
+No Gaz,,kingston,,-38.0045,,145.0953,,12,,20||No Gaz,,kingston,,-38.0045,,145.0953,,65,,73||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,4,,12||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+No Gaz,,kingston,,-38.0045,,145.0953,,102,,110||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,u.s.,,45.679546,,-112.46167,,75,,79||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,4,,12||
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||
+No Gaz,,south brunswick,,40.5,,-74.5,,94,,109||No Gaz,,middlesex county,,40.44004,,-74.40889,,122,,138||No Gaz,,united states,,45.679546,,-112.46167,,189,,202||No Gaz,,somerset county,,38.08007,,-75.85347,,164,,179||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+
+No Gaz,,atlantic terra cotta,,40.5,,-74.5,,281,,301||No Gaz,,delaware river,,39.43261,,-75.52881,,316,,330||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+No Gaz,,delaware,,38.99459,,-75.50534,,174,,182||No Gaz,,honesdale,,41.57676,,-75.25879,,128,,137||No Gaz,,pennsylvania,,30.87324,,-88.0475,,139,,151||No Gaz,,kingston,,-38.0045,,145.0953,,50,,58||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+No Gaz,,kingston,,-38.0045,,145.0953,,102,,110||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+No Gaz,,delaware,,38.99459,,-75.50534,,174,,182||No Gaz,,honesdale,,41.57676,,-75.25879,,128,,137||No Gaz,,pennsylvania,,30.87324,,-88.0475,,139,,151||No Gaz,,kingston,,-38.0045,,145.0953,,50,,58||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,ross county,,39.33763,,-83.05703,,25,,36||
+No Gaz,,kingston,,-38.0045,,145.0953,,100,,108||
+
+
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,marshall county,,39.86061,,-80.66339,,22,,37||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+No Gaz,,kingston,,-38.0045,,145.0953,,101,,109||
+
+
+No Gaz,,kingston,,-38.0045,,145.0953,,20,,28||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,united states,,45.679546,,-112.46167,,56,,69||No Gaz,,luzerne county,,41.17701,,-75.98903,,38,,52||
+No Gaz,,kingston,,-38.0045,,145.0953,,101,,109||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+
+No Gaz,,scranton,,41.40897,,-75.66241,,82,,90||No Gaz,,luzerne county,,41.17701,,-75.98903,,48,,62||No Gaz,,kingston,,-38.0045,,145.0953,,22,,30||No Gaz,,new jersey,,40.19738,,-74.6646,,138,,148||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,new jersey,,40.19738,,-74.6646,,105,,115||No Gaz,,scranton,,41.40897,,-75.66241,,49,,57||No Gaz,,luzerne county,,41.17701,,-75.98903,,15,,29||
+
+
+No Gaz,,kingston,,-38.0045,,145.0953,,22,,30||
+No Gaz,,kingston,,-38.0045,,145.0953,,22,,30||
+
+No Gaz,,south kingstown,,41.44718,,-71.52494,,31,,46||No Gaz,,kingston,,-38.0045,,145.0953,,21,,29||No Gaz,,washington county,,39.60367,,-77.81398,,206,,223||
+No Gaz,,united states,,45.679546,,-112.46167,,87,,100||No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,south kingstown,,41.44718,,-71.52494,,67,,82||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,south kingstown,,41.44718,,-71.52494,,25,,40||
+No Gaz,,kingston,,-38.0045,,145.0953,,50,,58||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,34,,42||
+No Gaz,,washington county,,39.60367,,-77.81398,,50,,67||No Gaz,,boston,,42.35843,,-71.05977,,134,,140||No Gaz,,kingston,,-38.0045,,145.0953,,22,,30||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,kingston,,-38.0045,,145.0953,,221,,229||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+
+No Gaz,,boston,,42.35843,,-71.05977,,100,,106||No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,washington county,,39.60367,,-77.81398,,16,,33||
+No Gaz,,kingston,,-38.0045,,145.0953,,51,,59||
+
+
+No Gaz,,kingston,,-38.0045,,145.0953,,17,,25||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,united states,,45.679546,,-112.46167,,61,,74||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,united states,,45.679546,,-112.46167,,49,,62||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+
+
+
+No Gaz,,kingston,,-38.0045,,145.0953,,101,,109||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+
+
+
+
+No Gaz,,kingston,,-38.0045,,145.0953,,43,,51||
+
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,united states,,45.679546,,-112.46167,,47,,60||No Gaz,,piute county,,38.33645,,-112.12695,,22,,34||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,kingston,,-38.0045,,145.0953,,55,,63||
+No Gaz,,jamaica kingston,,18.0,,-77.0,,34,,50||No Gaz,,kitsap county,,47.63983,,-122.649,,116,,129||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||
+No Gaz,,kingston,,-38.0045,,145.0953,,101,,109||
+No Gaz,,kingston,,-38.0045,,145.0953,,36,,44||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+No Gaz,,kingston,,-38.0045,,145.0953,,0,,8||No Gaz,,green lake county,,43.80038,,-89.04486,,25,,42||
+No Gaz,,kingston,,-38.0045,,145.0953,,49,,57||
+No Gaz,,kingston,,-38.0045,,145.0953,,98,,106||
+
+
+
+
+
+
+
+No Gaz,,montgomery county,,39.13638,,-77.20424,,34,,51||
+
+
+
+No Gaz,,posey county,,38.02189,,-87.86847,,80,,92||No Gaz,,ohio river,,36.98672,,-89.13063,,46,,56||
+
+
+
+
+
+No Gaz,,posey county,,38.02189,,-87.86847,,34,,46||
+No Gaz,,lisbon,,38.71667,,-9.13333,,80,,86||No Gaz,,united states,,45.679546,,-112.46167,,41,,54||No Gaz,,linn county,,44.48857,,-122.53419,,26,,37||
+
+
+
+No Gaz,,lisbon,,38.71667,,-9.13333,,17,,23||
+
+No Gaz,,rockcastle county,,37.36518,,-84.31594,,26,,43||
+
+
+
+
+
+
+No Gaz,,kennebec county,,44.40916,,-69.76726,,26,,41||
+
+
+No Gaz,,kennebec county,,44.40916,,-69.76726,,26,,41||
+
+
+
+
+No Gaz,,lawrence county,,38.84116,,-86.48345,,26,,41||
+
+
+
+
+
+
+
+No Gaz,,westchester county,,41.15148,,-73.75339,,26,,44||
+
+
+
+No Gaz,,westchester county,,41.15148,,-73.75339,,58,,76||
+
+
+No Gaz,,westchester county,,41.15148,,-73.75339,,20,,38||
+
+
+
+
+
+
+
+
+No Gaz,,knox county,,42.63678,,-97.8919,,26,,37||
+No Gaz,,united states,,45.679546,,-112.46167,,103,,116||
+No Gaz,,grant county,,42.86749,,-90.70622,,26,,38||
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,franklin county,,39.41486,,-85.06028,,26,,41||
+
+
+
+
+No Gaz,,arkansas,,34.904453,,-92.444305,,192,,200||
+
+
+No Gaz,,america,,45.679546,,-112.46167,,78,,85||
+
+No Gaz,,skagit county,,48.48215,,-121.80227,,26,,39||
+
+
+
+
+
+No Gaz,,alexandria,,31.21564,,29.95527,,88,,98||No Gaz,,d.c.,,38.918003,,-77.019104,,62,,66||No Gaz,,virginia,,37.53038,,-78.830025,,100,,108||
+
+
+
+
+
+
+No Gaz,,orange county,,41.40214,,-74.30557,,21,,34||
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+No Gaz,,broward county,,26.15186,,-80.45589,,26,,40||
+No Gaz,,canada,,61.362064,,-98.30777,,50,,56||
+
+
+
+
+
+
+
+No Gaz,,coles county,,39.52029,,-88.2218,,21,,33||
+
+No Gaz,,west nishnabotna river,,40.6525,,-95.6236,,36,,58||No Gaz,,pottawattamie county,,41.33661,,-95.54239,,62,,82||
+
+
+
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,44,,48||No Gaz,,kennebec county,,44.40916,,-69.76726,,21,,36||
+
+No Gaz,,united states,,45.679546,,-112.46167,,106,,119||
+No Gaz,,oakland,,37.80437,,-122.2708,,0,,7||
+No Gaz,,garrett county,,39.5286,,-79.27388,,46,,60||
+No Gaz,,u.s.,,45.679546,,-112.46167,,138,,142||
+No Gaz,,oakland,,37.80437,,-122.2708,,0,,7||
+
+
+No Gaz,,yalobusha county,,34.02821,,-89.70763,,21,,37||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,burt county,,41.85156,,-96.3286,,11,,22||
+No Gaz,,burt county,,41.85156,,-96.3286,,21,,32||
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,99,,112||
+No Gaz,,bergen county,,40.95977,,-74.07441,,24,,37||
+
+
+No Gaz,,oakland,,37.80437,,-122.2708,,22,,29||
+
+No Gaz,,oakland,,37.80437,,-122.2708,,0,,7||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,39,,52||No Gaz,,douglas county,,46.46411,,-91.8994,,21,,35||
+
+
+
+
+
+
+
+No Gaz,,oakland,,37.80437,,-122.2708,,11,,18||
+No Gaz,,roseburg,,43.2165,,-123.34174,,46,,54||
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,98,,111||
+
+No Gaz,,united states,,45.679546,,-112.46167,,59,,72||
+
+No Gaz,,united states,,45.679546,,-112.46167,,59,,72||
+No Gaz,,united states,,45.679546,,-112.46167,,37,,50||
+No Gaz,,pa.,,27.5,,83.0,,162,,165||No Gaz,,pittsburgh,,48.62943,,-97.17813,,150,,160||
+
+
+
+
+
+
+
+
+
+No Gaz,,sumter county,,32.59101,,-88.19879,,46,,59||
+No Gaz,,fayette county,,38.02878,,-81.08119,,21,,35||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,166,,170||
+No Gaz,,oakland,,37.80437,,-122.2708,,0,,7||
+
+
+No Gaz,,fayette county,,38.02878,,-81.08119,,40,,54||No Gaz,,somerville,,42.3876,,-71.0995,,94,,104||
+
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||
+No Gaz,,united states,,45.679546,,-112.46167,,43,,56||No Gaz,,riverside county,,33.74368,,-115.99386,,23,,39||
+No Gaz,,santa ana river,,33.62808,,-117.95867,,34,,49||
+No Gaz,,united states,,45.679546,,-112.46167,,48,,61||
+No Gaz,,united states,,45.679546,,-112.46167,,173,,186||
+
+No Gaz,,washington,,38.89511,,-77.03637,,232,,242||
+
+
+
+No Gaz,,american,,36.57645,,-91.58764,,549,,557||No Gaz,,american,,36.57645,,-91.58764,,591,,599||No Gaz,,arlington,,42.74915,,-91.67127,,317,,326||
+
+No Gaz,,riverside county,,33.74368,,-115.99386,,120,,136||No Gaz,,united states,,45.679546,,-112.46167,,8,,21||
+
+No Gaz,,colquitt county,,31.18839,,-83.76885,,23,,38||
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||
+No Gaz,,cook county,,41.8954,,-87.64616,,45,,56||
+No Gaz,,united states,,45.679546,,-112.46167,,133,,146||
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,50,,63||No Gaz,,washington county,,39.60367,,-77.81398,,29,,46||
+
+
+
+
+
+
+
+
+No Gaz,,platte county,,41.57129,,-97.52116,,23,,36||
+No Gaz,,united states,,45.679546,,-112.46167,,100,,113||
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,40,,53||
+
+No Gaz,,united states,,45.679546,,-112.46167,,40,,53||
+No Gaz,,united states,,45.679546,,-112.46167,,40,,53||
+No Gaz,,united states,,45.679546,,-112.46167,,72,,85||
+
+No Gaz,,united states,,45.679546,,-112.46167,,72,,85||
+
+
+
+
+
+
+
+No Gaz,,montgomery county,,39.13638,,-77.20424,,31,,48||
+No Gaz,,united states,,45.679546,,-112.46167,,61,,74||
+
+No Gaz,,northumberland county,,37.85466,,-76.37952,,26,,47||
+
+
+
+No Gaz,,providence county,,41.87136,,-71.5786,,43,,60||
+
+No Gaz,,walker county,,33.80333,,-87.29736,,29,,42||
+
+
+
+No Gaz,,okanogan county,,48.54885,,-119.74079,,23,,38||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,carbon county,,40.91818,,-75.70882,,23,,36||
+
+
+
+No Gaz,,pope county,,35.44763,,-93.03416,,25,,36||
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,american,,36.57645,,-91.58764,,91,,99||
+
+
+
+
+
+No Gaz,,hillsborough county,,27.90623,,-82.34692,,54,,73||
+No Gaz,,united states,,45.679546,,-112.46167,,96,,109||
+
+
+
+
+
+No Gaz,,bonner county,,48.29975,,-116.60097,,19,,32||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,mason county,,40.23965,,-89.91678,,37,,49||No Gaz,,ohio river,,36.98672,,-89.13063,,23,,33||
+No Gaz,,augusta,,-34.31566,,115.15922,,40,,47||
+
+
+No Gaz,,norfolk county,,42.17097,,-71.18381,,35,,49||No Gaz,,united states,,45.679546,,-112.46167,,53,,66||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,104,,117||
+
+No Gaz,,boston,,42.35843,,-71.05977,,36,,42||
+
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,53,,57||
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,53,,57||
+
+No Gaz,,u.s.,,45.679546,,-112.46167,,53,,57||
+No Gaz,,otsego county,,42.63376,,-75.03261,,38,,51||No Gaz,,u.s.,,45.679546,,-112.46167,,59,,63||
+No Gaz,,otsego county,,42.63376,,-75.03261,,56,,69||
+No Gaz,,otsego county,,42.63376,,-75.03261,,38,,51||No Gaz,,u.s.,,45.679546,,-112.46167,,59,,63||
+
+
+No Gaz,,lafayette county,,42.6605,,-90.13172,,22,,38||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,virginia,,37.53038,,-78.830025,,171,,179||No Gaz,,lafayette county,,42.6605,,-90.13172,,30,,46||
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,89,,102||
+
+No Gaz,,united states of america,,36.5,,-114.5,,47,,71||No Gaz,,strafford county,,43.29743,,-71.0294,,19,,35||
+No Gaz,,london,,51.50853,,-0.12574,,169,,175||No Gaz,,united states,,45.679546,,-112.46167,,266,,279||No Gaz,,bristol,,51.45523,,-2.59665,,69,,76||No Gaz,,england,,52.59844,,-1.459341,,78,,85||
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,23,,36||
+No Gaz,,morris county,,40.86203,,-74.54444,,19,,32||
+No Gaz,,west of york city,,-34.0,,151.0,,-1,,16||
+
+No Gaz,,united states,,45.679546,,-112.46167,,73,,86||
+
+
+
+
+
+No Gaz,,craven county,,35.11722,,-77.08263,,19,,32||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,tuscarawas county,,40.44096,,-81.47377,,19,,36||
+
+
+
+
+
+
+
+No Gaz,,kingfisher county,,35.94539,,-97.94211,,19,,36||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,37,,50||No Gaz,,york county,,39.91996,,-76.72651,,22,,33||
+
+
+
+
+No Gaz,,york county,,39.91996,,-76.72651,,70,,81||
+
+
+
+No Gaz,,united states,,45.679546,,-112.46167,,37,,50||No Gaz,,nashville,,36.16589,,-86.78444,,87,,96||No Gaz,,stewart county,,36.5011,,-87.83846,,19,,33||
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1639 @@
+Nigeria,,Nigeria,,9.066667,,3.3833334,,85,,92||
+Alabama,,Alabama,,32.7,,-86.7,,32,,39||
+Libya,,Libya,,27.0,,17.0,,41,,46||
+Arizona,,Arizona,,34.0,,-112.0,,34,,41||
+
+Abingdon,,Abingdon,,51.667,,-1.283,,39,,47||WI,,WI,,44.8824,,-89.912,,100,,102||
+
+
+California,,California,,35.458607,,-119.35516,,15,,25||
+
+
+Ghana,,Ghana,,8.0,,-2.0,,21,,26||
+
+Iran,,Iran,,32.0,,51.416668,,21,,25||
+
+
+Bohol,,Bohol,,9.86,,124.07,,49,,54||
+Cuba,,Cuba,,23.133333,,-80.0,,45,,49||
+Ukraine,,Ukraine,,50.45,,30.5,,22,,29||
+
+
+Amman,,Amman,,31.949722,,35.932777,,50,,55||Iraq,,Iraq,,33.0,,44.0,,104,,108||
+USA,,USA,,40.0,,-77.01667,,55,,58||
+
+American,,American,,40.0,,-77.01667,,45,,53||Atlanta,,Atlanta,,33.755,,-84.39,,79,,86||
+USA,,USA,,40.0,,-77.01667,,73,,76||
+
+Rikers Island,,Rikers Island,,40.79111,,-73.882774,,36,,49||
+Southend,,Southend,,51.53789,,0.71377,,23,,31||
+Chhattisgarh,,Chhattisgarh,,21.27,,81.6,,28,,40||
+
+Ukraine,,Ukraine,,50.45,,30.5,,4,,11||Ukraine,,Ukraine,,50.45,,30.5,,41,,48||
+
+South Africa,,South Africa,,-30.0,,25.0,,0,,12||
+London,,London,,51.50722,,-0.1275,,0,,6||UK,,UK,,55.0,,-3.0,,7,,9||
+
+Japan,,Japan,,35.0,,136.0,,73,,78||
+Israel,,Israel,,31.783333,,35.0,,15,,21||
+Guam,,Guam,,13.5,,144.8,,37,,41||Guam,,Guam,,13.5,,144.8,,99,,103||
+VA,,VA,,36.0,,75.0,,83,,85||
+Boise,,Boise,,43.616665,,-116.2,,50,,55||
+Syria,,Syria,,33.5,,36.3,,130,,135||
+Liberia,,Liberia,,6.3166666,,-9.5,,82,,89||Sierra Leone,,Sierra Leone,,8.5,,-11.5,,94,,106||
+connecticut,,connecticut,,41.6,,-72.7,,23,,34||
+Atlanta,,Atlanta,,33.755,,-84.39,,36,,43||American,,American,,40.0,,-77.01667,,65,,73||
+Uttar Pradesh,,Uttar Pradesh,,26.85,,80.91,,57,,70||
+Calgary,,Calgary,,51.05,,-114.066666,,101,,108||
+Syria,,Syria,,33.5,,36.3,,34,,39||
+
+Syria,,Syria,,33.5,,36.3,,68,,73||
+New York,,New York,,43.0,,-75.0,,74,,82||
+
+Ukraine,,Ukraine,,50.45,,30.5,,27,,34||German,,German,,51.0,,13.383333,,63,,69||
+Clay County,,Clay County,,38.46,,-81.07,,127,,138||
+Imo State,,Imo State,,5.483333,,7.0333333,,50,,59||
+
+Gambia,,Gambia,,13.466666,,-16.583334,,70,,76||Gambia,,Gambia,,13.466666,,-16.583334,,130,,136||
+
+Ghana,,Ghana,,8.0,,-2.0,,123,,128||
+RALEIGH,,RALEIGH,,35.766666,,-78.63333,,52,,59||
+Philippines,,Philippines,,14.583333,,122.0,,85,,96||
+Iran,,Iran,,32.0,,51.416668,,0,,4||
+Dallas,,Dallas,,32.775833,,-96.79667,,86,,92||
+One Utama,,One Utama,,3.14815,,101.615845,,72,,81||
+Aleppo,,Aleppo,,36.216667,,37.166668,,26,,32||
+Gustine,,Gustine,,37.25778,,-120.998886,,102,,109||Merced County,,Merced County,,37.19,,-120.71,,111,,124||
+Niger,,Niger,,16.0,,8.0,,97,,102||
+
+
+London,,London,,51.50722,,-0.1275,,62,,68||
+
+
+Maryland,,Maryland,,37.0,,75.0,,0,,8||
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,10,,22||
+
+
+
+
+
+
+
+Texas,,Texas,,31.0,,-100.0,,122,,127||
+United States,,United States,,40.0,,-77.01667,,17,,30||
+Mpumalanga,,Mpumalanga,,-26.0,,30.0,,58,,68||
+USA,,USA,,40.0,,-77.01667,,80,,83||
+Los Angeles,,Los Angeles,,34.05,,-118.25,,28,,39||L.A.,,L.A.,,34.05,,-118.25,,78,,82||
+
+
+Iran,,Iran,,32.0,,51.416668,,132,,136||
+
+
+Syria,,Syria,,33.5,,36.3,,31,,36||
+Iraq,,Iraq,,33.0,,44.0,,42,,46||
+Faisalabad,,Faisalabad,,31.429167,,73.07889,,75,,85||
+Doha,,Doha,,25.286667,,51.533333,,58,,62||
+Israel,,Israel,,31.783333,,35.0,,0,,6||
+
+Gaza,,Gaza,,31.516666,,34.45,,29,,33||Israeli,,Israeli,,31.783333,,35.0,,54,,61||
+Harrow,,Harrow,,51.5836,,-0.3464,,73,,79||
+Mecklenburg County,,Mecklenburg County,,35.25,,-80.83,,20,,38||Mecklenburg County,,Mecklenburg County,,35.25,,-80.83,,44,,62||
+Rota,,Rota,,14.170278,,145.25667,,103,,107||
+
+
+
+
+Abuja,,Abuja,,9.066667,,7.483333,,70,,75||
+
+Faisalabad,,Faisalabad,,31.429167,,73.07889,,4,,14||FAISALABAD,,FAISALABAD,,31.429167,,73.07889,,50,,60||
+Himachal,,Himachal,,31.103333,,77.172226,,22,,30||
+Iraq,,Iraq,,33.0,,44.0,,107,,111||
+
+
+Indiana,,Indiana,,40.0,,-86.0,,89,,96||Ohio,,Ohio,,41.122,,-80.684,,97,,101||
+Cumbria,,Cumbria,,54.5,,-3.25,,11,,18||
+Harrow,,Harrow,,51.5836,,-0.3464,,77,,83||
+UK,,UK,,55.0,,-3.0,,34,,36||
+
+Kent,,Kent,,51.19,,0.73,,4,,8||Liberia,,Liberia,,6.3166666,,-9.5,,78,,85||
+Jos,,Jos,,9.933333,,8.883333,,59,,62||
+Moore, OK,,Moore, OK,,35.33889,,-97.4875,,107,,116||
+Iran,,Iran,,32.0,,51.416668,,103,,107||
+
+Kingsport,,Kingsport,,36.533333,,-82.55,,18,,27||TN,,TN,,34.0,,81.0,,28,,30||
+Ukraine,,Ukraine,,50.45,,30.5,,14,,21||
+
+
+Cincinnati,,Cincinnati,,39.1,,-84.51667,,51,,61||
+
+Israeli,,Israeli,,31.783333,,35.0,,127,,134||mili,,mili,,6.133333,,171.91667,,135,,139||
+Japan,,Japan,,35.0,,136.0,,57,,62||
+
+London,,London,,51.50722,,-0.1275,,83,,89||
+Haiti,,Haiti,,19.0,,-72.333336,,47,,52||
+Ukraine,,Ukraine,,50.45,,30.5,,115,,122||
+San Francisco,,San Francisco,,37.783333,,-122.416664,,19,,32||
+AR,,AR,,34.8,,-92.2,,68,,70||TN,,TN,,34.0,,81.0,,76,,78||Memphis,,Memphis,,35.1175,,-89.97111,,100,,107||
+Iran,,Iran,,32.0,,51.416668,,0,,4||Iran,,Iran,,32.0,,51.416668,,102,,106||
+
+China,,China,,35.0,,103.0,,0,,5||Guiyang,,Guiyang,,26.65,,106.63333,,33,,40||
+Wichita,,Wichita,,37.68889,,-97.33611,,32,,39||
+India,,India,,28.613333,,72.825836,,34,,39||
+
+Sierra Vista Municipal Airport,,Sierra Vista Municipal Airport,,31.588333,,-110.344444,,85,,115||
+California,,California,,35.458607,,-119.35516,,24,,34||
+Dallas,,Dallas,,32.775833,,-96.79667,,20,,26||United States,,United States,,40.0,,-77.01667,,78,,91||
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,0,,12||FREETOWN,,FREETOWN,,8.484445,,-13.234445,,50,,58||Sierra Leone,,Sierra Leone,,8.5,,-11.5,,90,,102||
+
+Iran,,Iran,,32.0,,51.416668,,32,,36||Iraq,,Iraq,,33.0,,44.0,,109,,113||Syria,,Syria,,33.5,,36.3,,116,,121||
+UK,,UK,,55.0,,-3.0,,0,,2||British,,British,,55.0,,-3.0,,40,,47||UK,,UK,,55.0,,-3.0,,89,,91||
+
+
+New Jersey,,New Jersey,,38.0,,73.0,,24,,34||
+FREETOWN,,FREETOWN,,8.484445,,-13.234445,,58,,66||Sierra Leone,,Sierra Leone,,8.5,,-11.5,,68,,80||australia,,australia,,-35.308,,133.0,,119,,128||
+
+
+Gaza,,Gaza,,31.516666,,34.45,,73,,77||
+Liberia,,Liberia,,6.3166666,,-9.5,,63,,70||
+Ferguson, Missouri,,Ferguson, Missouri,,38.744167,,-90.305275,,58,,76||
+North India,,North India,,28.613333,,72.825836,,110,,121||
+
+
+Chicago,,Chicago,,41.836945,,-87.68472,,32,,39||Wabash,,Wabash,,40.800835,,-85.827225,,76,,82||Missouri,,Missouri,,36.0,,89.0,,98,,106||
+UK,,UK,,55.0,,-3.0,,64,,66||
+wau,,wau,,7.7,,28.0,,51,,54||
+
+Bristol,,Bristol,,51.45,,-2.5833333,,44,,51||
+Christchurch,,Christchurch,,-43.53,,172.62029,,74,,86||
+Iraq,,Iraq,,33.0,,44.0,,97,,101||
+California,,California,,35.458607,,-119.35516,,26,,36||La Mirada,,La Mirada,,33.90222,,-118.00972,,108,,117||
+
+Manchester,,Manchester,,53.466667,,-2.2333333,,67,,77||
+Liberia,,Liberia,,6.3166666,,-9.5,,9,,16||Liberian,,Liberian,,6.3166666,,-9.5,,80,,88||
+Australia,,Australia,,-35.308,,133.0,,85,,94||
+Cali,,Cali,,3.4205556,,-76.522224,,39,,43||
+
+Baltimore,,Baltimore,,39.283333,,-76.61667,,47,,56||
+Virginia,,Virginia,,36.0,,75.0,,14,,22||CAPE CHARLES,,CAPE CHARLES,,37.2675,,-76.01412,,43,,55||AP,,AP,,16.5,,80.64,,62,,64||
+
+Brazil,,Brazil,,-15.783334,,-47.866665,,25,,31||
+Missouri,,Missouri,,36.0,,89.0,,0,,8||Missouri,,Missouri,,36.0,,89.0,,100,,108||
+
+Canadian,,Canadian,,60.0,,-75.666664,,83,,91||Bodelwyddan,,Bodelwyddan,,53.268,,-3.499,,111,,122||
+Pasadena,,Pasadena,,34.156113,,-118.13194,,0,,8||
+Ukraine,,Ukraine,,50.45,,30.5,,18,,25||
+Arabian Sea,,Arabian Sea,,18.0,,66.0,,54,,65||Karachi,,Karachi,,24.86,,67.01,,99,,106||
+Senegal,,Senegal,,14.666667,,-14.0,,42,,49||
+
+Iran,,Iran,,32.0,,51.416668,,17,,21||
+
+
+Tanzania,,Tanzania,,-6.307,,34.854,,109,,117||
+Lake District,,Lake District,,54.5,,-3.1666667,,51,,64||
+Brazil,,Brazil,,-15.783334,,-47.866665,,16,,22||Germany,,Germany,,51.0,,13.383333,,74,,81||
+
+Ukraine,,Ukraine,,50.45,,30.5,,19,,26||Donetsk airport,,Donetsk airport,,48.075,,37.725555,,29,,44||Ukrainian,,Ukrainian,,50.45,,30.5,,46,,55||
+Flint,,Flint,,43.01,,-83.69,,17,,22||
+The Hague,,The Hague,,52.083332,,4.3166666,,90,,99||
+
+UK,,UK,,55.0,,-3.0,,39,,41||
+Philippines,,Philippines,,14.583333,,122.0,,23,,34||
+India,,India,,28.613333,,72.825836,,34,,39||Indian,,Indian,,28.613333,,72.825836,,92,,98||
+Syria,,Syria,,33.5,,36.3,,0,,5||
+Sullivan County,,Sullivan County,,41.72,,-74.76,,87,,102||
+
+
+
+Tel Aviv,,Tel Aviv,,32.083332,,34.783333,,31,,39||
+Canada,,Canada,,60.0,,-75.666664,,33,,39||Sierra Leone,,Sierra Leone,,8.5,,-11.5,,108,,120||
+Red Rock Canyon,,Red Rock Canyon,,36.135574,,-115.42724,,43,,58||
+Mississippi,,Mississippi,,30.0,,88.0,,31,,42||
+chicago,,chicago,,41.836945,,-87.68472,,114,,121||
+Iran,,Iran,,32.0,,51.416668,,17,,21||
+Yemen,,Yemen,,15.0,,48.0,,0,,5||
+california,,california,,35.458607,,-119.35516,,100,,110||
+Gilroy,,Gilroy,,37.012047,,-121.58,,34,,40||
+tennessee,,tennessee,,34.0,,81.0,,10,,19||
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,87,,99||
+Hawaii,,Hawaii,,21.311388,,-157.79639,,20,,26||Japan,,Japan,,35.0,,136.0,,92,,97||
+London,,London,,51.50722,,-0.1275,,120,,126||
+Panama,,Panama,,8.966666,,-79.53333,,41,,47||
+
+Iraq,,Iraq,,33.0,,44.0,,10,,14||British,,British,,55.0,,-3.0,,16,,23||Iraq,,Iraq,,33.0,,44.0,,90,,94||
+United States,,United States,,40.0,,-77.01667,,92,,105||
+Iran,,Iran,,32.0,,51.416668,,0,,4||Iraq,,Iraq,,33.0,,44.0,,80,,84||
+Grantham,,Grantham,,52.918,,-0.638,,51,,59||Lincoln,,Lincoln,,53.23272,,-0.537661,,61,,68||Spalding,,Spalding,,52.7858,,-0.1529,,73,,81||
+
+
+
+
+Brazil,,Brazil,,-15.783334,,-47.866665,,1,,7||Germany,,Germany,,51.0,,13.383333,,9,,16||
+
+
+
+Belgium,,Belgium,,50.833332,,4.35,,31,,38||Syrian,,Syrian,,33.5,,36.3,,115,,121||
+Haiti,,Haiti,,19.0,,-72.333336,,85,,90||
+Texas,,Texas,,31.0,,-100.0,,31,,36||
+Franklin County,,Franklin County,,39.97,,-83.01,,38,,53||
+
+
+
+Syrian,,Syrian,,33.5,,36.3,,19,,25||Hama,,Hama,,35.2,,37.2,,59,,63||
+
+Japan,,Japan,,35.0,,136.0,,59,,64||
+Mumbai,,Mumbai,,18.975,,72.825836,,43,,49||
+
+
+
+Syria,,Syria,,33.5,,36.3,,16,,21||
+
+Nottingham,,Nottingham,,52.95,,-1.1333333,,12,,22||United Kingdom,,United Kingdom,,55.0,,-3.0,,24,,38||The Maze,,The Maze,,54.48861,,-6.1075,,50,,58||
+
+
+
+California,,California,,35.458607,,-119.35516,,69,,79||
+Liberia,,Liberia,,6.3166666,,-9.5,,0,,7||
+
+Luton,,Luton,,51.9,,-0.43333334,,41,,46||Luton,,Luton,,51.9,,-0.43333334,,101,,106||
+
+
+Italy,,Italy,,41.9,,12.0,,23,,28||
+UK,,UK,,55.0,,-3.0,,115,,117||
+Queenstown,,Queenstown,,-45.031113,,168.6625,,0,,10||
+Malawi,,Malawi,,-13.5,,34.0,,120,,126||
+
+Sudan,,Sudan,,15.633333,,32.533054,,95,,100||
+American Canyon,,American Canyon,,38.168056,,-122.2525,,69,,84||
+Syria,,Syria,,33.5,,36.3,,0,,5||Syrian,,Syrian,,33.5,,36.3,,59,,65||
+Israel,,Israel,,31.783333,,35.0,,87,,93||Syria,,Syria,,33.5,,36.3,,123,,128||
+UK,,UK,,55.0,,-3.0,,88,,90||
+
+Haiti,,Haiti,,19.0,,-72.333336,,13,,18||
+Papua New Guinea,,Papua New Guinea,,-6.0,,147.11667,,56,,72||
+
+Tuolumne County,,Tuolumne County,,38.02,,-119.94,,60,,75||
+
+Haiti,,Haiti,,19.0,,-72.333336,,75,,80||
+Dublin,,Dublin,,53.34778,,-6.259722,,54,,60||
+
+
+Israel,,Israel,,31.783333,,35.0,,124,,130||
+Jammu & Kashmir,,Jammu & Kashmir,,33.45,,76.24,,101,,116||
+Nashville,,Nashville,,36.166668,,-86.78333,,48,,57||
+
+Israel,,Israel,,31.783333,,35.0,,0,,6||Gaza,,Gaza,,31.516666,,34.45,,82,,86||
+Japanese,,Japanese,,35.0,,136.0,,34,,42||Japan,,Japan,,35.0,,136.0,,120,,125||
+Ghana,,Ghana,,8.0,,-2.0,,43,,48||
+Syrian,,Syrian,,33.5,,36.3,,44,,50||
+
+
+Criterion,,Criterion,,51.509777,,-0.134056,,0,,9||Criterion,,Criterion,,51.509777,,-0.134056,,48,,57||
+
+Damascus,,Damascus,,33.513054,,36.291943,,14,,22||Syria,,Syria,,33.5,,36.3,,25,,30||Yarmouk,,Yarmouk,,33.466667,,36.3,,33,,40||Israel,,Israel,,31.783333,,35.0,,109,,115||
+Ukraine,,Ukraine,,50.45,,30.5,,15,,22||Donetsk,,Donetsk,,48.002777,,37.80528,,50,,57||
+Colombian,,Colombian,,4.5833335,,-72.0,,37,,46||
+
+
+Ukraine,,Ukraine,,50.45,,30.5,,19,,26||
+Chillicothe,,Chillicothe,,39.336388,,-82.98389,,67,,78||
+Lebanon,,Lebanon,,33.9,,35.533333,,48,,55||
+Alabama,,Alabama,,32.7,,-86.7,,48,,55||
+
+Nigeria,,Nigeria,,9.066667,,3.3833334,,0,,7||Lagos,,Lagos,,6.455027,,3.384082,,38,,43||Nigeria,,Nigeria,,9.066667,,3.3833334,,90,,97||
+
+
+Manhattan,,Manhattan,,40.79028,,-73.959724,,96,,105||
+
+
+
+
+
+
+Gaza,,Gaza,,31.516666,,34.45,,31,,35||
+
+Lagos,,Lagos,,6.455027,,3.384082,,13,,18||
+Windsor,,Windsor,,42.283333,,-83.0,,0,,7||
+Maryland,,Maryland,,37.0,,75.0,,76,,84||
+Moscow,,Moscow,,55.751667,,37.61778,,70,,76||
+Ethiopia,,Ethiopia,,9.016666,,38.75,,22,,30||
+
+Spain,,Spain,,40.433334,,-3.7,,36,,41||
+Ukraine,,Ukraine,,50.45,,30.5,,0,,7||
+Southern China,,Southern China,,35.0,,103.0,,43,,57||
+
+Dallas,,Dallas,,32.775833,,-96.79667,,49,,55||
+Gaza,,Gaza,,31.516666,,34.45,,69,,73||
+Aomori,,Aomori,,40.824665,,140.74065,,32,,38||Japan,,Japan,,35.0,,136.0,,51,,56||
+Boston,,Boston,,42.358055,,-71.063614,,30,,36||
+Malaysia,,Malaysia,,2.5,,112.5,,19,,27||Malaysian,,Malaysian,,2.5,,112.5,,77,,86||
+Illinois,,Illinois,,41.278217,,-88.38024,,72,,80||
+Liverpool,,Liverpool,,53.4,,-2.9833333,,76,,85||
+Texas,,Texas,,31.0,,-100.0,,54,,59||
+Syrian,,Syrian,,33.5,,36.3,,23,,29||
+Egypt,,Egypt,,30.033333,,31.216667,,126,,131||
+
+Rome,,Rome,,41.9,,12.5,,9,,13||
+Tennessee,,Tennessee,,34.0,,81.0,,45,,54||
+
+
+Mexico,,Mexico,,23.0,,-99.13333,,67,,73||
+New York,,New York,,43.0,,-75.0,,40,,48||Manhattan,,Manhattan,,40.79028,,-73.959724,,90,,99||gaza,,gaza,,31.516666,,34.45,,112,,116||
+
+
+Kansas,,Kansas,,38.45,,-96.53333,,68,,74||
+Daraa,,Daraa,,32.616665,,36.1,,57,,62||Syria,,Syria,,33.5,,36.3,,122,,127||
+Mexico,,Mexico,,23.0,,-99.13333,,70,,76||
+California,,California,,35.458607,,-119.35516,,49,,59||
+Tabriz,,Tabriz,,38.066666,,46.3,,0,,6||Iran,,Iran,,32.0,,51.416668,,56,,60||
+
+Hollywood,,Hollywood,,34.1,,-118.333336,,36,,45||
+Missouri,,Missouri,,36.0,,89.0,,78,,86||
+Donetsk,,Donetsk,,48.002777,,37.80528,,29,,36||
+Dallas,,Dallas,,32.775833,,-96.79667,,22,,28||
+
+Donetsk airport,,Donetsk airport,,48.075,,37.725555,,11,,26||Ukraine,,Ukraine,,50.45,,30.5,,55,,62||
+Liberia,,Liberia,,6.3166666,,-9.5,,28,,35||
+
+Liberia,,Liberia,,6.3166666,,-9.5,,19,,26||Liberia,,Liberia,,6.3166666,,-9.5,,56,,63||
+Indonesia,,Indonesia,,-6.175,,106.82833,,85,,94||
+
+
+Israel,,Israel,,31.783333,,35.0,,64,,70||
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,78,,90||
+Cote d'Ivoire,,Cote d'Ivoire,,8.0,,-5.3,,63,,76||
+
+Indonesia,,Indonesia,,-6.175,,106.82833,,47,,56||
+Ferguson, Missouri,,Ferguson, Missouri,,38.744167,,-90.305275,,60,,78||
+New Delhi,,New Delhi,,28.61389,,77.208885,,110,,119||
+Humboldt County,,Humboldt County,,40.8,,-123.8,,101,,116||
+
+
+Japan,,Japan,,35.0,,136.0,,23,,28||Japan,,Japan,,35.0,,136.0,,102,,107||
+Gujranwala,,Gujranwala,,32.15,,74.183334,,13,,23||
+
+Kuwait,,Kuwait,,29.5,,45.75,,47,,53||
+
+Chicago,,Chicago,,41.836945,,-87.68472,,68,,75||
+Jaipur,,Jaipur,,26.9,,75.8,,35,,41||
+
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,45,,57||
+Israel,,Israel,,31.783333,,35.0,,100,,106||
+
+Nepal,,Nepal,,27.7,,85.316666,,7,,12||
+Botswana,,Botswana,,-24.658333,,25.908333,,0,,8||South Africa,,South Africa,,-30.0,,25.0,,10,,22||
+
+United States,,United States,,40.0,,-77.01667,,52,,65||
+Marseilles,,Marseilles,,43.2964,,5.37,,21,,31||
+Hong Kong,,Hong Kong,,22.3,,114.2,,22,,31||
+Napa,,Napa,,38.30472,,-122.29889,,43,,47||
+NY,,NY,,43.0,,-75.0,,46,,48||
+China,,China,,35.0,,103.0,,53,,58||
+San Diego,,San Diego,,32.715,,-117.1625,,77,,86||
+Central African Republic,,Central African Republic,,4.366667,,18.583334,,79,,103||
+
+Hong Kong,,Hong Kong,,22.3,,114.2,,0,,9||Nigeria,,Nigeria,,9.066667,,3.3833334,,72,,79||
+Tel Aviv,,Tel Aviv,,32.083332,,34.783333,,63,,71||
+Israeli,,Israeli,,31.783333,,35.0,,37,,44||Gaza,,Gaza,,31.516666,,34.45,,61,,65||Netherlands,,Netherlands,,52.316666,,4.883333,,73,,84||
+Belgium,,Belgium,,50.833332,,4.35,,12,,19||
+
+BROOKLYN,,BROOKLYN,,40.62472,,-73.952225,,87,,95||
+Hawaii,,Hawaii,,21.311388,,-157.79639,,25,,31||
+Malawi,,Malawi,,-13.5,,34.0,,4,,10||
+Iran,,Iran,,32.0,,51.416668,,0,,4||
+
+Kentucky,,Kentucky,,37.5,,-85.0,,10,,18||
+
+Haiti,,Haiti,,19.0,,-72.333336,,25,,30||
+Tel Aviv,,Tel Aviv,,32.083332,,34.783333,,62,,70||
+Donetsk,,Donetsk,,48.002777,,37.80528,,0,,7||DONETSK,,DONETSK,,48.002777,,37.80528,,43,,50||Ukraine,,Ukraine,,50.45,,30.5,,52,,59||AP,,AP,,16.5,,80.64,,61,,63||
+Venezuela,,Venezuela,,4.5833335,,-74.066666,,37,,46||Venezuela,,Venezuela,,4.5833335,,-74.066666,,48,,57||
+Chicago,,Chicago,,41.836945,,-87.68472,,23,,30||
+St Louis, Missouri,,St Louis, Missouri,,38.627224,,-90.19778,,89,,107||
+Philippines,,Philippines,,14.583333,,122.0,,46,,57||
+Japan,,Japan,,35.0,,136.0,,79,,84||
+
+Doolin,,Doolin,,53.016,,-9.377,,60,,66||Utah,,Utah,,37.0,,109.0,,97,,101||
+
+
+
+London,,London,,51.50722,,-0.1275,,40,,46||
+El Salvador,,El Salvador,,13.666667,,-88.916664,,56,,67||
+Rwanda,,Rwanda,,-1.9438833,,29.873888,,131,,137||
+Harrow,,Harrow,,51.5836,,-0.3464,,41,,47||
+
+Indiana,,Indiana,,40.0,,-86.0,,71,,78||
+
+Indian Occupied Kashmir,,Indian Occupied Kashmir,,33.45,,76.24,,10,,33||
+
+Fort Myers,,Fort Myers,,26.616667,,-81.833336,,60,,70||
+Hamilton,,Hamilton,,43.25,,-79.86667,,16,,24||Windsor,,Windsor,,42.283333,,-83.0,,76,,83||Chatham-Kent,,Chatham-Kent,,42.4,,-82.183334,,85,,97||Leamington,,Leamington,,42.066666,,-82.583336,,103,,113||
+
+
+L.A.,,L.A.,,34.05,,-118.25,,24,,28||
+Iceland,,Iceland,,65.0,,-21.933332,,18,,25||Iceland,,Iceland,,65.0,,-21.933332,,88,,95||
+
+United States,,United States,,40.0,,-77.01667,,73,,86||
+
+Aleppo,,Aleppo,,36.216667,,37.166668,,8,,14||Syria,,Syria,,33.5,,36.3,,117,,122||
+Ukraine,,Ukraine,,50.45,,30.5,,0,,7||Ukrainian,,Ukrainian,,50.45,,30.5,,41,,50||
+
+
+
+Sitra,,Sitra,,26.29,,50.67,,55,,60||Bahrain,,Bahrain,,26.0275,,50.55,,81,,88||
+Chicago,,Chicago,,41.836945,,-87.68472,,66,,73||
+India,,India,,28.613333,,72.825836,,20,,25||Pakistan,,Pakistan,,33.666668,,73.166664,,30,,38||India,,India,,28.613333,,72.825836,,88,,93||Pakistan,,Pakistan,,33.666668,,73.166664,,98,,106||
+Israel,,Israel,,31.783333,,35.0,,0,,6||
+
+Ukraine,,Ukraine,,50.45,,30.5,,12,,19||
+
+
+New Zealand,,New Zealand,,-41.283333,,174.0,,98,,109||
+Florida,,Florida,,28.1,,-81.6,,47,,54||PENSACOLA,,PENSACOLA,,30.436945,,-87.2,,56,,65||
+Israel,,Israel,,31.783333,,35.0,,54,,60||
+Liberia,,Liberia,,6.3166666,,-9.5,,120,,127||
+
+
+Niger,,Niger,,16.0,,8.0,,26,,31||
+
+Donetsk,,Donetsk,,48.002777,,37.80528,,19,,26||
+Brazil,,Brazil,,-15.783334,,-47.866665,,31,,37||
+Liberia,,Liberia,,6.3166666,,-9.5,,129,,136||
+Iran,,Iran,,32.0,,51.416668,,77,,81||
+Tanzanian,,Tanzanian,,-6.307,,34.854,,62,,71||gavi,,gavi,,44.683334,,8.8,,112,,116||
+
+
+
+Peshawar,,Peshawar,,34.016666,,71.583336,,118,,126||
+Kiev,,Kiev,,50.45,,30.523333,,74,,78||
+White House,,White House,,38.8977,,-77.0365,,105,,116||
+Iran,,Iran,,32.0,,51.416668,,0,,4||
+
+
+Japan,,Japan,,35.0,,136.0,,36,,41||
+China,,China,,35.0,,103.0,,88,,93||
+Kansas,,Kansas,,38.45,,-96.53333,,77,,83||
+Haiti,,Haiti,,19.0,,-72.333336,,90,,95||
+Mongolia,,Mongolia,,47.916668,,106.88333,,15,,23||
+
+
+London,,London,,51.50722,,-0.1275,,41,,47||
+Malaysia,,Malaysia,,2.5,,112.5,,129,,137||
+
+Puget Sound,,Puget Sound,,47.6,,-122.4,,42,,53||
+
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,38,,50||Liberia,,Liberia,,6.3166666,,-9.5,,55,,62||
+Philippines,,Philippines,,14.583333,,122.0,,98,,109||
+
+UK,,UK,,55.0,,-3.0,,39,,41||
+
+Languedoc,,Languedoc,,43.666668,,3.1666667,,29,,38||
+
+South Sudan,,South Sudan,,4.85,,30.0,,15,,26||WASHINGTON,,WASHINGTON,,45.0,,116.0,,55,,65||United States,,United States,,40.0,,-77.01667,,82,,95||
+Gaza,,Gaza,,31.516666,,34.45,,0,,4||Israel,,Israel,,31.783333,,35.0,,46,,52||Egypt,,Egypt,,30.033333,,31.216667,,105,,110||
+Syria,,Syria,,33.5,,36.3,,98,,103||
+Texas,,Texas,,31.0,,-100.0,,42,,47||Dallas,,Dallas,,32.775833,,-96.79667,,95,,101||
+Pokhara,,Pokhara,,28.26389,,83.97222,,90,,97||Nepal,,Nepal,,27.7,,85.316666,,99,,104||
+Ukraine,,Ukraine,,50.45,,30.5,,34,,41||
+key west,,key west,,24.559166,,-81.78403,,89,,97||
+
+Portland,,Portland,,45.52,,-122.681946,,54,,62||
+MO,,MO,,36.0,,89.0,,25,,27||
+Flight 93 memorial,,Flight 93 memorial,,40.05611,,-78.90722,,18,,36||
+
+London,,London,,51.50722,,-0.1275,,50,,56||
+Philippines,,Philippines,,14.583333,,122.0,,62,,73||
+
+Syria,,Syria,,33.5,,36.3,,61,,66||
+
+Chile,,Chile,,-30.0,,-71.0,,66,,71||
+OH,,OH,,41.122,,-80.684,,96,,98||
+
+Iceland,,Iceland,,65.0,,-21.933332,,106,,113||
+
+
+Israel,,Israel,,31.783333,,35.0,,107,,113||
+Bradford,,Bradford,,53.792,,-1.754,,77,,85||
+
+Japan,,Japan,,35.0,,136.0,,59,,64||
+
+Syria,,Syria,,33.5,,36.3,,41,,46||
+Haiti,,Haiti,,19.0,,-72.333336,,24,,29||
+
+
+Pakistan,,Pakistan,,33.666668,,73.166664,,109,,117||
+London,,London,,51.50722,,-0.1275,,28,,34||
+
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,13,,25||
+Syrian,,Syrian,,33.5,,36.3,,24,,30||
+Syrian,,Syrian,,33.5,,36.3,,20,,26||Golan,,Golan,,32.981667,,35.749443,,67,,72||
+
+USA,,USA,,40.0,,-77.01667,,80,,83||
+California,,California,,35.458607,,-119.35516,,40,,50||
+China,,China,,35.0,,103.0,,109,,114||
+Indonesia,,Indonesia,,-6.175,,106.82833,,9,,18||
+Northern California Coast,,Northern California Coast,,39.75,,-123.5,,29,,54||
+
+Donegal,,Donegal,,54.917,,-8.0,,68,,75||
+Liberia,,Liberia,,6.3166666,,-9.5,,12,,19||
+
+Hawaii,,Hawaii,,21.311388,,-157.79639,,5,,11||
+Norway,,Norway,,61.0,,10.683333,,15,,21||
+Liberia,,Liberia,,6.3166666,,-9.5,,26,,33||
+UK,,UK,,55.0,,-3.0,,21,,23||
+UK,,UK,,55.0,,-3.0,,74,,76||
+Montgomery County,,Montgomery County,,40.21,,-75.37,,22,,39||
+
+
+
+Nagano Prefecture,,Nagano Prefecture,,36.25,,138.1,,75,,92||
+China,,China,,35.0,,103.0,,27,,32||
+
+
+Belle Chase,,Belle Chase,,29.852222,,-89.99834,,46,,57||
+Atlanta,,Atlanta,,33.755,,-84.39,,47,,54||
+Grantham,,Grantham,,52.918,,-0.638,,45,,53||Grantham,,Grantham,,52.918,,-0.638,,96,,104||
+Moscow,,Moscow,,55.751667,,37.61778,,7,,13||Ukraine,,Ukraine,,50.45,,30.5,,24,,31||Moscow,,Moscow,,55.751667,,37.61778,,45,,51||
+White House,,White House,,38.8977,,-77.0365,,75,,86||
+China,,China,,35.0,,103.0,,0,,5||China,,China,,35.0,,103.0,,29,,34||southwest province,,southwest province,,4.1666665,,9.233334,,66,,84||
+California,,California,,35.458607,,-119.35516,,58,,68||
+Kurdistan,,Kurdistan,,35.3113,,46.996,,46,,55||Iran,,Iran,,32.0,,51.416668,,58,,62||
+
+Australia,,Australia,,-35.308,,133.0,,40,,49||
+
+Vadodra,,Vadodra,,22.3,,73.19,,41,,48||
+Anchorage,,Anchorage,,61.216667,,-149.9,,71,,80||
+South africa,,South africa,,-30.0,,25.0,,78,,90||
+AP,,AP,,16.5,,80.64,,4,,6||AP,,AP,,16.5,,80.64,,8,,10||Genoa,,Genoa,,44.41111,,8.932777,,67,,72||
+
+Algeria,,Algeria,,28.0,,2.0,,16,,23||Rwanda,,Rwanda,,-1.9438833,,29.873888,,90,,96||
+Joplin, Missouri,,Joplin, Missouri,,37.077778,,-94.51111,,72,,88||
+Jacksonville,,Jacksonville,,30.336945,,-81.66139,,36,,48||
+Porto,,Porto,,41.16214,,-8.621953,,19,,24||
+Ekiti,,Ekiti,,7.6666665,,5.25,,0,,5||
+
+
+Baroda,,Baroda,,22.3,,73.19,,50,,56||
+Paducah,,Paducah,,37.072224,,-88.6275,,7,,14||Cape Girardeau,,Cape Girardeau,,37.309166,,-89.54639,,71,,85||
+
+United States,,United States,,40.0,,-77.01667,,66,,79||
+
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,55,,67||
+Paris,,Paris,,48.8567,,2.3508,,76,,81||
+
+
+
+
+Bihar,,Bihar,,25.37,,85.13,,20,,25||
+
+Libya,,Libya,,27.0,,17.0,,43,,48||Tripoli,,Tripoli,,32.90222,,13.185833,,58,,65||
+Peru,,Peru,,-10.0,,-77.028336,,49,,53||
+
+metro Atlanta,,metro Atlanta,,33.8,,-84.4,,27,,40||Gainesville,,Gainesville,,34.304443,,-83.833885,,78,,89||
+White House,,White House,,38.8977,,-77.0365,,44,,55||
+Gyumri,,Gyumri,,40.789444,,43.8475,,46,,52||armenia,,armenia,,40.0,,45.0,,132,,139||
+
+Utah,,Utah,,37.0,,109.0,,36,,40||
+South Africa,,South Africa,,-30.0,,25.0,,0,,12||South Africa,,South Africa,,-30.0,,25.0,,72,,84||
+
+
+DC,,DC,,38.904724,,-77.01639,,1,,3||Smithsonian Museum,,Smithsonian Museum,,38.889,,-77.026,,56,,74||
+Indonesia,,Indonesia,,-6.175,,106.82833,,79,,88||
+Odisha,,Odisha,,20.15,,85.5,,27,,33||
+
+
+
+Idlib,,Idlib,,35.933334,,36.633335,,55,,60||Syria,,Syria,,33.5,,36.3,,62,,67||
+
+NY,,NY,,43.0,,-75.0,,57,,59||
+Great Barrier Reef,,Great Barrier Reef,,-18.286112,,147.7,,59,,77||
+Rome,,Rome,,41.9,,12.5,,39,,43||Sicily,,Sicily,,37.5,,14.0,,78,,84||
+
+Lapeer County,,Lapeer County,,43.09,,-83.22,,11,,24||Dryden,,Dryden,,42.94611,,-83.12583,,97,,103||
+
+Japan,,Japan,,35.0,,136.0,,71,,76||
+New Orleans,,New Orleans,,29.964722,,-90.066666,,72,,83||
+Sour Lake,,Sour Lake,,30.136944,,-94.4075,,77,,86||
+Iran,,Iran,,32.0,,51.416668,,89,,93||Pakistan,,Pakistan,,33.666668,,73.166664,,95,,103||Turkey,,Turkey,,39.0,,32.833332,,105,,111||Indonesia,,Indonesia,,-6.175,,106.82833,,113,,122||Malaysia,,Malaysia,,2.5,,112.5,,124,,132||
+Syrian,,Syrian,,33.5,,36.3,,20,,26||Israel,,Israel,,31.783333,,35.0,,70,,76||Israeli,,Israeli,,31.783333,,35.0,,109,,116||
+
+Rockwall County,,Rockwall County,,32.89,,-96.41,,40,,55||
+
+mississippi,,mississippi,,30.0,,88.0,,123,,134||
+Malawi,,Malawi,,-13.5,,34.0,,56,,62||
+Iranian,,Iranian,,32.0,,51.416668,,32,,39||Iraq,,Iraq,,33.0,,44.0,,52,,56||
+DFW,,DFW,,32.896946,,-97.038055,,56,,59||
+Sialkot,,Sialkot,,32.497223,,74.53611,,21,,28||
+Syria,,Syria,,33.5,,36.3,,56,,61||
+nigeria,,nigeria,,9.066667,,3.3833334,,44,,51||
+Waterford,,Waterford,,52.256668,,-7.1291666,,69,,78||
+United States,,United States,,40.0,,-77.01667,,43,,56||New Madrid, Missouri,,New Madrid, Missouri,,36.587776,,-89.535835,,77,,97||
+Alabama,,Alabama,,32.7,,-86.7,,21,,28||New York,,New York,,43.0,,-75.0,,93,,101||
+
+Pulaski Skyway,,Pulaski Skyway,,40.73583,,-74.09167,,89,,103||
+Japan,,Japan,,35.0,,136.0,,23,,28||
+
+Don Mills,,Don Mills,,43.73722,,-79.34333,,43,,52||Toronto,,Toronto,,43.7,,-79.4,,113,,120||
+
+Yemen,,Yemen,,15.0,,48.0,,45,,50||Sanaa,,Sanaa,,15.348333,,44.20639,,124,,129||
+
+
+Iran,,Iran,,32.0,,51.416668,,78,,82||
+Aleppo,,Aleppo,,36.216667,,37.166668,,14,,20||Syria,,Syria,,33.5,,36.3,,45,,50||Aleppo,,Aleppo,,36.216667,,37.166668,,87,,93||
+
+Central African Republic,,Central African Republic,,4.366667,,18.583334,,0,,24||
+Ohio,,Ohio,,41.122,,-80.684,,114,,118||
+Bristol,,Bristol,,51.45,,-2.5833333,,30,,37||
+
+keonjhar,,keonjhar,,21.63,,85.58,,52,,60||Orissa,,Orissa,,20.15,,85.5,,62,,68||
+Polk County,,Polk County,,27.96,,-81.7,,22,,33||
+Syrian,,Syrian,,33.5,,36.3,,56,,62||
+
+
+
+Seattle,,Seattle,,47.609722,,-122.33305,,57,,64||
+
+
+DUMAGUETE,,DUMAGUETE,,9.316667,,123.3,,48,,57||
+
+San Francisco,,San Francisco,,37.783333,,-122.416664,,4,,17||
+Whittier,,Whittier,,33.965557,,-118.024445,,92,,100||
+Radlett,,Radlett,,51.682,,-0.314,,83,,90||
+
+
+
+
+
+
+Hong Kong,,Hong Kong,,22.3,,114.2,,93,,102||
+Tidal Basin,,Tidal Basin,,38.883724,,-77.038864,,58,,69||
+
+Dahuk,,Dahuk,,37.05,,43.15,,14,,19||
+
+Israel,,Israel,,31.783333,,35.0,,92,,98||Chicago,,Chicago,,41.836945,,-87.68472,,123,,130||
+Cleveland,,Cleveland,,41.482224,,-81.66972,,39,,48||
+
+
+Peshawar,,Peshawar,,34.016666,,71.583336,,17,,25||
+Donetsk,,Donetsk,,48.002777,,37.80528,,61,,68||Grozny,,Grozny,,43.316666,,45.716667,,100,,106||
+American,,American,,40.0,,-77.01667,,12,,20||Liberia,,Liberia,,6.3166666,,-9.5,,62,,69||
+
+Iraq,,Iraq,,33.0,,44.0,,37,,41||France,,France,,48.856667,,2.0,,80,,86||
+
+
+Bratislava,,Bratislava,,48.14389,,17.109722,,27,,37||
+Iraq,,Iraq,,33.0,,44.0,,51,,55||
+American,,American,,40.0,,-77.01667,,14,,22||Nebraska,,Nebraska,,40.0,,180.0,,47,,55||American,,American,,40.0,,-77.01667,,100,,108||
+Russia,,Russia,,60.0,,37.616665,,0,,6||Germany,,Germany,,51.0,,13.383333,,36,,43||Russian,,Russian,,60.0,,37.616665,,49,,56||
+
+Libyan,,Libyan,,27.0,,17.0,,23,,29||Benghazi,,Benghazi,,32.116665,,20.066668,,82,,90||
+Walpole,,Walpole,,34.98,,116.7,,103,,110||
+ALFRETON,,ALFRETON,,53.1,,-1.3833333,,0,,8||
+Syria,,Syria,,33.5,,36.3,,56,,61||Iraq,,Iraq,,33.0,,44.0,,62,,66||Libya,,Libya,,27.0,,17.0,,72,,77||
+
+
+White House,,White House,,38.8977,,-77.0365,,44,,55||Gaza,,Gaza,,31.516666,,34.45,,90,,94||
+Bangladesh,,Bangladesh,,23.8,,90.3,,97,,107||
+
+
+Gaza,,Gaza,,31.516666,,34.45,,0,,4||
+Pakistan,,Pakistan,,33.666668,,73.166664,,36,,44||
+
+Mumbai,,Mumbai,,18.975,,72.825836,,14,,20||Vashi,,Vashi,,19.08,,73.01,,41,,46||
+Iran,,Iran,,32.0,,51.416668,,1,,5||
+Haiti,,Haiti,,19.0,,-72.333336,,21,,26||
+Japan,,Japan,,35.0,,136.0,,35,,40||
+Canadian,,Canadian,,60.0,,-75.666664,,29,,37||Gaza,,Gaza,,31.516666,,34.45,,78,,82||
+Somerset,,Somerset,,51.18,,-3.0,,19,,27||
+Zimbabwe,,Zimbabwe,,-17.833334,,31.05,,0,,8||
+Israeli,,Israeli,,31.783333,,35.0,,65,,72||Delhi,,Delhi,,28.61,,77.23,,100,,105||
+
+
+
+
+Syria,,Syria,,33.5,,36.3,,65,,70||
+
+Leichhardt,,Leichhardt,,-33.8847,,151.1573,,21,,31||Norton,,Norton,,54.589,,-1.3157,,45,,51||
+Lagos,,Lagos,,6.455027,,3.384082,,15,,20||
+
+Vancouver,,Vancouver,,49.25,,-123.1,,0,,9||
+
+Paris,,Paris,,48.8567,,2.3508,,45,,50||
+
+
+
+Ingatestone,,Ingatestone,,51.67,,0.38,,77,,88||Writtle,,Writtle,,51.729,,0.427,,89,,96||Chelmsford,,Chelmsford,,51.7361,,0.4798,,112,,122||
+
+
+
+Egypt,,Egypt,,30.033333,,31.216667,,12,,17||
+Japanese,,Japanese,,35.0,,136.0,,27,,35||North America,,North America,,48.166668,,-100.166664,,68,,81||
+
+
+
+Jammu,,Jammu,,32.73,,74.87,,27,,32||
+Nashville,,Nashville,,36.166668,,-86.78333,,11,,20||Tennessee,,Tennessee,,34.0,,81.0,,69,,78||
+
+Mongolia,,Mongolia,,47.916668,,106.88333,,22,,30||
+American,,American,,40.0,,-77.01667,,119,,127||
+Lockport,,Lockport,,43.169724,,-78.69111,,44,,52||
+Chicago,,Chicago,,41.836945,,-87.68472,,39,,46||
+Los Angeles,,Los Angeles,,34.05,,-118.25,,42,,53||
+Ukraine,,Ukraine,,50.45,,30.5,,60,,67||
+Boone County,,Boone County,,38.02,,-81.72,,60,,72||
+
+Cairo,,Cairo,,30.05,,31.22889,,25,,30||
+Midrand,,Midrand,,25.999166,,28.126389,,22,,29||
+Syrian,,Syrian,,33.5,,36.3,,10,,16||Benghazi,,Benghazi,,32.116665,,20.066668,,25,,33||
+California,,California,,35.458607,,-119.35516,,32,,42||
+
+Tom Green,,Tom Green,,31.41,,-100.46,,8,,17||
+
+Yellowstone,,Yellowstone,,44.6,,-110.5,,10,,21||
+
+CHICAGO,,CHICAGO,,41.836945,,-87.68472,,0,,7||
+Selma,,Selma,,32.41639,,-87.02472,,39,,44||
+
+Iran,,Iran,,32.0,,51.416668,,0,,4||
+Togo,,Togo,,6.116667,,0.7753083,,23,,27||
+
+Ukraine,,Ukraine,,50.45,,30.5,,123,,130||
+
+Nigeria,,Nigeria,,9.066667,,3.3833334,,81,,88||
+
+Glenville,,Glenville,,38.935276,,-80.83722,,40,,49||
+Nigeria,,Nigeria,,9.066667,,3.3833334,,73,,80||
+americas,,americas,,19.0,,-96.0,,52,,60||
+
+
+vt,,vt,,42.0,,71.0,,12,,14||
+
+Santa Clara County,,Santa Clara County,,37.36,,-121.97,,50,,68||
+Tanzania,,Tanzania,,-6.307,,34.854,,92,,100||
+Pakistan,,Pakistan,,33.666668,,73.166664,,1,,9||Balochistan,,Balochistan,,30.12,,67.01,,39,,50||
+California,,California,,35.458607,,-119.35516,,1,,11||
+Benghazi,,Benghazi,,32.116665,,20.066668,,71,,79||
+
+
+Napa,,Napa,,38.30472,,-122.29889,,32,,36||
+
+NEW YORK,,NEW YORK,,43.0,,-75.0,,73,,81||
+Guam,,Guam,,13.5,,144.8,,89,,93||
+Modesto, CA,,Modesto, CA,,37.66139,,-120.994446,,30,,41||
+
+Venezuela,,Venezuela,,4.5833335,,-74.066666,,21,,30||
+
+Cedar Rapids,,Cedar Rapids,,41.983055,,-91.66861,,29,,41||
+
+Yemen,,Yemen,,15.0,,48.0,,30,,35||Yemen,,Yemen,,15.0,,48.0,,68,,73||Sanaa,,Sanaa,,15.348333,,44.20639,,109,,114||
+
+UK,,UK,,55.0,,-3.0,,81,,83||
+Hong Kong,,Hong Kong,,22.3,,114.2,,34,,43||
+Egypt,,Egypt,,30.033333,,31.216667,,130,,135||
+Arklow,,Arklow,,52.7941,,-6.1649,,70,,76||Co Wicklow,,Co Wicklow,,53.0,,-6.4166665,,77,,87||
+Muzaffarabad,,Muzaffarabad,,34.361,,73.46667,,98,,110||
+Detroit,,Detroit,,42.33139,,-83.04583,,65,,72||
+
+Indonesia,,Indonesia,,-6.175,,106.82833,,32,,41||
+
+ABUJA,,ABUJA,,9.066667,,7.483333,,35,,40||
+Syrian,,Syrian,,33.5,,36.3,,57,,63||
+Iran,,Iran,,32.0,,51.416668,,0,,4||Syria,,Syria,,33.5,,36.3,,101,,106||
+Fargo, North Dakota,,Fargo, North Dakota,,46.877224,,-96.789444,,42,,61||
+
+
+Gig Harbor,,Gig Harbor,,47.326946,,-122.58639,,116,,126||
+TN,,TN,,34.0,,81.0,,45,,47||
+Victoria Park,,Victoria Park,,42.989,,-81.2486,,34,,47||London,,London,,51.50722,,-0.1275,,48,,54||
+
+
+Atlanta,,Atlanta,,33.755,,-84.39,,66,,73||Atlanta,,Atlanta,,33.755,,-84.39,,117,,124||
+Reno,,Reno,,39.52722,,-119.821945,,52,,56||
+Kansas,,Kansas,,38.45,,-96.53333,,19,,25||Kansas,,Kansas,,38.45,,-96.53333,,69,,75||
+
+Daytona,,Daytona,,29.19,,-81.08945,,48,,55||Orlando,,Orlando,,28.415833,,-81.29889,,56,,63||
+
+Srinagar,,Srinagar,,34.09,,74.79,,43,,51||India,,India,,28.613333,,72.825836,,67,,72||
+Turkey,,Turkey,,39.0,,32.833332,,35,,41||Syrian,,Syrian,,33.5,,36.3,,63,,69||
+Melbourne,,Melbourne,,37.81361,,144.96306,,35,,44||
+Iran,,Iran,,32.0,,51.416668,,21,,25||Tehran,,Tehran,,35.69611,,51.423054,,27,,33||
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,0,,12||
+Niger,,Niger,,16.0,,8.0,,86,,91||
+UK,,UK,,55.0,,-3.0,,36,,38||
+
+
+Hammamet,,Hammamet,,36.416668,,10.616667,,61,,69||Tunisia,,Tunisia,,36.833332,,10.15,,106,,113||
+Paris,,Paris,,48.8567,,2.3508,,72,,77||
+Thailand,,Thailand,,13.75,,101.3,,60,,68||
+Kruger National Park,,Kruger National Park,,-24.011389,,31.485277,,55,,75||
+Fayetteville,,Fayetteville,,36.07639,,-94.160835,,36,,48||
+White House,,White House,,38.8977,,-77.0365,,39,,50||
+Yemen,,Yemen,,15.0,,48.0,,35,,40||
+
+Cambodia,,Cambodia,,13.0,,104.916664,,35,,43||
+
+
+
+Toronto,,Toronto,,43.7,,-79.4,,20,,27||
+
+
+L.A.,,L.A.,,34.05,,-118.25,,34,,38||
+India,,India,,28.613333,,72.825836,,12,,17||Pakistan,,Pakistan,,33.666668,,73.166664,,26,,34||Pakistan,,Pakistan,,33.666668,,73.166664,,87,,95||
+Iraqi,,Iraqi,,33.0,,44.0,,0,,5||American,,American,,40.0,,-77.01667,,37,,45||
+Oakland,,Oakland,,37.804443,,-122.270836,,29,,36||
+
+California,,California,,35.458607,,-119.35516,,49,,59||
+
+New York,,New York,,43.0,,-75.0,,63,,71||
+Ukraine,,Ukraine,,50.45,,30.5,,0,,7||
+Arkansas,,Arkansas,,34.8,,-92.2,,30,,38||
+rexburg,,rexburg,,43.816666,,-111.78333,,110,,117||
+Colombia,,Colombia,,4.5833335,,-72.0,,19,,27||
+
+Hong Kong,,Hong Kong,,22.3,,114.2,,0,,9||
+Israel,,Israel,,31.783333,,35.0,,119,,125||
+Gaza,,Gaza,,31.516666,,34.45,,86,,90||
+
+Israeli,,Israeli,,31.783333,,35.0,,60,,67||
+California,,California,,35.458607,,-119.35516,,59,,69||
+Israeli,,Israeli,,31.783333,,35.0,,112,,119||
+Stafford,,Stafford,,52.8066,,-2.1171,,95,,103||
+towners,,towners,,41.466667,,-73.583336,,67,,74||
+Nigeria,,Nigeria,,9.066667,,3.3833334,,31,,38||
+
+Grasmere,,Grasmere,,54.45809,,-3.024588,,40,,48||
+
+Punjab,,Punjab,,30.79,,75.84,,60,,66||
+Madrid,,Madrid,,40.383335,,-3.7166667,,90,,96||
+
+Texas,,Texas,,31.0,,-100.0,,5,,10||Texas,,Texas,,31.0,,-100.0,,56,,61||Winter Garden,,Winter Garden,,28.560278,,-81.58417,,62,,75||
+
+Japan,,Japan,,35.0,,136.0,,90,,95||
+
+
+Israel,,Israel,,31.783333,,35.0,,39,,45||
+Liberian,,Liberian,,6.3166666,,-9.5,,9,,17||Nigeria,,Nigeria,,9.066667,,3.3833334,,46,,53||Lagos,,Lagos,,6.455027,,3.384082,,70,,75||
+
+
+L.A.,,L.A.,,34.05,,-118.25,,93,,97||
+Iraq,,Iraq,,33.0,,44.0,,92,,96||
+Hollywood Park,,Hollywood Park,,33.950447,,-118.33781,,90,,104||
+Italy,,Italy,,41.9,,12.0,,1,,6||Genoa,,Genoa,,44.41111,,8.932777,,99,,104||
+
+
+
+Guinea,,Guinea,,9.516666,,-10.0,,0,,6||Cuban,,Cuban,,23.133333,,-80.0,,28,,33||
+Iran,,Iran,,32.0,,51.416668,,48,,52||Iraq,,Iraq,,33.0,,44.0,,95,,99||
+
+Syria,,Syria,,33.5,,36.3,,28,,33||
+
+OHIO,,OHIO,,41.122,,-80.684,,30,,34||
+
+
+SAN JUAN,,SAN JUAN,,18.40639,,-66.06389,,32,,40||
+Nottingham,,Nottingham,,52.95,,-1.1333333,,24,,34||
+Tel Aviv,,Tel Aviv,,32.083332,,34.783333,,78,,86||
+
+Philippines,,Philippines,,14.583333,,122.0,,81,,92||
+
+Amagansett,,Amagansett,,40.979443,,-72.125275,,1,,11||
+
+
+LAGOS,,LAGOS,,6.455027,,3.384082,,32,,37||Lagos State,,Lagos State,,6.5833335,,3.75,,126,,137||
+Mexico,,Mexico,,23.0,,-99.13333,,115,,121||
+Israeli,,Israeli,,31.783333,,35.0,,4,,11||Gaza,,Gaza,,31.516666,,34.45,,71,,75||
+
+Israel,,Israel,,31.783333,,35.0,,12,,18||Israel,,Israel,,31.783333,,35.0,,75,,81||
+UK,,UK,,55.0,,-3.0,,89,,91||
+Berkeley,,Berkeley,,37.871666,,-122.27278,,27,,35||
+
+El Salvador,,El Salvador,,13.666667,,-88.916664,,28,,39||
+
+Hilo,,Hilo,,19.705555,,-155.08583,,93,,97||
+
+
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,19,,31||
+
+United States,,United States,,40.0,,-77.01667,,57,,70||Moscow,,Moscow,,55.751667,,37.61778,,74,,80||
+NY,,NY,,43.0,,-75.0,,49,,51||
+
+Beijing,,Beijing,,39.916668,,116.37972,,59,,66||
+Marin County,,Marin County,,38.04,,-122.74,,43,,55||
+
+
+
+Srinagar,,Srinagar,,34.09,,74.79,,118,,126||
+California,,California,,35.458607,,-119.35516,,58,,68||
+United States,,United States,,40.0,,-77.01667,,29,,42||
+Oakland,,Oakland,,37.804443,,-122.270836,,29,,36||
+Chile,,Chile,,-30.0,,-71.0,,8,,13||
+Kiev,,Kiev,,50.45,,30.523333,,20,,24||Lugansk,,Lugansk,,48.566666,,39.333332,,40,,47||
+Gold Coast,,Gold Coast,,5.55,,-0.2167,,81,,91||
+Napa,,Napa,,38.30472,,-122.29889,,28,,32||
+Kenyan,,Kenyan,,1.0,,38.0,,37,,43||
+
+Japan,,Japan,,35.0,,136.0,,35,,40||
+
+Woking,,Woking,,51.3162,,-0.561,,91,,97||Surrey,,Surrey,,51.25,,-0.41666666,,99,,105||
+
+
+
+Nigeria,,Nigeria,,9.066667,,3.3833334,,107,,114||
+
+Cairns,,Cairns,,16.930277,,145.77028,,15,,21||Sierra Leone,,Sierra Leone,,8.5,,-11.5,,56,,68||
+
+Rwanda,,Rwanda,,-1.9438833,,29.873888,,5,,11||
+Dudley,,Dudley,,52.508,,-2.089,,20,,26||
+
+
+
+ND,,ND,,45.0,,96.0,,120,,122||
+
+
+Russia,,Russia,,60.0,,37.616665,,12,,18||United States,,United States,,40.0,,-77.01667,,74,,87||Moscow,,Moscow,,55.751667,,37.61778,,97,,103||
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,59,,71||
+Nigeria,,Nigeria,,9.066667,,3.3833334,,19,,26||
+
+
+Quincy, MA,,Quincy, MA,,42.25,,-71.0,,32,,42||
+United States,,United States,,40.0,,-77.01667,,87,,100||
+American,,American,,40.0,,-77.01667,,12,,20||California,,California,,35.458607,,-119.35516,,85,,95||USA,,USA,,40.0,,-77.01667,,98,,101||
+
+San Francisco,,San Francisco,,37.783333,,-122.416664,,34,,47||
+Mongolia,,Mongolia,,47.916668,,106.88333,,48,,56||
+
+Sudan,,Sudan,,15.633333,,32.533054,,9,,14||Janja,,Janja,,44.666668,,19.25,,87,,92||
+klerksdorp,,klerksdorp,,26.866667,,26.666666,,20,,30||
+Cleveland,,Cleveland,,41.482224,,-81.66972,,21,,30||
+Syrian,,Syrian,,33.5,,36.3,,35,,41||United States,,United States,,40.0,,-77.01667,,102,,115||
+Japan,,Japan,,35.0,,136.0,,74,,79||
+Portland,,Portland,,45.52,,-122.681946,,0,,8||
+Lebanon,,Lebanon,,33.9,,35.533333,,0,,7||VA,,VA,,36.0,,75.0,,9,,11||
+
+
+South Sudan,,South Sudan,,4.85,,30.0,,16,,27||
+Iran,,Iran,,32.0,,51.416668,,19,,23||Shiraz,,Shiraz,,29.616667,,52.533333,,74,,80||
+Syria,,Syria,,33.5,,36.3,,87,,92||
+Punjab,,Punjab,,30.79,,75.84,,17,,23||
+Niger,,Niger,,16.0,,8.0,,9,,14||
+
+Central African Republic,,Central African Republic,,4.366667,,18.583334,,33,,57||
+NY,,NY,,43.0,,-75.0,,21,,23||
+Canada,,Canada,,60.0,,-75.666664,,87,,93||
+German,,German,,51.0,,13.383333,,67,,73||Poland,,Poland,,52.0,,20.0,,88,,94||
+Israeli,,Israeli,,31.783333,,35.0,,112,,119||
+syrian,,syrian,,33.5,,36.3,,40,,46||Saudi Arabia,,Saudi Arabia,,24.0,,46.766666,,57,,69||
+Missouri,,Missouri,,36.0,,89.0,,23,,31||
+
+
+Thurso,,Thurso,,58.596,,-3.521,,53,,59||
+Haiti,,Haiti,,19.0,,-72.333336,,67,,72||
+
+American,,American,,40.0,,-77.01667,,26,,34||
+
+
+Plainfield,,Plainfield,,40.615444,,-74.41577,,93,,103||
+
+
+Oregon,,Oregon,,-44.0,,59.5,,63,,69||
+Mississippi,,Mississippi,,30.0,,88.0,,32,,43||
+
+California,,California,,35.458607,,-119.35516,,64,,74||
+
+Bihar,,Bihar,,25.37,,85.13,,98,,103||
+California,,California,,35.458607,,-119.35516,,50,,60||
+
+Honolulu,,Honolulu,,21.3,,-157.81667,,44,,52||
+
+Jammu,,Jammu,,32.73,,74.87,,68,,73||
+
+Columbia, Mississippi,,Columbia, Mississippi,,31.256666,,-89.82889,,114,,135||
+
+
+Pakistan,,Pakistan,,33.666668,,73.166664,,18,,26||USA,,USA,,40.0,,-77.01667,,67,,70||
+Napa,,Napa,,38.30472,,-122.29889,,22,,26||Napa,,Napa,,38.30472,,-122.29889,,80,,84||
+
+Ottawa,,Ottawa,,45.416668,,-75.683334,,74,,80||
+
+China,,China,,35.0,,103.0,,57,,62||
+Japan,,Japan,,35.0,,136.0,,57,,62||
+
+Congo,,Congo,,-2.88,,15.316667,,23,,28||
+Rwandan,,Rwandan,,-1.9438833,,29.873888,,17,,24||
+Somalia,,Somalia,,10.0,,49.0,,9,,16||
+Luxor,,Luxor,,25.683332,,32.65,,28,,33||Egypt,,Egypt,,30.033333,,31.216667,,44,,49||
+
+China,,China,,35.0,,103.0,,45,,50||
+
+
+Krasnodon,,Krasnodon,,48.3,,39.733334,,43,,52||Ukraine,,Ukraine,,50.45,,30.5,,54,,61||
+
+Syrian,,Syrian,,33.5,,36.3,,33,,39||
+Selmer,,Selmer,,35.172222,,-88.593056,,52,,58||TN,,TN,,34.0,,81.0,,60,,62||
+
+
+
+
+Indonesia,,Indonesia,,-6.175,,106.82833,,49,,58||Guam,,Guam,,13.5,,144.8,,123,,127||
+Austin County,,Austin County,,29.88,,-96.28,,63,,76||
+
+
+Vanuatu,,Vanuatu,,-17.75,,167.0,,89,,96||
+Punjab,,Punjab,,30.79,,75.84,,17,,23||
+Malawi,,Malawi,,-13.5,,34.0,,70,,76||
+Syria,,Syria,,33.5,,36.3,,123,,128||
+Syria,,Syria,,33.5,,36.3,,84,,89||
+Iran,,Iran,,32.0,,51.416668,,0,,4||
+Syria,,Syria,,33.5,,36.3,,93,,98||
+USA,,USA,,40.0,,-77.01667,,28,,31||
+Clearwater,,Clearwater,,27.973612,,-82.764275,,86,,96||Atlantic highlands,,Atlantic highlands,,40.41177,,-74.01984,,108,,126||
+
+Denver,,Denver,,39.76185,,-104.8811,,22,,28||
+
+
+La Puente,,La Puente,,34.0325,,-117.95528,,103,,112||
+California,,California,,35.458607,,-119.35516,,58,,68||
+
+UK,,UK,,55.0,,-3.0,,58,,60||
+Pakistani,,Pakistani,,33.666668,,73.166664,,24,,33||USA,,USA,,40.0,,-77.01667,,39,,42||
+Ukraine,,Ukraine,,50.45,,30.5,,54,,61||Syria,,Syria,,33.5,,36.3,,63,,68||Serbia,,Serbia,,44.8,,20.466667,,72,,78||
+Manchester,,Manchester,,53.466667,,-2.2333333,,51,,61||
+Sweden,,Sweden,,63.0,,18.066668,,13,,19||
+California,,California,,35.458607,,-119.35516,,79,,89||
+
+Iceland,,Iceland,,65.0,,-21.933332,,0,,7||Iceland,,Iceland,,65.0,,-21.933332,,57,,64||
+Kolkata,,Kolkata,,22.566668,,88.36667,,15,,22||
+Georgia,,Georgia,,30.356,,80.84,,60,,67||
+
+The Gambia,,The Gambia,,13.466666,,-16.583334,,0,,10||
+
+
+New Galloway,,New Galloway,,55.073,,-4.139,,50,,62||
+Belle Chasse,,Belle Chasse,,29.852222,,-89.99834,,56,,68||Louisiana,,Louisiana,,31.0,,-92.0,,97,,106||
+
+Berrien,,Berrien,,31.27,,-83.23,,18,,25||Georgia,,Georgia,,30.356,,80.84,,92,,99||
+ALABAMA,,ALABAMA,,32.7,,-86.7,,83,,90||
+
+
+Nigeria,,Nigeria,,9.066667,,3.3833334,,118,,125||
+Yemen,,Yemen,,15.0,,48.0,,0,,5||Yemen,,Yemen,,15.0,,48.0,,52,,57||
+
+
+
+Napa,,Napa,,38.5,,-122.32,,12,,16||
+
+Haiti,,Haiti,,19.0,,-72.333336,,13,,18||Haitian,,Haitian,,19.0,,-72.333336,,72,,79||
+Canada,,Canada,,60.0,,-75.666664,,24,,30||
+
+
+
+Virginia,,Virginia,,36.0,,75.0,,14,,22||
+
+Charlottesville,,Charlottesville,,38.03,,-78.47889,,16,,31||
+Pentagon,,Pentagon,,38.87099,,-77.05596,,33,,41||Syria,,Syria,,33.5,,36.3,,126,,131||
+
+Syrian,,Syrian,,33.5,,36.3,,107,,113||
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,22,,34||
+
+Liberia,,Liberia,,6.3166666,,-9.5,,47,,54||
+Moore, OK,,Moore, OK,,35.33889,,-97.4875,,66,,75||
+Memphis,,Memphis,,35.1175,,-89.97111,,32,,39||
+Syrian,,Syrian,,33.5,,36.3,,31,,37||Syria,,Syria,,33.5,,36.3,,128,,133||
+Wigton,,Wigton,,54.823,,-3.159,,72,,78||Keswick,,Keswick,,54.5999,,-3.1293,,86,,93||Keswick,,Keswick,,54.5999,,-3.1293,,112,,119||Cumbria,,Cumbria,,54.5,,-3.25,,121,,128||
+Indian,,Indian,,28.613333,,72.825836,,104,,110||
+Israel,,Israel,,31.783333,,35.0,,32,,38||Israel,,Israel,,31.783333,,35.0,,74,,80||Cairo,,Cairo,,30.05,,31.22889,,97,,102||
+Philippine Arena,,Philippine Arena,,14.796111,,120.954445,,21,,37||
+
+
+Iran,,Iran,,32.0,,51.416668,,41,,45||
+Russia,,Russia,,60.0,,37.616665,,3,,9||
+Jammu,,Jammu,,32.73,,74.87,,79,,84||
+Syria,,Syria,,33.5,,36.3,,81,,86||
+
+
+Donetsk,,Donetsk,,48.002777,,37.80528,,38,,45||
+Plymouth,,Plymouth,,50.371387,,-4.1422224,,21,,29||
+
+Louisiana,,Louisiana,,31.0,,-92.0,,83,,92||
+
+
+Iran,,Iran,,32.0,,51.416668,,0,,4||Iran,,Iran,,32.0,,51.416668,,73,,77||
+
+
+Rwanda,,Rwanda,,-1.9438833,,29.873888,,15,,21||UK,,UK,,55.0,,-3.0,,107,,109||
+
+ukraine,,ukraine,,50.45,,30.5,,122,,129||
+
+Guinea,,Guinea,,9.516666,,-10.0,,97,,103||
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,61,,73||Liberia,,Liberia,,6.3166666,,-9.5,,78,,85||
+
+Israel,,Israel,,31.783333,,35.0,,82,,88||MT,,MT,,44.0,,104.0,,90,,92||
+
+California,,California,,35.458607,,-119.35516,,0,,10||
+Tripura,,Tripura,,23.84,,91.28,,12,,19||AGARTALA,,AGARTALA,,23.833334,,91.26667,,58,,66||Tripura,,Tripura,,23.84,,91.28,,85,,92||
+India,,India,,28.613333,,72.825836,,71,,76||
+
+
+
+Phoenix,,Phoenix,,33.45,,-112.066666,,31,,38||Phoenix,,Phoenix,,33.45,,-112.066666,,85,,92||
+Sri Lanka,,Sri Lanka,,6.9333334,,79.86667,,0,,9||Sri Lanka,,Sri Lanka,,6.9333334,,79.86667,,95,,104||
+
+Israeli,,Israeli,,31.783333,,35.0,,80,,87||Gaza,,Gaza,,31.516666,,34.45,,113,,117||
+Philippines,,Philippines,,14.583333,,122.0,,106,,117||
+TN,,TN,,34.0,,81.0,,67,,69||Memphis,,Memphis,,35.1175,,-89.97111,,100,,107||
+Bhiwandi,,Bhiwandi,,19.296663,,73.06312,,13,,21||Nepal,,Nepal,,27.7,,85.316666,,39,,44||
+
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,17,,29||GENEVA,,GENEVA,,46.2,,6.15,,64,,70||
+Italy,,Italy,,41.9,,12.0,,63,,68||Germany,,Germany,,51.0,,13.383333,,70,,77||UK,,UK,,55.0,,-3.0,,79,,81||Ireland,,Ireland,,53.416668,,-8.0,,86,,93||
+Gilroy,,Gilroy,,37.012047,,-121.58,,40,,46||
+
+
+Abuja,,Abuja,,9.066667,,7.483333,,65,,70||
+United States,,United States,,40.0,,-77.01667,,119,,132||
+American,,American,,40.0,,-77.01667,,91,,99||
+Texas,,Texas,,31.0,,-100.0,,60,,65||
+
+New Zealand,,New Zealand,,-41.283333,,174.0,,91,,102||
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,43,,55||
+Oklahoma,,Oklahoma,,2220.0,,1560.0,,72,,80||
+Yemen,,Yemen,,15.0,,48.0,,0,,5||Yemen,,Yemen,,15.0,,48.0,,34,,39||Yemen,,Yemen,,15.0,,48.0,,66,,71||
+Oklahoma,,Oklahoma,,2220.0,,1560.0,,89,,97||
+China,,China,,35.0,,103.0,,68,,73||
+Burkina Faso,,Burkina Faso,,12.333333,,-2.0,,32,,44||
+Southern California,,Southern California,,34.0,,-117.0,,90,,109||
+
+UK,,UK,,55.0,,-3.0,,21,,23||
+
+
+
+White House,,White House,,38.8977,,-77.0365,,0,,11||Syrian,,Syrian,,33.5,,36.3,,52,,58||White House,,White House,,38.8977,,-77.0365,,71,,82||
+
+United States,,United States,,40.0,,-77.01667,,83,,96||
+
+
+West Liberty,,West Liberty,,37.91639,,-83.26139,,49,,61||Kentucky,,Kentucky,,37.5,,-85.0,,62,,70||
+
+Cuba,,Cuba,,23.133333,,-80.0,,78,,82||
+United States,,United States,,40.0,,-77.01667,,64,,77||
+
+
+KS,,KS,,38.45,,-96.53333,,66,,68||
+
+American,,American,,40.0,,-77.01667,,27,,35||Holland Township,,Holland Township,,40.598038,,-75.12417,,46,,62||
+United States,,United States,,40.0,,-77.01667,,65,,78||
+Tanzania,,Tanzania,,-6.307,,34.854,,19,,27||
+
+Stafford,,Stafford,,52.8066,,-2.1171,,123,,131||
+Twiggs,,Twiggs,,32.67,,-83.43,,41,,47||
+Lexington,,Lexington,,38.029724,,-84.49472,,50,,59||Chicago,,Chicago,,41.836945,,-87.68472,,125,,132||
+Anchorage, AK,,Anchorage, AK,,61.216667,,-149.9,,57,,70||
+
+Northern Cape,,Northern Cape,,-30.0,,22.0,,17,,30||
+AP,,AP,,16.5,,80.64,,4,,6||Idaho,,Idaho,,42.0,,111.0,,37,,42||
+Richmond, CA,,Richmond, CA,,37.935833,,-122.34778,,38,,50||
+Hong Kong,,Hong Kong,,22.3,,114.2,,113,,122||
+
+Ferguson, Missouri,,Ferguson, Missouri,,38.744167,,-90.305275,,91,,109||
+
+New Zealand,,New Zealand,,-41.283333,,174.0,,33,,44||
+Cabell County,,Cabell County,,38.42,,-82.24,,58,,71||
+
+Fiji Islands,,Fiji Islands,,-18.166666,,179.0,,53,,65||
+
+American Canyon,,American Canyon,,38.168056,,-122.2525,,65,,80||
+Napa,,Napa,,38.30472,,-122.29889,,31,,35||
+United States,,United States,,40.0,,-77.01667,,59,,72||
+Delhi,,Delhi,,28.61,,77.23,,0,,5||New Delhi,,New Delhi,,28.61389,,77.208885,,67,,76||
+Missouri,,Missouri,,36.0,,89.0,,102,,110||serio,,serio,,45.266666,,9.75,,134,,139||
+
+
+Sanaa,,Sanaa,,15.348333,,44.20639,,75,,80||Yemen,,Yemen,,15.0,,48.0,,82,,87||
+Gaza,,Gaza,,31.516666,,34.45,,50,,54||
+
+London,,London,,51.50722,,-0.1275,,133,,139||
+Turkey,,Turkey,,39.0,,32.833332,,24,,30||
+South Africa,,South Africa,,-30.0,,25.0,,60,,72||
+
+
+
+Crossett,,Crossett,,33.12472,,-91.96333,,102,,110||
+SAN FRANCISCO,,SAN FRANCISCO,,37.783333,,-122.416664,,70,,83||United States,,United States,,40.0,,-77.01667,,114,,127||
+Daraa,,Daraa,,32.9,,36.2,,52,,57||
+
+India,,India,,28.613333,,72.825836,,1,,6||
+Oxford,,Oxford,,51.751945,,-1.2577778,,36,,42||
+Ukraine,,Ukraine,,50.45,,30.5,,17,,24||Russia,,Russia,,60.0,,37.616665,,116,,122||
+
+Tallahassee,,Tallahassee,,30.455,,-84.253334,,11,,22||
+Kiel,,Kiel,,54.333332,,10.133333,,48,,52||
+Rotherham,,Rotherham,,53.43,,-1.357,,37,,46||
+Sarawak,,Sarawak,,1.56,,110.345,,87,,94||
+Orillia,,Orillia,,44.6,,-79.416664,,122,,129||
+
+Haiti,,Haiti,,19.0,,-72.333336,,6,,11||
+ALFRETON,,ALFRETON,,53.1,,-1.3833333,,0,,8||
+
+México City,,México City,,19.433332,,-99.13333,,18,,29||
+
+Pakistan,,Pakistan,,33.666668,,73.166664,,83,,91||
+
+
+Eucla,,Eucla,,31.675,,128.88306,,40,,45||
+Nigeria,,Nigeria,,9.066667,,3.3833334,,4,,11||
+California,,California,,35.458607,,-119.35516,,48,,58||Napa,,Napa,,38.30472,,-122.29889,,91,,95||
+Indianapolis,,Indianapolis,,39.791,,-86.15,,58,,70||
+Syria,,Syria,,33.5,,36.3,,19,,24||Syrian,,Syrian,,33.5,,36.3,,37,,43||
+Tokyo,,Tokyo,,35.683334,,139.68333,,118,,123||
+Brazil,,Brazil,,-15.783334,,-47.866665,,24,,30||Canadian,,Canadian,,60.0,,-75.666664,,71,,79||
+Mali,,Mali,,12.65,,-8.0,,12,,16||
+Israel,,Israel,,31.783333,,35.0,,73,,79||
+Ukraine,,Ukraine,,50.45,,30.5,,69,,76||
+
+Syrian,,Syrian,,33.5,,36.3,,35,,41||
+Napa,,Napa,,38.30472,,-122.29889,,61,,65||
+Andaman,,Andaman,,12.5,,92.75,,79,,86||
+China,,China,,35.0,,103.0,,112,,117||
+
+London,,London,,51.50722,,-0.1275,,85,,91||
+
+Venezuela,,Venezuela,,4.5833335,,-74.066666,,22,,31||
+
+Yemen,,Yemen,,15.0,,48.0,,37,,42||
+Lagos,,Lagos,,6.455027,,3.384082,,72,,77||
+Dominican,,Dominican,,19.0,,-70.666664,,69,,78||
+Syrian,,Syrian,,33.5,,36.3,,71,,77||
+Indiana,,Indiana,,40.0,,-86.0,,47,,54||
+Turkey,,Turkey,,39.0,,32.833332,,48,,54||
+Lahore,,Lahore,,31.549723,,74.34361,,20,,26||Peshawar,,Peshawar,,34.016666,,71.583336,,47,,55||
+California,,California,,35.458607,,-119.35516,,14,,24||
+
+
+Manchester, South Dakota,,Manchester, South Dakota,,44.379444,,-97.702774,,30,,54||
+Ivorian,,Ivorian,,8.0,,-5.3,,0,,7||Ivory Coast,,Ivory Coast,,8.0,,-5.3,,37,,48||Liberia,,Liberia,,6.3166666,,-9.5,,81,,88||
+Mali,,Mali,,12.65,,-8.0,,32,,36||
+Syria,,Syria,,33.5,,36.3,,37,,42||
+Ukraine,,Ukraine,,50.45,,30.5,,47,,54||
+Ukraine,,Ukraine,,50.45,,30.5,,14,,21||
+Nigeria,,Nigeria,,9.066667,,3.3833334,,126,,133||
+Ukraine,,Ukraine,,50.45,,30.5,,77,,84||M5,,M5,,52.536,,-1.9699,,137,,139||
+
+
+Egypt,,Egypt,,30.033333,,31.216667,,133,,138||
+California,,California,,35.458607,,-119.35516,,0,,10||California,,California,,35.458607,,-119.35516,,59,,69||
+
+Syria,,Syria,,33.5,,36.3,,21,,26||
+
+Iraq,,Iraq,,33.0,,44.0,,123,,127||
+
+Gaza,,Gaza,,31.516666,,34.45,,70,,74||Libya,,Libya,,27.0,,17.0,,102,,107||Syria,,Syria,,33.5,,36.3,,109,,114||Iraq,,Iraq,,33.0,,44.0,,116,,120||
+
+Hawaii,,Hawaii,,21.311388,,-157.79639,,55,,61||
+
+Iran,,Iran,,32.0,,51.416668,,84,,88||
+Israel,,Israel,,31.783333,,35.0,,69,,75||
+
+
+Iraq,,Iraq,,33.0,,44.0,,128,,132||
+
+
+los angeles,,los angeles,,34.05,,-118.25,,56,,67||
+
+
+
+Pakistan,,Pakistan,,33.666668,,73.166664,,96,,104||
+
+
+Bomi County,,Bomi County,,6.75,,-10.75,,87,,98||Liberia,,Liberia,,6.3166666,,-9.5,,102,,109||
+Mali,,Mali,,12.65,,-8.0,,1,,5||
+
+Punjab,,Punjab,,31.0,,72.0,,12,,18||
+
+Philippines,,Philippines,,14.583333,,122.0,,49,,60||
+
+Ukrainian,,Ukrainian,,50.45,,30.5,,19,,28||Mariupol,,Mariupol,,47.095833,,37.549446,,37,,45||
+Gaza,,Gaza,,31.516666,,34.45,,43,,47||
+Beltsville, MD,,Beltsville, MD,,39.0375,,-76.91778,,80,,94||
+Vilonia,,Vilonia,,35.07722,,-92.2125,,42,,49||
+Penang,,Penang,,5.4,,100.23333,,59,,65||
+
+Pakistan,,Pakistan,,33.666668,,73.166664,,86,,94||
+
+
+Texas,,Texas,,31.0,,-100.0,,91,,96||
+Kelantan,,Kelantan,,5.25,,102.0,,83,,91||
+
+China,,China,,35.0,,103.0,,30,,35||Chinese,,Chinese,,35.0,,103.0,,94,,101||
+AP,,AP,,16.5,,80.64,,122,,124||
+Monroe Township, NJ,,Monroe Township, NJ,,40.319473,,-74.4288,,29,,48||
+
+
+Abuja,,Abuja,,9.066667,,7.483333,,31,,36||Nigerian,,Nigerian,,9.066667,,3.3833334,,71,,79||
+Hong Kong,,Hong Kong,,22.3,,114.2,,0,,9||
+Alor Star,,Alor Star,,6.116667,,100.36667,,31,,40||
+
+Israel,,Israel,,31.783333,,35.0,,25,,31||Liberia,,Liberia,,6.3166666,,-9.5,,77,,84||
+Westminster Bridge,,Westminster Bridge,,51.50083,,-0.12194444,,74,,92||
+
+Syrian,,Syrian,,33.5,,36.3,,34,,40||Damascus,,Damascus,,33.513054,,36.291943,,115,,123||
+Michigan,,Michigan,,1080.0,,1500.0,,55,,63||
+
+
+Golan,,Golan,,32.981667,,35.749443,,12,,17||Syria,,Syria,,33.5,,36.3,,55,,60||
+Iran,,Iran,,32.0,,51.416668,,22,,26||Yemen,,Yemen,,15.0,,48.0,,76,,81||Mumbai,,Mumbai,,18.975,,72.825836,,121,,127||
+
+Webb City,,Webb City,,37.144444,,-94.46917,,0,,9||
+
+Penampang,,Penampang,,5.9166665,,116.11667,,41,,50||
+Kinsale,,Kinsale,,51.7075,,-8.530556,,43,,50||Cork,,Cork,,51.966667,,-8.583333,,57,,61||
+Seattle,,Seattle,,47.609722,,-122.33305,,68,,75||
+USA,,USA,,40.0,,-77.01667,,40,,43||
+Sahara Desert,,Sahara Desert,,23.0,,13.0,,34,,47||Alaska,,Alaska,,64.0,,-150.0,,64,,70||
+Cali,,Cali,,3.4205556,,-76.522224,,77,,81||
+
+Kedah,,Kedah,,6.1283336,,100.36278,,78,,83||
+
+Guinea,,Guinea,,9.516666,,-10.0,,49,,55||Nigeria,,Nigeria,,9.066667,,3.3833334,,127,,134||
+Laurens County,,Laurens County,,34.48,,-82.01,,95,,109||
+
+Yemen,,Yemen,,15.0,,48.0,,45,,50||
+
+Syrian,,Syrian,,33.5,,36.3,,14,,20||
+Israeli,,Israeli,,31.783333,,35.0,,109,,116||
+Israel,,Israel,,31.783333,,35.0,,22,,28||
+
+Liberia,,Liberia,,6.3166666,,-9.5,,85,,92||
+Napa,,Napa,,38.5,,-122.32,,36,,40||
+Iowa,,Iowa,,40.0,,90.0,,70,,74||
+
+California,,California,,35.458607,,-119.35516,,17,,27||
+Oklahoma,,Oklahoma,,2220.0,,1560.0,,51,,59||
+
+Kenya,,Kenya,,1.0,,38.0,,19,,24||
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,20,,32||Sierra Leone,,Sierra Leone,,8.5,,-11.5,,98,,110||
+
+Libya,,Libya,,27.0,,17.0,,0,,5||
+Haiti,,Haiti,,19.0,,-72.333336,,58,,63||
+
+
+
+
+
+Baghdad,,Baghdad,,33.333332,,44.383335,,3,,10||American,,American,,40.0,,-77.01667,,41,,49||
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,23,,35||
+Seattle,,Seattle,,47.609722,,-122.33305,,125,,132||
+Liberia,,Liberia,,6.3166666,,-9.5,,12,,19||
+
+
+Denver,,Denver,,39.76185,,-104.8811,,0,,6||
+Nigeria,,Nigeria,,9.066667,,3.3833334,,9,,16||Nigeria,,Nigeria,,9.066667,,3.3833334,,18,,25||
+Pakistan,,Pakistan,,33.666668,,73.166664,,31,,39||
+Alabama,,Alabama,,32.7,,-86.7,,55,,62||
+Dallas,,Dallas,,32.775833,,-96.79667,,57,,63||
+Israel,,Israel,,31.783333,,35.0,,15,,21||Israeli,,Israeli,,31.783333,,35.0,,67,,74||
+Kansas,,Kansas,,38.45,,-96.53333,,19,,25||
+
+Kenya,,Kenya,,1.0,,38.0,,14,,19||Liberia,,Liberia,,6.3166666,,-9.5,,49,,56||
+Port-Vila,,Port-Vila,,-17.75,,168.3,,45,,54||Vanuatu,,Vanuatu,,-17.75,,167.0,,56,,63||
+
+
+
+Winnipeg,,Winnipeg,,49.899445,,-97.13917,,53,,61||
+Germany,,Germany,,51.0,,13.383333,,60,,67||
+Lagos,,Lagos,,6.455027,,3.384082,,40,,45||Nigerian,,Nigerian,,9.066667,,3.3833334,,57,,65||
+
+Cheshire,,Cheshire,,53.166668,,-2.5833333,,6,,14||
+Aggborough,,Aggborough,,52.380474,,-2.242653,,48,,58||
+California,,California,,35.458607,,-119.35516,,0,,10||
+
+Detroit,,Detroit,,42.33139,,-83.04583,,26,,33||DETROIT,,DETROIT,,42.33139,,-83.04583,,95,,102||DETROIT,,DETROIT,,42.33139,,-83.04583,,108,,115||
+Cleveland,,Cleveland,,41.482224,,-81.66972,,42,,51||
+
+
+London,,London,,51.50722,,-0.1275,,38,,44||
+
+El Salvador,,El Salvador,,13.666667,,-88.916664,,60,,71||
+Haiti,,Haiti,,19.0,,-72.333336,,27,,32||Haiti,,Haiti,,19.0,,-72.333336,,93,,98||
+
+Japan,,Japan,,35.0,,136.0,,37,,42||
+San Francisco,,San Francisco,,37.783333,,-122.416664,,56,,69||
+
+France,,France,,48.856667,,2.0,,15,,21||
+Israel,,Israel,,31.783333,,35.0,,33,,39||
+Ukraine,,Ukraine,,50.45,,30.5,,90,,97||DONETSK,,DONETSK,,48.002777,,37.80528,,99,,106||
+London,,London,,51.50722,,-0.1275,,91,,97||
+Sumatra,,Sumatra,,0.0,,102.0,,54,,61||
+Mississippi,,Mississippi,,30.0,,88.0,,35,,46||
+Deseronto,,Deseronto,,44.2,,-77.05,,49,,58||
+WI,,WI,,44.8824,,-89.912,,81,,83||
+
+
+Serbia,,Serbia,,44.8,,20.466667,,69,,75||Albania,,Albania,,41.316666,,20.0,,78,,85||
+London,,London,,51.50722,,-0.1275,,28,,34||
+
+St Louis,,St Louis,,38.627224,,-90.19778,,72,,80||
+
+
+Newcastle,,Newcastle,,54.97222,,-1.6083333,,101,,110||
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,15,,27||
+
+Israel,,Israel,,31.783333,,35.0,,39,,45||
+M4,,M4,,51.4897,,-0.2781,,78,,80||Severn Bridge,,Severn Bridge,,51.609,,-2.6384,,81,,94||
+Seattle,,Seattle,,47.609722,,-122.33305,,37,,44||
+
+U.s,,U.s,,40.0,,-77.01667,,4,,7||
+
+USA,,USA,,40.0,,-77.01667,,81,,84||
+Pakistan,,Pakistan,,33.666668,,73.166664,,0,,8||
+Walnut Grove,,Walnut Grove,,44.22361,,-95.46889,,0,,12||
+
+Ghana,,Ghana,,8.0,,-2.0,,29,,34||Ghana,,Ghana,,8.0,,-2.0,,67,,72||
+Ogunquit,,Ogunquit,,43.25028,,-70.59917,,66,,74||
+
+American,,American,,40.0,,-77.01667,,11,,19||
+American,,American,,40.0,,-77.01667,,41,,49||Canary Islands,,Canary Islands,,28.1,,-15.4,,101,,115||
+
+
+SA,,SA,,30.0,,135.0,,1,,3||
+M53,,M53,,53.4114,,-3.0802,,42,,45||Merseyside,,Merseyside,,53.416668,,-3.0,,49,,59||
+
+Donetsk,,Donetsk,,48.002777,,37.80528,,48,,55||
+New Zealand,,New Zealand,,-41.283333,,174.0,,28,,39||Wellington,,Wellington,,-41.288887,,174.77722,,47,,57||
+
+Ghana,,Ghana,,8.0,,-2.0,,15,,20||
+chicago,,chicago,,41.836945,,-87.68472,,4,,11||
+Dublin,,Dublin,,53.34778,,-6.259722,,117,,123||
+Ringgold, GA,,Ringgold, GA,,34.91722,,-85.11584,,74,,86||
+Israeli,,Israeli,,31.783333,,35.0,,67,,74||
+
+Hungary,,Hungary,,47.0,,19.25,,21,,28||
+Salvador,,Salvador,,13.666667,,-88.916664,,40,,48||Guatemala,,Guatemala,,15.5,,-90.5,,50,,59||Honduras,,Honduras,,14.1,,-86.5,,61,,69||Mexico,,Mexico,,23.0,,-99.13333,,72,,78||
+
+
+
+
+Nigerian,,Nigerian,,9.066667,,3.3833334,,16,,24||Lagos,,Lagos,,6.455027,,3.384082,,36,,41||
+Napa,,Napa,,38.30472,,-122.29889,,37,,41||
+Missouri,,Missouri,,36.0,,89.0,,42,,50||
+Moline,,Moline,,41.485832,,-90.499725,,15,,21||
+Western Cape,,Western Cape,,-34.0,,20.0,,34,,46||
+Georgia,,Georgia,,30.356,,80.84,,51,,58||
+Yemen,,Yemen,,15.0,,48.0,,0,,5||
+Chiavari,,Chiavari,,44.316666,,9.333333,,29,,37||
+Japan,,Japan,,35.0,,136.0,,80,,85||
+Ukraine,,Ukraine,,50.45,,30.5,,18,,25||
+Malaysia,,Malaysia,,2.5,,112.5,,27,,35||
+UK,,UK,,55.0,,-3.0,,43,,45||
+Greater Glasgow,,Greater Glasgow,,55.862,,-4.25448,,80,,95||
+
+
+
+Berkeley,,Berkeley,,37.871666,,-122.27278,,27,,35||
+
+Syrian,,Syrian,,33.5,,36.3,,37,,43||Syria,,Syria,,33.5,,36.3,,107,,112||
+
+
+Shizuoka,,Shizuoka,,34.975555,,138.38278,,74,,82||Japan,,Japan,,35.0,,136.0,,84,,89||Aomori,,Aomori,,40.824665,,140.74065,,98,,104||Hokkaido,,Hokkaido,,43.0,,142.0,,107,,115||
+Guinea,,Guinea,,9.516666,,-10.0,,46,,52||
+Cuba,,Cuba,,23.133333,,-80.0,,65,,69||
+Dundalk,,Dundalk,,54.009,,-6.4049,,29,,36||
+UK,,UK,,55.0,,-3.0,,21,,23||
+Fiji,,Fiji,,-18.166666,,179.0,,61,,65||
+
+
+Singapore,,Singapore,,1.3236028,,103.833336,,51,,60||
+Orlando,,Orlando,,28.415833,,-81.29889,,27,,34||
+M53,,M53,,53.4114,,-3.0802,,69,,72||
+
+
+
+WASHINGTON,,WASHINGTON,,38.904724,,-77.01639,,47,,57||
+Limpopo,,Limpopo,,-24.0,,29.0,,81,,88||
+
+Kansas,,Kansas,,38.45,,-96.53333,,26,,32||
+
+
+Ukraine,,Ukraine,,50.45,,30.5,,0,,7||Ukraine,,Ukraine,,50.45,,30.5,,64,,71||
+Dublin,,Dublin,,53.34778,,-6.259722,,32,,38||
+
+
+Cambodia,,Cambodia,,13.0,,104.916664,,11,,19||
+Austin,,Austin,,30.25,,-97.75,,49,,55||
+France,,France,,48.856667,,2.0,,25,,31||
+Cairo,,Cairo,,30.05,,31.22889,,14,,19||Israel,,Israel,,31.783333,,35.0,,48,,54||
+Japan,,Japan,,35.0,,136.0,,42,,47||
+
+
+Aurora,,Aurora,,41.76389,,-88.29,,18,,24||
+Middelburg,,Middelburg,,25.768417,,29.478333,,41,,51||
+Gilroy,,Gilroy,,37.012047,,-121.58,,42,,48||
+Ukraine,,Ukraine,,50.45,,30.5,,0,,7||Ukraine,,Ukraine,,50.45,,30.5,,56,,63||
+Elstree,,Elstree,,51.64,,-0.3,,0,,7||UK,,UK,,55.0,,-3.0,,60,,62||
+UK,,UK,,55.0,,-3.0,,58,,60||
+
+Tasmania,,Tasmania,,42.0,,147.0,,67,,75||
+Qatar,,Qatar,,25.3,,51.516666,,111,,116||
+China,,China,,35.0,,103.0,,7,,12||China,,China,,35.0,,103.0,,64,,69||
+
+Egypt,,Egypt,,30.033333,,31.216667,,46,,51||Cairo,,Cairo,,30.05,,31.22889,,74,,79||
+
+
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,67,,79||
+
+Chicago,,Chicago,,41.836945,,-87.68472,,15,,22||
+Israel,,Israel,,31.783333,,35.0,,0,,6||Syrian,,Syrian,,33.5,,36.3,,18,,24||
+United States,,United States,,40.0,,-77.01667,,47,,60||
+Seattle,,Seattle,,47.609722,,-122.33305,,64,,71||
+Ghana,,Ghana,,8.0,,-2.0,,14,,19||
+
+USA,,USA,,40.0,,-77.01667,,68,,71||USA,,USA,,40.0,,-77.01667,,131,,134||
+Poland,,Poland,,52.0,,20.0,,0,,6||
+Iraq,,Iraq,,33.0,,44.0,,5,,9||Iraq,,Iraq,,33.0,,44.0,,43,,47||
+
+Krugersdorp,,Krugersdorp,,26.1,,27.766666,,67,,78||
+
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,38,,50||
+
+Dallas,,Dallas,,32.775833,,-96.79667,,88,,94||
+Italy,,Italy,,41.9,,12.0,,19,,24||USA,,USA,,40.0,,-77.01667,,35,,38||Machakos,,Machakos,,-1.5166667,,37.266666,,61,,69||Kenya,,Kenya,,1.0,,38.0,,118,,123||
+
+
+Philippines,,Philippines,,14.583333,,122.0,,31,,42||Manila,,Manila,,14.583333,,121.0,,62,,68||
+Gloucester,,Gloucester,,51.87,,-2.24,,69,,79||Gloucestershire,,Gloucestershire,,51.833332,,-2.1666667,,81,,96||
+
+Cyprus,,Cyprus,,35.0,,33.366665,,67,,73||
+
+Christchurch,,Christchurch,,-43.53,,172.62029,,1,,13||
+Texas,,Texas,,31.0,,-100.0,,22,,27||
+Anantnag,,Anantnag,,33.74568,,75.22038,,94,,102||
+Zimbabwe,,Zimbabwe,,-17.833334,,31.05,,100,,108||
+
+Huntington Beach,,Huntington Beach,,33.69278,,-118.000275,,25,,41||
+Iraq,,Iraq,,33.0,,44.0,,0,,4||
+
+
+Flight 93 Memorial,,Flight 93 Memorial,,40.05611,,-78.90722,,67,,85||
+Illinois,,Illinois,,41.278217,,-88.38024,,71,,79||
+Egypt,,Egypt,,30.033333,,31.216667,,129,,134||
+Chicago,,Chicago,,41.836945,,-87.68472,,62,,69||
+
+
+
+Iceland,,Iceland,,65.0,,-21.933332,,41,,48||
+Memphis, Tennessee,,Memphis, Tennessee,,35.1175,,-89.97111,,34,,52||
+
+
+
+
+Mali,,Mali,,12.65,,-8.0,,34,,38||
+
+American,,American,,40.0,,-77.01667,,29,,37||Scotland,,Scotland,,55.85,,-4.266667,,52,,60||
+UK,,UK,,55.0,,-3.0,,20,,22||
+Cairo,,Cairo,,30.05,,31.22889,,40,,45||
+
+
+Accra,,Accra,,5.55,,-0.2,,11,,16||Sierra Leone,,Sierra Leone,,8.5,,-11.5,,57,,69||Liberia,,Liberia,,6.3166666,,-9.5,,74,,81||
+Bahrain,,Bahrain,,26.0275,,50.55,,30,,37||
+Syrian,,Syrian,,33.5,,36.3,,40,,46||
+
+Chicago,,Chicago,,41.836945,,-87.68472,,7,,14||Illinois,,Illinois,,41.278217,,-88.38024,,42,,50||Chicago,,Chicago,,41.836945,,-87.68472,,62,,69||
+
+Mali,,Mali,,12.65,,-8.0,,48,,52||
+
+
+Sierra Leone,,Sierra Leone,,8.5,,-11.5,,73,,85||Nebraska,,Nebraska,,40.0,,180.0,,105,,113||
+
+Gig Harbor,,Gig Harbor,,47.326946,,-122.58639,,64,,74||
+Port Harcourt,,Port Harcourt,,4.824167,,7.0336113,,0,,13||Nigerian,,Nigerian,,9.066667,,3.3833334,,61,,69||
+
+London,,London,,51.50722,,-0.1275,,43,,49||London,,London,,51.50722,,-0.1275,,83,,89||
+Ukraine,,Ukraine,,50.45,,30.5,,7,,14||
+
+
+Georgia,,Georgia,,42.0,,44.783333,,0,,7||Georgia,,Georgia,,42.0,,44.783333,,83,,90||
+Mt Alexander,,Mt Alexander,,-36.996944,,144.305,,87,,99||
+
+
+Iran,,Iran,,32.0,,51.416668,,0,,4||
+UK,,UK,,55.0,,-3.0,,34,,36||
+
+Southern California,,Southern California,,34.0,,-117.0,,98,,117||Arizona,,Arizona,,34.0,,-112.0,,129,,136||
+
+
+
+Iraq,,Iraq,,33.0,,44.0,,25,,29||Syria,,Syria,,33.5,,36.3,,33,,38||
+India,,India,,28.613333,,72.825836,,14,,19||
+
+Israeli,,Israeli,,31.783333,,35.0,,85,,92||
+
+
+MT,,MT,,44.0,,104.0,,0,,2||AP,,AP,,16.5,,80.64,,4,,6||Ukrainian,,Ukrainian,,50.45,,30.5,,54,,63||
+UK,,UK,,55.0,,-3.0,,38,,40||
+UK,,UK,,55.0,,-3.0,,71,,73||
+Mexico,,Mexico,,23.0,,-99.13333,,0,,6||Gaza,,Gaza,,31.516666,,34.45,,23,,27||AP,,AP,,16.5,,80.64,,29,,31||Israel,,Israel,,31.783333,,35.0,,87,,93||
+Sacramento,,Sacramento,,38.45,,-121.35,,19,,29||
+Yemeni,,Yemeni,,15.0,,48.0,,34,,40||SANAA, Yemen,,SANAA, Yemen,,15.348333,,44.20639,,50,,62||Yemen,,Yemen,,15.0,,48.0,,87,,92||
+Syria,,Syria,,33.5,,36.3,,41,,46||
+Kiev,,Kiev,,50.45,,30.523333,,57,,61||Minsk,,Minsk,,53.9,,27.566668,,129,,134||
+Khomas,,Khomas,,-22.8,,17.0,,20,,26||Namibian,,Namibian,,-22.57,,17.0,,29,,37||namibia,,namibia,,-22.57,,17.0,,129,,136||
+Ukraine,,Ukraine,,50.45,,30.5,,0,,7||
+Kent,,Kent,,51.19,,0.73,,18,,22||
+

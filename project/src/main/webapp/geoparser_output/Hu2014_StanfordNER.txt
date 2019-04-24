@@ -1,0 +1,134 @@
+Town of Hempstead,,Hempstead County,,40.6336,,-73.6098,,11,,27||Spanaway,,Washington State Park,,47.10399,,-122.43457,,65,,86||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||
+Washington,,Washington,,47.50012,,-120.50147,,30,,40||
+Arkansas,,Arkansas,,34.75037,,-92.50044,,55,,63||
+Arkansas,,Arkansas,,34.75037,,-92.50044,,20,,28||Washington,,Washington,,47.50012,,-120.50147,,69,,79||Salem Historic District,,Washington Historic State Park,,43.17222,,-73.3275,,158,,188||North America,,America,,46.07323,,-100.54688,,230,,237||
+Spanaway,,Washington State Park,,47.10399,,-122.43457,,30,,51||
+Washington,,Washington,,47.50012,,-120.50147,,12,,22||Woodbury County,,Woodbury,,42.38972,,-96.04477,,61,,69||Litchfield County,,Litchfield,,41.79249,,-73.24532,,71,,81||Kent,,Kent,,51.23667,,0.72393,,83,,87||Newark,,New Milford,,40.73566,,-74.17237,,93,,104||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||
+Washington,,Washington,,47.50012,,-120.50147,,104,,114||
+Washington,,Washington,,47.50012,,-120.50147,,35,,45||Judea and Samaria Area,,Judea,,32.10578,,35.18635,,115,,120||Woodbury County,,Woodbury,,42.38972,,-96.04477,,137,,145||
+
+Washington,,Washington,,47.50012,,-120.50147,,16,,26||
+East Branch Shepaug River,,Shepaug,,41.73926,,-73.29484,,122,,129||Washington,,Washington,,47.50012,,-120.50147,,163,,173||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||Asia,,IL,,29.84064,,89.29688,,12,,14||
+Washington,,Washington,,47.50012,,-120.50147,,44,,54||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||Peoria County,,Peoria,,40.78808,,-89.75999,,39,,45||Phoenix,,River City,,33.44838,,-112.07404,,52,,62||Illinois,,Illinois,,40.00032,,-89.25037,,75,,83||
+Washington,,Washington,,47.50012,,-120.50147,,36,,46||Peoria County,,Peoria,,40.78808,,-89.75999,,171,,177||Vancouver,,Fort Clark,,45.63873,,-122.66149,,184,,194||
+Republic of Indonesia,,Holland,,-5,,120,,22,,29||Washington,,Washington,,47.50012,,-120.50147,,186,,196||Republic of Indonesia,,Holland,,-5,,120,,222,,229||Republic of Indonesia,,Walthan,,-5,,120,,239,,246||
+Washington,,Washington,,47.50012,,-120.50147,,36,,46||Terra Bella,,Deer Creek,,35.96245,,-119.04427,,77,,87||Terra Bella,,Morton Townships,,35.96245,,-119.04427,,92,,108||
+Washington,,Washington,,47.50012,,-120.50147,,30,,40||Kentucky,,Kentucky,,38.20042,,-84.87762,,94,,102||Lawson Pit,,Lawson Holland,,42.53583,,-77.90611,,120,,134||
+Republic of Indonesia,,Holland,,-5,,120,,0,,7||Washington,,Washington,,47.50012,,-120.50147,,82,,92||
+Washington,,Washington,,47.50012,,-120.50147,,65,,75||
+Washington,,Washington,,47.50012,,-120.50147,,52,,62||
+Washington,,Washington,,47.50012,,-120.50147,,57,,67||
+Washington,,Washington,,47.50012,,-120.50147,,60,,70||
+Homewood Suites By Hilton Seattle-Convention Center-Pike Street,,Washington Street,,47.613,,-122.3297,,81,,98||
+Washington,,Washington,,47.50012,,-120.50147,,20,,30||
+Washington,,Washington,,47.50012,,-120.50147,,108,,118||
+Washington,,Washington,,47.50012,,-120.50147,,27,,37||Peoria County,,Peoria,,40.78808,,-89.75999,,86,,92||Washington,,Washington,,47.50012,,-120.50147,,116,,126||
+Tazewell County,,Tazewell County,,40.50752,,-89.51342,,93,,108||Woodford County,,Woodford county,,40.78823,,-89.21114,,121,,136||Washington,,Washington,,47.50012,,-120.50147,,179,,189||
+Washington,,Washington,,47.50012,,-120.50147,,40,,50||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||
+Washington,,Washington,,47.50012,,-120.50147,,27,,37||Illinois,,Illinois,,40.00032,,-89.25037,,125,,133||
+Washington,,Washington,,47.50012,,-120.50147,,12,,22||
+Washington,,Washington,,47.50012,,-120.50147,,8,,18||
+Washington,,Washington,,47.50012,,-120.50147,,23,,33||
+Peoria County,,Peoria,,40.78808,,-89.75999,,49,,55||Washington,,Washington,,47.50012,,-120.50147,,64,,74||Chicago-Naperville-Joliet,,Chicago,,41.70778,,-87.89062,,91,,98||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||
+Washington,,Washington,,47.50012,,-120.50147,,72,,82||Illinois,,Illinois,,40.00032,,-89.25037,,84,,92||
+Washington,,Washington,,47.50012,,-120.50147,,70,,80||Illinois,,Illinois,,40.00032,,-89.25037,,82,,90||
+Washington,,Washington,,47.50012,,-120.50147,,12,,22||
+Washington,,Washington,,47.50012,,-120.50147,,28,,38||Iowa,,Iowa,,42.00027,,-93.50049,,70,,74||Iowa,,Iowa,,42.00027,,-93.50049,,100,,104||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||Washington-Arlington-Alexandria,,Washington County,,38.85735,,-77.06223,,51,,68||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||Washington,,Washington,,47.50012,,-120.50147,,95,,105||Washington-Arlington-Alexandria,,Washington county,,38.85735,,-77.06223,,137,,154||Washington,,Washington,,47.50012,,-120.50147,,226,,236||
+Filyovsky park District,,Central Park,,55.75472,,37.49196,,59,,71||Washington,,Washington,,47.50012,,-120.50147,,84,,94||
+Filyovsky park District,,Central Park,,55.75472,,37.49196,,43,,55||Washington,,Washington,,47.50012,,-120.50147,,79,,89||
+Washington,,Washington,,47.50012,,-120.50147,,17,,27||Washington,,Washington,,47.50012,,-120.50147,,288,,298||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||North Central Kansas Technical College,,north central Kansas,,39.48164,,-98.11128,,25,,45||North America,,US,,46.07323,,-100.54688,,49,,51||Washington-Arlington-Alexandria,,Washington County,,38.85735,,-77.06223,,91,,108||
+Washington,,Washington,,47.50012,,-120.50147,,101,,111||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||
+
+City of Lake Forest Park,,Washington City Park,,47.75924,,-122.28772,,68,,88||Munchkinland Montessori School,,Munchkinland,,44.89617,,-73.08278,,131,,143||
+Washington,,Washington,,47.50012,,-120.50147,,242,,252||
+Washington,,Washington,,47.50012,,-120.50147,,34,,44||Kansas,,Kansas,,38.50029,,-98.50063,,46,,52||
+Washington,,Washington,,47.50012,,-120.50147,,13,,23||
+Washington,,Washington,,47.50012,,-120.50147,,28,,38||
+Washington,,Washington,,47.50012,,-120.50147,,70,,80||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||
+Tuality Community Hospital,,Washington County Hospital,,45.51947,,-122.97811,,30,,56||
+Washington,,Washington,,47.50012,,-120.50147,,12,,22||
+Washington,,Washington,,47.50012,,-120.50147,,122,,132||
+Washington,,Washington,,47.50012,,-120.50147,,42,,52||Louisiana,,Louisiana,,31.00047,,-92.0004,,85,,94||
+Washington,,Washington,,47.50012,,-120.50147,,106,,116||
+Washington,,Washington,,47.50012,,-120.50147,,12,,22||Rockville,,Williamsburg,,39.084,,-77.15276,,34,,46||Virginia,,Virginia,,37.54812,,-77.44675,,53,,61||
+Washington,,Washington,,47.50012,,-120.50147,,37,,47||Louisiana,,Louisiana,,31.00047,,-92.0004,,76,,85||
+New Orleans,,New Orleans,,29.95465,,-90.07507,,41,,52||Washington,,Washington,,47.50012,,-120.50147,,110,,120||
+Washington,,Washington,,47.50012,,-120.50147,,44,,54||
+Washington,,Washington,,47.50012,,-120.50147,,9,,19||Washington,,Washington,,47.50012,,-120.50147,,71,,81||Louisiana,,Louisiana,,31.00047,,-92.0004,,116,,125||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||
+Washington,,Washington,,47.50012,,-120.50147,,29,,39||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||Maine,,Maine,,45.50032,,-69.24977,,12,,17||Maine,,State Route 17,,45.50032,,-69.24977,,64,,78||Knox County,,Knox County,,35.99322,,-83.93709,,109,,120||Rockland County,,Rockland,,41.15243,,-74.02409,,149,,157||Hamburg,,Augusta,,53.57532,,10.01534,,183,,190||
+Washington,,Washington,,47.50012,,-120.50147,,43,,53||Washington,,Washington,,47.50012,,-120.50147,,85,,95||
+Fort Wayne,,Washington Village,,41.1306,,-85.12886,,199,,217||Washington,,West Washington,,47.50012,,-120.50147,,219,,234||Razorville,,Razorville,,44.27646,,-69.39699,,236,,246||
+Pend Oreille County,,Washington Pond,,48.5323,,-117.27397,,19,,34||City of Crystal Lake,,Crystal Lake,,42.23269,,-88.3349,,39,,51||
+Little Medomak Brook,,Little Medomak River,,44.21785,,-69.3681,,57,,77||Washington,,Washington,,47.50012,,-120.50147,,83,,93||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||New York-Northern New Jersey-Long Island,,New Jersey,,40.75766,,-73.91327,,46,,56||Detroit-Warren-Livonia,,Warren County,,42.34231,,-83.07175,,60,,73||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||New York-Northern New Jersey-Long Island,,New Jersey,,40.75766,,-73.91327,,58,,68||Fort Wayne,,Washington Township,,41.1306,,-85.12886,,120,,139||
+Pohatcong Mountain,,Pohatcong Mountain,,40.73038,,-75.01739,,166,,184||Appalachian Mountains,,Appalachian Mountains,,40.00037,,-78,,245,,266||Town of Phillipsburg,,Phillipsburg,,40.68936,,-75.18212,,290,,302||Washington,,Washington,,47.50012,,-120.50147,,330,,340||
+Upper Pohatcong Mountain,,Upper Pohatcong Mountain,,40.84177,,-74.86128,,0,,24||Washington,,Washington,,47.50012,,-120.50147,,46,,56||Town of Hackettstown,,Hackettstown,,40.854,,-74.82566,,103,,115||
+Municipality of Bethel Park,,Washington Borough,,40.32389,,-80.03637,,0,,18||Fort Wayne,,Washington Township,,41.1306,,-85.12886,,71,,90||
+Washington,,Washington,,47.50012,,-120.50147,,0,,10||
+Cincinnati,,Washington Station,,39.12711,,-84.51439,,53,,71||
+
+Washington,,Washington,,47.50012,,-120.50147,,32,,42||
+Municipality of Bethel Park,,Washington Borough,,40.32389,,-80.03637,,122,,140||Fifth Avenue Theater,,Washington Theater,,47.60982,,-122.33457,,165,,183||
+Washington,,Washington,,47.50012,,-120.50147,,204,,214||Coplay,,Lehigh Valley,,40.6701,,-75.49546,,241,,254||New York City,,New York City,,40.71427,,-74.00597,,277,,290||
+Washington,,Washington,,47.50012,,-120.50147,,61,,71||
+Washington,,Washington,,47.50012,,-120.50147,,56,,66||
+Washington,,Washington,,47.50012,,-120.50147,,29,,39||North Carolina,,North Carolina,,35.50069,,-80.00032,,41,,55||North America,,America,,46.07323,,-100.54688,,79,,86||
+Washington,,Washington,,47.50012,,-120.50147,,72,,82||Washington,,Washington,,47.50012,,-120.50147,,124,,134||
+Washington,,Washington,,47.50012,,-120.50147,,52,,62||Washington,,Washington,,47.50012,,-120.50147,,214,,224||
+Port Washington,,Little Washington,,43.38722,,-87.87564,,62,,79||The Grand Ridge of the Blue Mountains,,Blue Ridge Mountains,,18.08941,,-76.63609,,120,,140||
+Port Washington,,Little Washington,,43.38722,,-87.87564,,246,,263||South Eastern Asia,,South,,6.83917,,116.45508,,345,,350||Washington,,Washington,,47.50012,,-120.50147,,575,,585||Virginia,,Virginia,,37.54812,,-77.44675,,587,,595||
+Washington,,Washington,,47.50012,,-120.50147,,12,,22||Port Washington,,Little Washington,,43.38722,,-87.87564,,91,,108||Washington,,Washington,,47.50012,,-120.50147,,136,,146||Bogotá,,DC.,,4.60971,,-74.08175,,148,,151||
+Washington,,Washington,,47.50012,,-120.50147,,7,,17||
+Port Washington,,Little Washington,,43.38722,,-87.87564,,223,,240||
+Washington,,Washington,,47.50012,,-120.50147,,6,,16||Rappahannock County,,Rappahannock County,,38.68471,,-78.15925,,46,,65||Port Washington,,Little Washington,,43.38722,,-87.87564,,108,,125||
+Virginia,,Virginia,,37.54812,,-77.44675,,77,,85||Shenandoah National Park,,Shenandoah National Park,,38.49177,,-78.4691,,118,,142||Port Washington,,Little Washington,,43.38722,,-87.87564,,267,,284||
+Lombardina Gulf,,Gulf Coast,,-16.53333,,122.83333,,44,,54||Greenville County,,Greenville,,34.89431,,-82.37072,,75,,85||
+Greenville County,,Greenville,,34.89431,,-82.37072,,19,,29||
+Montgomery County,,Montgomery,,39.13638,,-77.20424,,35,,45||North America,,U.S.,,46.07323,,-100.54688,,60,,64||Alabama,,Alabama,,32.75041,,-86.75026,,72,,79||Greenville County,,Greenville,,34.89431,,-82.37072,,104,,114||Butler County,,Butler County,,39.43865,,-84.57566,,149,,162||
+Butler County,,Montgomery Regional Airport,,39.43865,,-84.57566,,0,,27||Greenville County,,Greenville,,34.89431,,-82.37072,,80,,90||
+Greenville County,,Greenville,,34.89431,,-82.37072,,142,,152||Camellia Shores,,Camellia City,,36.91376,,-76.20438,,158,,171||
+Greenville County,,Greenville,,34.89431,,-82.37072,,0,,10||Meriwether County,,Meriwether County,,33.04066,,-84.68831,,31,,48||
+Meriwether County,,Meriwether County,,33.04066,,-84.68831,,83,,100||Greenville County,,Greenville,,34.89431,,-82.37072,,115,,125||
+Meriwether County,,Meriwether County,,33.04066,,-84.68831,,24,,41||Greenville County,,Greenville,,34.89431,,-82.37072,,87,,97||Greater Manchester,,Manchester,,53.45,,-2.23333,,146,,156||
+Okolona,,Lone Oak,,38.14118,,-85.68774,,40,,48||China Grove,,Luthersville,,35.56931,,-80.58173,,50,,62||Greenville County,,Greenville,,34.89431,,-82.37072,,130,,140||
+Greenville County,,Greenville,,34.89431,,-82.37072,,0,,10||Illinois,,Illinois,,40.00032,,-89.25037,,12,,20||Bond County,,Bond County,,38.88682,,-89.43555,,33,,44||
+Greenville County,,Greenville,,34.89431,,-82.37072,,0,,10||
+Greenville County,,Greenville,,34.89431,,-82.37072,,0,,10||
+Greenville County,,Greenville,,34.89431,,-82.37072,,0,,10||
+Greenville County,,Greenville,,34.89431,,-82.37072,,11,,21||Indiana,,Indiana,,40.00032,,-86.25027,,23,,30||
+Floyd County,,Floyd County,,34.26316,,-85.21428,,9,,21||Greenville County,,Greenville,,34.89431,,-82.37072,,33,,43||
+Kentucky,,Western Kentucky,,-34.22664,,19.03978,,35,,51||Greenville County,,Greenville,,34.89431,,-82.37072,,53,,63||
+Greenville County,,Greenville,,34.89431,,-82.37072,,0,,10||
+Greenville County,,Greenville,,34.89431,,-82.37072,,13,,23||
+Greenville County,,Greenville,,34.89431,,-82.37072,,0,,10||Mississippi,,Mississippi,,32.75041,,-89.75036,,12,,23||
+Greenville County,,Greenville,,34.89431,,-82.37072,,0,,10||
+Mississippi,,Mississippi,,32.75041,,-89.75036,,50,,61||Greenville County,,Greenville,,34.89431,,-82.37072,,63,,73||
+Greenville County,,Greenville,,34.89431,,-82.37072,,9,,19||
+Greenville County,,Greenville,,34.89431,,-82.37072,,118,,128||
+East Flat Rock,,East Carolina,,35.28012,,-82.42206,,18,,31||Greenville County,,Greenville,,34.89431,,-82.37072,,33,,43||
+Greenville County,,Greenville,,34.89431,,-82.37072,,242,,252||
+Greenville County,,Greenville,,34.89431,,-82.37072,,192,,202||
+Greenville County,,Greenville,,34.89431,,-82.37072,,58,,68||
+North Carolina,,North Carolina,,35.50069,,-80.00032,,137,,151||Greenville County,,Greenville,,34.89431,,-82.37072,,210,,220||Pittsburgh,,Pitt County,,40.44062,,-79.99589,,225,,236||
+Parc National de Waza,,Extreme Park,,11.33333,,14.66667,,30,,42||Greenville County,,Greenville,,34.89431,,-82.37072,,414,,424||
+Greenville County,,Greenville,,34.89431,,-82.37072,,87,,97||North Carolina,,North Carolina,,35.50069,,-80.00032,,99,,113||
+Greenville County,,Greenville,,34.89431,,-82.37072,,15,,25||Interstate 5 Northbound Exit 80,,Interstate 80,,42.74529,,-123.37092,,169,,182||
+Greenville County,,Greenville,,34.89431,,-82.37072,,15,,25||
+Greenville County,,Greenville,,34.89431,,-82.37072,,81,,91||
+Greenville County,,Greenville,,34.89431,,-82.37072,,15,,25||

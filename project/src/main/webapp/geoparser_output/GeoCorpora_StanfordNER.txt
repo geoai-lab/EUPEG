@@ -1,0 +1,1639 @@
+
+Alabama,,Alabama,,32.75041,,-86.75026,,32,,39||
+
+Arizona,,Arizona,,34.5003,,-111.50098,,34,,41||
+
+Northcourt Commons Shopping Center,,Northcourt,,45.1254,,-93.2519,,105,,115||
+England,,England,,52.16045,,-0.70312,,43,,50||
+North America,,US,,46.07323,,-100.54688,,137,,139||
+California,,California,,37.25022,,-119.75126,,15,,25||California,,Northern California,,37.25022,,-119.75126,,79,,98||
+North America,,U.S.,,46.07323,,-100.54688,,39,,43||
+
+Bangladesh,,Ghana,,24,,90,,21,,26||
+San Francisco Bay Area,,Bay Area,,37.77239,,-122.42349,,25,,33||
+
+
+Southeast Asia,,Southeast Asia,,12.38293,,103.00781,,27,,41||
+Province of Bohol,,Bohol,,9.83333,,124.16667,,49,,54||
+Republic of Cuba,,Cuba,,22,,-79.5,,45,,49||Africa,,Africa,,7.1881,,21.09375,,74,,80||
+Ukraine,,Ukraine,,49,,32,,22,,29||
+
+Kuril Islands,,Kuril Islands,,46.16667,,152,,32,,45||
+
+North America,,USA,,46.07323,,-100.54688,,55,,58||North America,,US,,46.07323,,-100.54688,,96,,98||
+
+Atlanta-Sandy Springs-Marietta,,Atlanta,,33.73119,,-84.38324,,79,,86||
+North America,,USA,,46.07323,,-100.54688,,73,,76||
+
+Rikers Island,,Rikers Island,,40.79066,,-73.88097,,36,,49||
+
+State of Chhattīsgarh,,Chhattisgarh,,21.5,,82,,28,,40||
+
+Ukraine,,Ukraine,,49,,32,,4,,11||Ukraine,,Ukraine,,49,,32,,41,,48||
+
+Southern Africa,,South Africa,,-27.11781,,22.28027,,0,,12||Orkney,,Orkney,,-26.98023,,26.67272,,55,,61||
+London,,London UK,,51.49227,,-0.30864,,0,,9||
+
+Japan,,Japan,,35.68536,,139.75309,,73,,78||
+State of Israel,,Israel,,31.5,,34.75,,15,,21||
+USN-USA-USAAF Advance Base 1945 WW2,,Guam,,13.48,,144.732,,99,,103||
+
+Boise,,Boise,,43.6135,,-116.20345,,50,,55||
+
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,94,,106||
+
+Atlanta Memorial Hospital,,Atlanta Hospital,,33.10555,,-94.16327,,36,,52||
+Uttar Pradesh,,Uttar Pradesh,,27.25,,80.75,,57,,70||
+Calgary,,Calgary,,51.05011,,-114.08529,,101,,108||
+North America,,US,,46.07323,,-100.54688,,51,,53||
+North America,,US,,46.07323,,-100.54688,,128,,130||
+Syrian Arab Republic,,Syria,,35,,38,,68,,73||
+New York,,New York,,43.00035,,-75.4999,,74,,82||
+Middle East,,Middle East,,33.13906,,35.85869,,72,,83||
+Ukraine,,Ukraine,,49,,32,,27,,34||
+
+
+Miami-Fort Lauderdale-Pompano Beach,,Broward County,,26.00002,,-80.1947,,87,,101||
+Gambia,,Gambia,,13.5,,-15.5,,70,,76||London,,London,,51.49227,,-0.30864,,96,,102||
+
+North America,,US,,46.07323,,-100.54688,,57,,59||
+Raleigh,,RALEIGH,,35.7721,,-78.63861,,52,,59||
+Luzon,,Luzon,,16,,121,,4,,9||Republic of the Philippines,,Philippines,,13,,122,,85,,96||
+Islamic Republic of Iran,,Iran,,32,,53,,0,,4||
+Dallas-Fort Worth-Arlington,,Dallas,,32.76303,,-97.03262,,86,,92||
+
+Aleppo Governorate,,Aleppo,,36.25,,37.61667,,26,,32||
+Aleppo Governorate,,Gun Club Rd.,,36.25,,37.61667,,61,,73||Canal de Santa Fe,,Santa Fe Canal,,-0.90936,,-89.96004,,82,,96||Gustine,,Gustine,,37.25772,,-120.99882,,102,,109||Merced County,,Merced County,,37.19186,,-120.71767,,111,,124||
+Republic of Niger,,Niger,,18,,9,,97,,102||
+North America,,U.S.,,46.07323,,-100.54688,,18,,22||
+North America,,US,,46.07323,,-100.54688,,101,,103||
+London,,London,,51.49227,,-0.30864,,62,,68||
+Richmond County,,Richmond,,40.58344,,-74.14959,,0,,8||
+
+Maryland,,Maryland,,39.00039,,-76.74997,,0,,8||North America,,U.S.,,46.07323,,-100.54688,,80,,84||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,10,,22||
+Stantsiya Ukraina,,East Ukraine,,50.98792,,128.42252,,47,,59||
+Saint Clair County,,St. Clair,,38.47031,,-89.92841,,25,,34||
+
+Adventist Healthcare Shady Grove Medical Center,,Shady Grove Hospital,,39.09793,,-77.19822,,39,,59||
+North America,,U.S.,,46.07323,,-100.54688,,23,,27||
+Town of Avery,,Avery Rd,,33.55216,,-94.78023,,36,,44||
+Middle East,,Middle East,,33.13906,,35.85869,,83,,94||
+Texas,,Texas,,31.25044,,-99.25061,,122,,127||
+North America,,United States,,46.07323,,-100.54688,,17,,30||
+Mpumalanga,,Mpumalanga,,-26,,30,,58,,68||
+North America,,USA,,46.07323,,-100.54688,,80,,83||
+Los Angeles-Long Beach-Santa Ana,,Los Angeles,,33.88638,,-118.04535,,28,,39||United States,,L.A.,,39.76,,-98.5,,78,,82||
+North America,,US,,46.07323,,-100.54688,,63,,65||
+
+
+
+Chapman Highway Shopping Center,,Chapman Highway,,35.92175,,-83.88101,,38,,53||
+Syrian Arab Republic,,Syria,,35,,38,,31,,36||Middle East,,Middle East,,33.13906,,35.85869,,73,,84||
+
+Faisalabad,,Faisalabad,,31.41554,,73.08969,,75,,85||
+
+State of Israel,,Israel,,31.5,,34.75,,0,,6||Ar Raffah,,East Raffah,,16.12353,,43.30461,,92,,103||
+San Francisco Bay Area,,Bay Area,,37.77239,,-122.42349,,61,,69||
+West Bank,,West Bank,,31.66667,,35.25,,0,,9||Gaza Province,,Gaza,,-23.5,,33,,29,,33||
+
+Mecklenburg County,,Mecklenburg County,,35.24671,,-80.83276,,20,,38||
+
+Asia,,Asia,,29.84064,,89.29688,,92,,96||
+North America,,US,,46.07323,,-100.54688,,47,,49||
+
+
+Federal Capital Territory,,Abuja,,8.83333,,7.16667,,70,,75||
+Federal Capital Territory,,Myakka State Forest,,8.83333,,7.16667,,66,,85||
+Faisalabad,,Faisalabad,,31.41554,,73.08969,,4,,14||Faisalabad,,FAISALABAD,,31.41554,,73.08969,,50,,60||
+State of Himāchal Pradesh,,Himachal,,31.91667,,77.25,,22,,30||
+Republic of Iraq,,Iraq,,33,,44,,107,,111||
+North America,,U.S.,,46.07323,,-100.54688,,55,,59||
+
+
+Cumbria,,Cumbria,,54.57676,,-2.91157,,11,,18||
+
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,34,,36||
+North America,,US,,46.07323,,-100.54688,,31,,33||
+North America,,US,,46.07323,,-100.54688,,33,,35||Republic of Liberia,,Liberia,,6.5,,-9.5,,78,,85||
+
+
+
+
+Kingsport,,Kingsport TN,,36.54843,,-82.56182,,18,,30||
+North America,,US,,46.07323,,-100.54688,,101,,103||
+North America,,US,,46.07323,,-100.54688,,26,,28||
+
+Emerald Hills,,Emerald Coast,,-38.76823,,177.79021,,21,,34||Cincinnati,,Cincinnati,,39.12711,,-84.51439,,51,,61||
+North America,,U.S.,,46.07323,,-100.54688,,41,,45||
+
+Japan,,Japan,,35.68536,,139.75309,,57,,62||
+North America,,US,,46.07323,,-100.54688,,36,,38||
+
+Dominican Republic,,Haiti,,19,,-70.66667,,47,,52||
+Russian Federation,,Russia,,60,,100,,37,,43||Ukraine,,Ukraine,,49,,32,,115,,122||
+San Francisco Bay Area,,San Francisco,,37.77239,,-122.42349,,19,,32||
+
+Islamic Republic of Iran,,Iran,,32,,53,,0,,4||
+Africa,,Africa,,7.1881,,21.09375,,60,,66||
+People’s Republic of China,,China,,35,,105,,0,,5||Guiyang,,Guiyang,,26.58333,,106.71667,,33,,40||Guizhou Sheng,,Guizhou,,27,,107,,42,,49||Yunnan Sheng,,Yunnan,,25,,101.5,,84,,90||
+Wichita,,Wichita,,37.69224,,-97.33754,,32,,39||
+
+
+Sierra Vista Municipal Libby Army Air Field,,Sierra Vista Municipal Airport,,31.5885,,-110.344,,85,,115||
+California,,California,,37.25022,,-119.75126,,24,,34||
+Dallas-Fort Worth-Arlington,,Dallas,,32.76303,,-97.03262,,20,,26||North America,,United States,,46.07323,,-100.54688,,78,,91||
+Freetown,,FREETOWN,,8.48714,,-13.2356,,50,,58||Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,90,,102||
+Halifax,,Halifax,,44.64533,,-63.57239,,53,,60||
+
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,0,,2||Commonwealth of Nations,,UK,,51.50488,,-0.13602,,89,,91||
+
+
+Commonwealth of Nations,,New Jersey Flee Fire,,51.50488,,-0.13602,,24,,44||
+Commonwealth of Nations,,Ebola-West Africa,,51.50488,,-0.13602,,33,,50||Freetown,,FREETOWN,,8.48714,,-13.2356,,58,,66||Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,68,,80||
+
+Midlands Province,,MIDLAND,,-19.2,,29.8,,70,,77||
+Gaza Province,,Gaza,,-23.5,,33,,73,,77||
+Republic of Liberia,,Liberia,,6.5,,-9.5,,63,,70||
+Missouri,,Missouri,,38.25031,,-92.50046,,68,,76||
+North 24 Parganas,,North India,,22.71,,88.7108,,110,,121||Rohtak,,Rohtak,,28.83333,,76.66667,,133,,139||
+
+
+Chicago-Naperville-Joliet,,Chicago,,41.70778,,-87.89062,,32,,39||Missouri,,Missouri,,38.25031,,-92.50046,,98,,106||
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,64,,66||
+
+Africa,,Africa,,7.1881,,21.09375,,25,,31||
+Bristol,,Bristol,,51.45523,,-2.59665,,44,,51||
+Christchurch,,Christchurch,,-43.53333,,172.63333,,74,,86||
+
+Reedley Municipal Airport,,Great California,,36.6696,,-119.44938,,20,,36||La Mirada,,La Mirada,,33.91724,,-118.01201,,108,,117||
+
+Greater Manchester,,Manchester,,53.45,,-2.23333,,67,,77||
+North America,,US,,46.07323,,-100.54688,,5,,7||North America,,U.S.,,46.07323,,-100.54688,,71,,75||
+Oceania,,Australia,,-18.31281,,138.51562,,85,,94||
+Cali,,Cali,,3.43722,,-76.5225,,39,,43||
+Africa,,Africa,,7.1881,,21.09375,,73,,79||
+
+Virginia,,Virginia,,37.54812,,-77.44675,,14,,22||Cape Charles,,CAPE CHARLES,,37.26792,,-76.01743,,43,,55||Europe,,Va.,,48.69096,,9.14062,,57,,60||
+
+Federative Republic of Brazil,,Brazil,,-10,,-55,,25,,31||
+Missouri,,Missouri,,38.25031,,-92.50046,,0,,8||North America,,U.S.,,46.07323,,-100.54688,,86,,90||Missouri,,Missouri,,38.25031,,-92.50046,,100,,108||
+Klang Valley,,Klang Valley,,2.68168,,101.66127,,43,,55||Nagreg,,Bt Tiga,,-6.2876,,106.2531,,88,,95||
+
+
+Ukraine,,Ukraine,,49,,32,,18,,25||Debal’tseve,,Debaltseve,,48.34072,,38.4049,,55,,65||
+Arabian Sea,,Arabian Sea,,12.21118,,64.33594,,54,,65||
+
+Africa,,Africa,,7.1881,,21.09375,,22,,28||
+
+
+
+
+Koroba-Lake Kopiago,,Lake District,,-5.41667,,142.5,,51,,64||
+Federative Republic of Brazil,,Brazil,,-10,,-55,,16,,22||Federal Republic of Germany,,Germany,,51.5,,10.5,,74,,81||
+
+Ukraine,,Ukraine,,49,,32,,19,,26||Donets’ka Oblast’,,Donetsk,,48,,37.66667,,29,,36||
+
+Gaza Province,,Gaza,,-23.5,,33,,35,,39||
+
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,39,,41||Commonwealth of Nations,,Riot Club,,51.50488,,-0.13602,,76,,85||
+Republic of the Philippines,,Philippines,,13,,122,,23,,34||
+Indian Subcontinent,,India,,22.20775,,76.97021,,34,,39||Indian Subcontinent,,Hinduism,,22.20775,,76.97021,,131,,139||
+Syrian Arab Republic,,Syria,,35,,38,,0,,5||
+Sullivan County,,Sullivan County,,36.51292,,-82.30414,,87,,102||
+
+
+
+Tel Aviv District,,Tel Aviv,,32.08414,,34.79995,,31,,39||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,108,,120||
+Red Rock Canyon,,Red Rock Canyon,,42.03049,,-111.09992,,43,,58||
+Mississippi,,Mississippi,,32.75041,,-89.75036,,31,,42||North America,,U.S.,,46.07323,,-100.54688,,51,,55||Nile,,West Nile,,46.82068,,-120.93952,,88,,97||
+
+Islamic Republic of Iran,,Iran,,32,,53,,17,,21||
+Republic of Yemen,,Yemen,,15.5,,47.5,,0,,5||
+California,,California,,37.25022,,-119.75126,,3,,13||California,,Calif.,,37.25022,,-119.75126,,68,,74||
+San Andreas Fault,,San Andreas Fault,,39.00389,,-123.69667,,74,,91||
+New Madrid County,,New Madrid,,36.59465,,-89.65183,,63,,73||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,87,,99||
+Hawaii,,Hawaii,,20.78785,,-156.38612,,20,,26||
+London,,London,,51.49227,,-0.30864,,120,,126||
+Republic of France,,FRANCE,,46,,2,,0,,6||Coast Guard Station Panama City,,Panama Coast,,30.16988,,-85.75588,,41,,53||
+
+Republic of Iraq,,Iraq,,33,,44,,10,,14||Republic of Iraq,,Iraq,,33,,44,,90,,94||
+North America,,United States,,46.07323,,-100.54688,,92,,105||
+Islamic Republic of Iran,,Iran,,32,,53,,0,,4||
+Grantham,,Grantham,,52.91149,,-0.64184,,51,,59||
+
+
+
+
+
+Middle East,,Middle East,,33.13906,,35.85869,,58,,69||
+
+
+Africa,,Belgium,,7.1881,,21.09375,,31,,38||Commonwealth of Nations,,Europe,,51.50488,,-0.13602,,43,,49||
+Dominican Republic,,Haiti,,19,,-70.66667,,85,,90||
+Texas,,Texas,,31.25044,,-99.25061,,31,,36||
+Franklin County,,Franklin County,,39.96952,,-83.00935,,38,,53||
+
+North America,,US,,46.07323,,-100.54688,,37,,39||
+
+Hama Governorate,,Hama,,35.23333,,37.2,,59,,63||
+
+Japan,,Japan,,35.68536,,139.75309,,59,,64||
+Mumbai,,Mumbai,,19.07283,,72.88261,,43,,49||
+Commonwealth of Nations,,Europe,,51.50488,,-0.13602,,61,,67||
+
+
+
+
+Commonwealth of Nations,,United Kingdom,,51.50488,,-0.13602,,24,,38||
+South Kivu Province,,South Kivu,,-3.16667,,28.25,,114,,124||
+
+Channel Islands,,Guernsey,,49.3466,,-2.36206,,66,,74||
+
+Republic of Liberia,,Liberia,,6.5,,-9.5,,0,,7||
+
+Luton,,Luton,,51.87967,,-0.41748,,101,,106||
+North America,,America,,46.07323,,-100.54688,,62,,69||
+
+
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,115,,117||
+Queenstown,,Queenstown,,-31.89756,,26.87533,,0,,10||Alice Springs,,Alice,,-23.731,,133.83321,,90,,95||
+
+Waldo Canyon,,Waldo Canyon,,38.87693,,-104.93276,,39,,51||
+
+San Francisco Bay Area,,Bay Area,,37.77239,,-122.42349,,9,,17||
+Syrian Arab Republic,,Syria,,35,,38,,0,,5||
+State of Israel,,Israel,,31.5,,34.75,,87,,93||
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,88,,90||
+Africa,,Africa,,7.1881,,21.09375,,42,,48||
+Dominican Republic,,Haiti,,19,,-70.66667,,13,,18||
+Independent State of Papua New Guinea,,Papua New Guinea,,-6,,147,,56,,72||
+Jóži,,Jozi,,48.28896,,17.56472,,51,,55||
+
+
+Dominican Republic,,Haiti,,19,,-70.66667,,75,,80||
+Baile Átha Cliath,,Dublin,,53.38046,,-6.27113,,54,,60||
+Earth,,LA,,0,,0,,19,,21||
+
+New York City,,NYC,,40.71427,,-74.00597,,48,,51||State of Israel,,Israel,,31.5,,34.75,,124,,130||
+State of Jammu and Kashmīr,,Jammu,,33.91667,,76.66667,,101,,106||State of Jammu and Kashmīr,,Kashmir,,33.91667,,76.66667,,109,,116||
+
+
+State of Israel,,Israel,,31.5,,34.75,,0,,6||Gaza Province,,Gaza,,-23.5,,33,,82,,86||
+Japan,,Japan,,35.68536,,139.75309,,120,,125||
+Bangladesh,,Ghana,,24,,90,,43,,48||
+
+Africa,,Africa,,7.1881,,21.09375,,92,,98||
+
+
+Africa,,Praça Alfonso Peña,,7.1881,,21.09375,,33,,51||
+
+Ukraine,,Ukraine,,49,,32,,15,,22||Donets’ka Oblast’,,Donetsk,,48,,37.66667,,50,,57||
+
+Kathmandu District,,Central Valley,,27.70704,,85.33218,,48,,62||
+
+Ukraine,,Ukraine,,49,,32,,19,,26||
+Harrisonville,,Grand River,,38.65334,,-94.34884,,50,,61||City of Chillicothe,,Chillicothe,,39.33933,,-82.99369,,67,,78||
+
+Alabama,,Alabama,,32.75041,,-86.75026,,48,,55||Bibb County,,Bibb,,32.80659,,-83.69776,,95,,99||Chilton County,,Chilton,,32.84785,,-86.71881,,104,,111||
+Chilton County,,Ashford Park Farm-still,,32.84785,,-86.71881,,33,,56||
+Federal Republic of Nigeria,,Nigeria,,10,,8,,0,,7||Lagos State,,Lagos,,6.53774,,3.3522,,38,,43||Federal Republic of Nigeria,,Nigeria,,10,,8,,90,,97||
+North America,,US,,46.07323,,-100.54688,,52,,54||
+Africa,,Africa,,7.1881,,21.09375,,91,,97||
+New York City,,Manhattan,,40.71427,,-74.00597,,96,,105||
+North America,,US,,46.07323,,-100.54688,,0,,2||
+Phoenix-Mesa-Scotsdale,,Phoenix,,33.4492,,-112.0784,,90,,97||
+
+Palestine,,Palestin,,31.92157,,35.20329,,102,,110||
+Republic of Angola,,West Africa,,-12.5,,18.5,,69,,80||
+
+Gaza Province,,Gaza,,-23.5,,33,,31,,35||
+
+Lagos State,,Lagos,,6.53774,,3.3522,,13,,18||
+Windsor,,Windsor,,42.30008,,-83.01654,,0,,7||
+Best Western Plus Park Avenue Hotel,,Maryland Avenue,,38.29001,,-76.63501,,76,,91||
+Moskva,,Moscow,,55.76167,,37.60667,,70,,76||Le Kremlin-Bicêtre,,Kremlin,,48.81471,,2.36073,,92,,99||
+
+Union of Burma,,Burma,,21,,96,,71,,76||
+Mexico,,Spain,,23,,-102,,36,,41||
+Ukraine,,Ukraine,,49,,32,,0,,7||
+Yunnan Sheng,,Yunnan,,25,,101.5,,22,,28||Sanandaj,,Southern China,,35.31495,,46.99883,,43,,57||
+
+Dallas-Fort Worth-Arlington,,Dallas,,32.76303,,-97.03262,,49,,55||
+Gaza Province,,Gaza,,-23.5,,33,,69,,73||
+Aomori-ken,,Aomori,,40.7831,,140.82827,,32,,38||Morioka-shi,,Morioka Japan,,39.74546,,141.26915,,43,,56||
+
+Malaysia,,Malaysia,,2.5,,112.5,,19,,27||
+Illinois,,Illinois,,40.00032,,-89.25037,,72,,80||
+Buenos Aires,,Santa,,-34.61315,,-58.37723,,40,,45||
+Texas,,Texas,,31.25044,,-99.25061,,54,,59||
+
+
+
+Città metropolitana di Roma Capitale,,Rome,,41.96667,,12.66667,,9,,13||
+Tennessee,,Tennessee,,35.75035,,-86.25027,,45,,54||Vaught-Hemingway Stadium,,Vaught-Hemingway Stadium,,34.36205,,-89.53425,,89,,113||
+
+
+Mexico,,Mexico,,23,,-102,,67,,73||
+New York,,New York,,43.00035,,-75.4999,,40,,48||New York City,,Manhattan,,40.71427,,-74.00597,,90,,99||
+Africa,,Africa,,7.1881,,21.09375,,16,,22||
+
+Kansas,,Kansas,,38.50029,,-98.50063,,68,,74||
+
+Mexico,,Mexico,,23,,-102,,70,,76||
+California,,California,,37.25022,,-119.75126,,49,,59||
+Shahrestān-e Tabrīz,,Tabriz,,38.08333,,46.28333,,0,,6||
+
+Hollywood,,Hollywood,,34.09834,,-118.32674,,36,,45||
+Missouri,,Missouri,,38.25031,,-92.50046,,78,,86||
+Donets’ka Oblast’,,Donetsk,,48,,37.66667,,29,,36||
+Dallas-Fort Worth-Arlington,,Dallas,,32.76303,,-97.03262,,22,,28||
+
+Donets’ka Oblast’,,Donetsk,,48,,37.66667,,11,,18||Ukraine,,Ukraine,,49,,32,,55,,62||
+Republic of Liberia,,Liberia,,6.5,,-9.5,,28,,35||
+
+Republic of Liberia,,Liberia,,6.5,,-9.5,,19,,26||Republic of Liberia,,Liberia,,6.5,,-9.5,,56,,63||
+Republic of Indonesia,,Indonesia,,-5,,120,,85,,94||
+Republic of Indonesia,,Speedvale,,-5,,120,,62,,71||
+
+State of Israel,,Israel,,31.5,,34.75,,64,,70||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,78,,90||
+Republic of Côte d’Ivoire,,Cote d'Ivoire,,8,,-5.5,,63,,76||
+
+Republic of Indonesia,,Indonesia,,-5,,120,,47,,56||
+Missouri,,Missouri,,38.25031,,-92.50046,,70,,78||
+Delhi,,New Delhi,,28.65195,,77.23149,,110,,119||
+Humboldt County,,Humboldt County,,40.70501,,-123.91582,,101,,116||
+Humboldt County,,Chikungunya,,40.70501,,-123.91582,,0,,11||Middle America,,Americas,,21,,-86,,19,,27||
+
+Japan,,Japan,,35.68536,,139.75309,,23,,28||Japan,,Japan,,35.68536,,139.75309,,102,,107||
+
+
+
+Brisbane,,Brisbane,,-27.46794,,153.02809,,13,,21||
+Chicago-Naperville-Joliet,,Chicago,,41.70778,,-87.89062,,68,,75||
+City Palace, Jaipur,,Jaipur City Palace,,26.9255,,75.8236,,35,,53||
+Africa,,Africa,,7.1881,,21.09375,,22,,28||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,45,,57||
+State of Israel,,Israel,,31.5,,34.75,,100,,106||
+North America,,US,,46.07323,,-100.54688,,76,,78||
+Federal Democratic Republic of Nepal,,Nepal,,28,,84,,7,,12||
+Republic of Botswana,,Botswana,,-22,,24,,0,,8||Southern Africa,,South Africa,,-27.11781,,22.28027,,10,,22||
+Haifa,,Haifa,,32.58333,,35,,37,,42||
+North America,,United States,,46.07323,,-100.54688,,52,,65||
+Marseille,,Marseilles,,43.29695,,5.38107,,21,,31||Commonwealth of Nations,,Europe,,51.50488,,-0.13602,,132,,138||
+Hong Kong,,Hong Kong,,22.27832,,114.17469,,22,,31||
+Napa County,,Napa,,38.50647,,-122.33053,,43,,47||
+New York,,NY,,43.00035,,-75.4999,,46,,48||
+People’s Republic of China,,China,,35,,105,,53,,58||North America,,US,,46.07323,,-100.54688,,67,,69||
+North America,,U.S.,,46.07323,,-100.54688,,49,,53||San Diego County,,San Diego,,33.0282,,-116.77021,,77,,86||
+Central African Republic,,Central African Republic,,7,,21,,79,,103||
+
+Hong Kong,,Hong Kong,,22.27832,,114.17469,,0,,9||Federal Republic of Nigeria,,Nigeria,,10,,8,,72,,79||
+Tel Aviv District,,Tel Aviv,,32.08414,,34.79995,,63,,71||
+Republic of Indonesia,,Netherlands,,-5,,120,,73,,84||
+Africa,,Belgium,,7.1881,,21.09375,,12,,19||
+
+City of New York,,BROOKLYN,,40.66393,,-73.93827,,87,,95||
+Hawaii,,Hawaii,,20.78785,,-156.38612,,25,,31||
+
+Islamic Republic of Iran,,Iran,,32,,53,,0,,4||
+
+Kentucky,,Kentucky,,38.20042,,-84.87762,,10,,18||
+
+Dominican Republic,,Haiti,,19,,-70.66667,,25,,30||
+Tel Aviv District,,Tel Aviv,,32.08414,,34.79995,,62,,70||
+Donets’ka Oblast’,,Donetsk,,48,,37.66667,,0,,7||Donets’ka Oblast’,,DONETSK,,48,,37.66667,,43,,50||Ukraine,,Ukraine,,49,,32,,52,,59||
+Bolivarian Republic of Venezuela,,Venezuela,,8,,-66,,37,,46||Bolivarian Republic of Venezuela,,Venezuela,,8,,-66,,48,,57||
+Chicago-Naperville-Joliet,,Chicago,,41.70778,,-87.89062,,23,,30||
+City of Ferguson,,Ferguson,,38.749,,-90.2949,,72,,80||St. Louis,,St Louis,,38.63162,,-90.24925,,89,,97||Missouri,,Missouri,,38.25031,,-92.50046,,99,,107||
+Republic of the Philippines,,Philippines,,13,,122,,46,,57||
+
+
+Utah,,Utah,,39.25024,,-111.75103,,97,,101||
+Middle East,,Middle East,,33.13906,,35.85869,,75,,86||
+
+North America,,America,,46.07323,,-100.54688,,38,,45||
+London,,London,,51.49227,,-0.30864,,40,,46||
+Republic of El Salvador,,El Salvador,,13.83333,,-88.91667,,56,,67||
+Republic of Rwanda,,Rwanda,,-2,,30,,131,,137||
+
+
+Indiana,,Indiana,,40.00032,,-86.25027,,71,,78||
+Malaysia,,Malaysia,,2.5,,112.5,,6,,14||
+
+
+
+Windsor,,Windsor,,42.30008,,-83.01654,,76,,83||Royal Leamington Spa,,Leamington,,52.2852,,-1.52,,103,,113||
+Caucasus Region,,Caucasus,,42,,45,,62,,70||
+Caucasus Region,,Italy-Croatia,,42,,45,,108,,121||
+United States,,L.A.,,39.76,,-98.5,,24,,28||
+Tinakula,,Iceland Volcano,,-10.38517,,165.80476,,18,,33||Sumatra,,Iceland,,0,,102,,88,,95||
+Sumatra,,Cashman Center Las Vegas,,0,,102,,75,,99||
+North America,,United States,,46.07323,,-100.54688,,73,,86||
+
+
+Ukraine,,Ukraine,,49,,32,,0,,7||
+Orkney,,Orkney,,-26.98023,,26.67272,,94,,100||
+Baltimore-Towson,,Baltimore,,39.28808,,-76.61076,,97,,106||
+North America,,America,,46.07323,,-100.54688,,72,,79||
+Sitrah,,Sitra,,26.15,,50.61667,,55,,60||
+Chicago-Naperville-Joliet,,Chicago,,41.70778,,-87.89062,,66,,73||
+Indian Subcontinent,,India,,22.20775,,76.97021,,20,,25||Islamic Republic of Pakistan,,Pakistan,,30,,70,,30,,38||Indian Subcontinent,,India,,22.20775,,76.97021,,88,,93||Islamic Republic of Pakistan,,Pakistan,,30,,70,,98,,106||
+State of Israel,,Israel,,31.5,,34.75,,0,,6||
+Republic of Angola,,West Africa,,-12.5,,18.5,,56,,67||
+Ukraine,,Ukraine,,49,,32,,12,,19||
+Africa,,Africa,,7.1881,,21.09375,,79,,85||
+St. Louis,,St. Louis,,38.63162,,-90.24925,,114,,123||
+Australia and New Zealand,,New Zealand,,-27.83908,,143.26172,,98,,109||
+Florida,,Florida,,28.75054,,-82.5001,,47,,54||East Pensacola Heights,,PENSACOLA,,30.42881,,-87.17997,,56,,65||Florencia,,Fla.,,1.61438,,-75.60623,,67,,71||
+State of Israel,,Israel,,31.5,,34.75,,54,,60||
+
+
+
+Republic of Niger,,Niger,,18,,9,,26,,31||
+
+Donets’ka Oblast’,,Donetsk,,48,,37.66667,,19,,26||Malaya Artëmovskaya,,Artemovskaya,,55.78066,,40.93444,,49,,61||
+
+
+Ostān-e Kordestān,,Kurdistan,,35.66667,,47,,66,,75||Islamic Republic of Iran,,Iran,,32,,53,,77,,81||
+
+
+
+Utsjoki,,Utsjoki,,69.90864,,27.02843,,86,,93||
+
+Misto Kyyiv,,Kiev,,50.4429,,30.54896,,74,,78||
+Misto Kyyiv,,White House Such Bullshi,,50.4429,,30.54896,,105,,129||
+Islamic Republic of Iran,,Iran,,32,,53,,0,,4||
+
+
+
+Shanxi Sheng,,Shansi,,37.66667,,112.25,,80,,86||People’s Republic of China,,China,,35,,105,,88,,93||
+Kansas,,Kansas,,38.50029,,-98.50063,,77,,83||
+
+Inner Mongolia Autonomous Region,,Mongolia,,43.5,,114.75,,15,,23||
+
+North America,,U.S.,,46.07323,,-100.54688,,89,,93||
+London,,London,,51.49227,,-0.30864,,41,,47||
+Malaysia,,Malaysia,,2.5,,112.5,,129,,137||
+North America,,US,,46.07323,,-100.54688,,30,,32||
+University of Puget Sound Kilworth Memorial Chapel,,Puget Sound,,47.26511,,-122.48177,,42,,53||
+Daumazan-sur-Arize,,Ariz.,,43.14361,,1.30778,,40,,45||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,38,,50||Republic of Liberia,,Liberia,,6.5,,-9.5,,55,,62||
+Republic of the Philippines,,Philippines,,13,,122,,98,,109||
+
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,39,,41||
+Comfort Inn & Suites Sea-Tac Airport,,Sea-Tac,,47.42921,,-122.29584,,38,,45||
+Occitanie,,Languedoc,,44.02722,,1.63559,,29,,38||
+Africa,,Africa,,7.1881,,21.09375,,67,,73||
+South Sudan,,South Sudan,,7.5,,30,,15,,26||Washington,,WASHINGTON,,47.50012,,-120.50147,,55,,65||North America,,United States,,46.07323,,-100.54688,,82,,95||
+Gaza Province,,Gaza,,-23.5,,33,,0,,4||Arab Republic of Egypt,,Egypt,,27,,30,,105,,110||
+
+Texas,,Texas,,31.25044,,-99.25061,,42,,47||Dallas-Fort Worth-Arlington,,Dallas,,32.76303,,-97.03262,,95,,101||
+Pokhara,,Pokhara,,28.26689,,83.96851,,90,,97||Federal Democratic Republic of Nepal,,Nepal,,28,,84,,99,,104||
+
+
+North America,,U.S.,,46.07323,,-100.54688,,46,,50||
+Portland,,Portland,,45.52345,,-122.67621,,54,,62||
+Kansas City,,Kansas City,,39.09973,,-94.57857,,12,,23||
+Capitol Heights,,U.S. Capitol,,38.88511,,-76.91581,,71,,83||
+Middle East,,Middle East,,33.13906,,35.85869,,71,,82||
+London,,London,,51.49227,,-0.30864,,50,,56||
+Republic of the Philippines,,Philippines,,13,,122,,62,,73||
+Middle America,,Americas,,21,,-86,,54,,62||
+Syrian Arab Republic,,Syria,,35,,38,,61,,66||
+
+Región de Antofagasta,,Antofagasta,,-23.5,,-69,,53,,64||Republic of Chile,,Chile,,-30,,-71,,66,,71||
+
+Tokyo Prefecture,,Tokyo,,35.6895,,139.69171,,73,,78||
+Reykjanes Ridge,,Reykjanes ridge,,62,,-27,,64,,79||Sumatra,,Iceland,,0,,102,,106,,113||
+Republic of Angola,,West Africa,,-12.5,,18.5,,43,,54||
+
+
+
+San Francisco Bay Area,,Bay Area,,37.77239,,-122.42349,,29,,37||Loma Prieta,,Loma Prieta,,22.58056,,-101.00111,,100,,111||
+
+Africa,,Africa,,7.1881,,21.09375,,16,,22||
+Syrian Arab Republic,,Syria,,35,,38,,41,,46||
+Dominican Republic,,Haiti,,19,,-70.66667,,24,,29||
+North America,,US,,46.07323,,-100.54688,,44,,46||
+
+
+London,,London,,51.49227,,-0.30864,,28,,34||
+
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,13,,25||
+North America,,America,,46.07323,,-100.54688,,43,,50||
+Gölbaşı,,Golan,,37.78361,,37.63667,,67,,72||
+Talladega,,The Highland,,33.43594,,-86.1058,,64,,76||
+North America,,USA,,46.07323,,-100.54688,,80,,83||
+San Francisco Bay Area,,California Bay Area,,37.77239,,-122.42349,,40,,59||
+People’s Republic of China,,China,,35,,105,,109,,114||
+Republic of Indonesia,,Indonesia,,-5,,120,,9,,18||
+California,,Northern California,,37.25022,,-119.75126,,29,,48||
+East Midlands,,East Midlands,,52.79572,,-0.84967,,30,,43||
+County Donegal,,Donegal,,54.91667,,-8,,68,,75||
+Republic of Liberia,,Liberia,,6.5,,-9.5,,12,,19||
+Town of Alden,,Alden,,42.91142,,-78.52107,,115,,120||
+North Island,,Maui,,-39,,176,,80,,84||
+
+Republic of Liberia,,Liberia,,6.5,,-9.5,,26,,33||
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,21,,23||
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,74,,76||
+Montgomery County,,Montgomery County,,39.13638,,-77.20424,,22,,39||
+North America,,US,,46.07323,,-100.54688,,23,,25||Commonwealth of Nations,,Europe,,51.50488,,-0.13602,,30,,36||Western Region,,W. Africa,,-0.61179,,30.55573,,85,,94||
+
+
+Nagano-ken,,Nagano Prefecture,,36.13464,,138.04077,,75,,92||
+People’s Republic of China,,China,,35,,105,,27,,32||
+
+
+People’s Republic of China,,Belle Chase,,35,,105,,46,,57||
+Atlanta-Sandy Springs-Marietta,,Atlanta,,33.73119,,-84.38324,,47,,54||
+
+Moskva,,Moscow,,55.76167,,37.60667,,7,,13||Ukraine,,Ukraine,,49,,32,,24,,31||Moskva,,Moscow,,55.76167,,37.60667,,45,,51||
+
+People’s Republic of China,,China,,35,,105,,0,,5||People’s Republic of China,,China,,35,,105,,29,,34||Yunnan Sheng,,Yunnan,,25,,101.5,,88,,94||
+
+Ostān-e Kordestān,,Kurdistan,,35.66667,,47,,46,,55||
+
+
+
+
+
+
+Provincia di Genova,,Genoa,,44.5,,9.06667,,67,,72||Whitley County,,Northern Italy,,36.75807,,-84.14518,,77,,91||
+
+Whitley County,,Algeria SidiBelAbbès Southern Africa,,36.75807,,-84.14518,,16,,52||
+Missouri,,Missouri,,38.25031,,-92.50046,,80,,88||
+Jacksonville,,Jacksonville,,30.33218,,-81.65565,,36,,48||
+
+Ekiti State,,Ekiti,,7.66667,,5.25,,0,,5||
+Southeast Asia,,Southeast Asia,,12.38293,,103.00781,,50,,64||Africa,,Africa,,7.1881,,21.09375,,90,,96||
+
+Vadodara,,Baroda,,22.29941,,73.20812,,50,,56||
+City of Paducah,,Paducah,,37.07114,,-88.64341,,7,,14||Pearl River County,,Mississippi River,,30.76858,,-89.58978,,50,,67||Cape Girardeau County,,Cape Girardeau,,37.38404,,-89.68445,,71,,85||
+Africa,,Africa,,7.1881,,21.09375,,33,,39||
+North America,,United States,,46.07323,,-100.54688,,66,,79||
+
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,55,,67||
+Republic of Sierra Leone,,Rue Jacob,,8.5,,-11.5,,65,,74||Métropole du Grand Paris,,Paris,,48.79591,,2.37077,,76,,81||
+Vatika Infotech City,,Vatican,,26.82399,,75.54525,,73,,80||
+
+San Andreas,,SAN ANDREAS,,38.19603,,-120.68049,,97,,108||
+State of Jammu and Kashmīr,,Kashmir,,33.91667,,76.66667,,69,,76||
+Morang,,Kosi,,26.66667,,87.5,,88,,92||
+
+
+Republic of Peru,,Peru,,-10,,-75.25,,49,,53||
+Bob Shelton Stadium,,Rebel Stadium,,30.02549,,-97.89223,,81,,94||
+Atlanta-Sandy Springs-Marietta,,Atlanta,,33.73119,,-84.38324,,33,,40||Gainesville,,Gainesville,,29.65163,,-82.32483,,78,,89||Athens,,Athens,,37.97945,,23.71622,,94,,100||
+Casablanca,,White House,,33.58831,,-7.61138,,44,,55||
+Casablanca,,Gyumri - city,,33.58831,,-7.61138,,46,,59||
+Ukraine,,Eastern Ukraine,,49,,32,,24,,39||
+Utah,,Utah,,39.25024,,-111.75103,,36,,40||North America,,US,,46.07323,,-100.54688,,60,,62||
+Southern Africa,,South Africa,,-27.11781,,22.28027,,0,,12||Southern Africa,,South Africa,,-27.11781,,22.28027,,72,,84||South Eastern Asia,,South,,6.83917,,116.45508,,106,,111||
+North America,,US,,46.07323,,-100.54688,,34,,36||North America,,America,,46.07323,,-100.54688,,50,,57||
+
+
+Republic of Indonesia,,Indonesia,,-5,,120,,79,,88||
+
+North America,,America,,46.07323,,-100.54688,,92,,99||
+
+
+Syrian Arab Republic,,Syria,,35,,38,,62,,67||
+
+
+
+Città metropolitana di Roma Capitale,,Rome,,41.96667,,12.66667,,39,,43||Sicilia,,Sicily,,37.75,,14.25,,78,,84||
+
+Lapeer Police Department,,Lapeer County Police,,43.0508,,-83.33106,,11,,31||
+
+Japan,,Japan,,35.68536,,139.75309,,71,,76||
+New Orleans,,New Orleans,,29.95465,,-90.07507,,72,,83||
+Pine Island Bayou,,Pine Island Bayou,,30.16104,,-94.11574,,54,,71||City of Sour Lake,,Sour Lake,,30.13566,,-94.40232,,77,,86||
+Islamic Republic of Iran,,Iran,,32,,53,,89,,93||Islamic Republic of Pakistan,,Pakistan,,30,,70,,95,,103||Republic of Turkey,,Turkey,,39,,35,,105,,111||Republic of Indonesia,,Indonesia,,-5,,120,,113,,122||Malaysia,,Malaysia,,2.5,,112.5,,124,,132||
+State of Israel,,Israel,,31.5,,34.75,,70,,76||
+North America,,U.S.,,46.07323,,-100.54688,,5,,9||
+Rockwall County,,Rockwall County,,32.89773,,-96.40777,,40,,55||
+Africa,,Africa,,7.1881,,21.09375,,69,,75||
+
+Republic of Malawi,,Malawi,,-13.5,,34,,56,,62||
+Republic of Iraq,,Iraq,,33,,44,,52,,56||
+
+Sialkot,,Sialkot,,32.49268,,74.53134,,21,,28||
+Syrian Arab Republic,,Syria,,35,,38,,56,,61||
+
+Fitzroy's Elecctronics,,Waterford,,17.98234,,-76.86918,,69,,78||
+North America,,United States,,46.07323,,-100.54688,,43,,56||New Madrid County,,New Madrid,,36.59465,,-89.65183,,77,,87||Missouri,,Missouri,,38.25031,,-92.50046,,89,,97||
+Alabama,,Alabama,,32.75041,,-86.75026,,21,,28||Mississippi,,Mississippi,,32.75041,,-89.75036,,39,,50||New York,,New York,,43.00035,,-75.4999,,93,,101||
+
+New York,,Pulaski Skyway,,43.00035,,-75.4999,,89,,103||
+Japan,,Japan,,35.68536,,139.75309,,23,,28||North America,,U.S.,,46.07323,,-100.54688,,65,,69||
+
+Greater Toronto Area,,Toronto,,43.75919,,-79.26636,,113,,120||
+
+Republic of Yemen,,Yemen,,15.5,,47.5,,45,,50||Sanaa,,Sanaa,,15.35472,,44.20667,,124,,129||
+Republic of Angola,,West Africa,,-12.5,,18.5,,42,,53||
+Federative Republic of Brazil,,Brasil,,-10,,-55,,37,,43||
+
+Aleppo Governorate,,Aleppo,,36.25,,37.61667,,14,,20||Syrian Arab Republic,,Syria,,35,,38,,45,,50||Aleppo Governorate,,Aleppo,,36.25,,37.61667,,87,,93||
+North America,,America,,46.07323,,-100.54688,,112,,119||
+Central African Republic,,Central African Republic,,7,,21,,0,,24||
+Ohio,,Ohio,,40.25034,,-83.00018,,114,,118||
+Ohio,,Whiteladies Road,,40.25034,,-83.00018,,69,,85||
+
+State of Odisha,,Orissa,,20.5,,84.41667,,62,,68||
+Southview,,Southview,,40.32785,,-80.25895,,67,,76||
+North America,,US,,46.07323,,-100.54688,,23,,25||
+
+
+Africa,,Africa,,7.1881,,21.09375,,8,,14||
+Seattle-Tacoma-Bellevue,,Seattle,,47.60014,,-122.3283,,57,,64||
+
+Africa,,Africa,,7.1881,,21.09375,,89,,95||
+Western Visayas,,Visayas,,11.13,,122.53,,28,,35||
+Hong Kong,,Hong Kong,,22.27832,,114.17469,,86,,95||
+San Francisco Bay Area,,San Francisco,,37.77239,,-122.42349,,4,,17||
+Earth,,La,,0,,0,,79,,81||
+Radlett,,Radlett,,51.68593,,-0.31868,,83,,90||
+Duluth International Airport,,Louis International Airport,,46.84188,,-92.1938,,98,,125||
+
+United Kingdom of Great Britain and Northern Ireland,,Britain,,54.75844,,-2.69531,,75,,82||
+North America,,America,,46.07323,,-100.54688,,109,,116||
+
+North America,,US,,46.07323,,-100.54688,,28,,30||
+Hong Kong,,Hong Kong,,22.27832,,114.17469,,93,,102||
+Heinze Chaung,,Tidal Basin,,14.73297,,97.9256,,58,,69||
+Africa,,Africa,,7.1881,,21.09375,,74,,80||
+
+Islamic Republic of Pakistan,,Pakistan,,30,,70,,0,,8||
+
+Cleveland,,Cleveland,,54.525,,-1.189,,39,,48||
+Godhra,,Godhra,,22.77547,,73.61488,,23,,29||
+
+Peshawar,,Peshawar,,34.008,,71.57849,,17,,25||
+
+Republic of Liberia,,Liberia,,6.5,,-9.5,,62,,69||
+
+Republic of Iraq,,Iraq,,33,,44,,37,,41||Republic of France,,France,,46,,2,,80,,86||
+St. Louis,,St. Louis,,38.63162,,-90.24925,,48,,57||
+
+Bratislava,,Bratislava,,48.33333,,17.16667,,27,,37||
+North America,,US,,46.07323,,-100.54688,,36,,38||Republic of Iraq,,Iraq,,33,,44,,51,,55||
+Nebraska,,Nebraska,,41.50028,,-99.75067,,47,,55||
+Russian Federation,,Russia,,60,,100,,0,,6||Federal Republic of Germany,,Germany,,51.5,,10.5,,36,,43||
+
+Benghazi,,Benghazi,,32.11486,,20.06859,,82,,90||
+Swan Pond,,Swan Pond,,-51.39247,,-58.01505,,24,,33||Town of Walpole,,Walpole,,42.14644,,-71.25547,,103,,110||
+
+Middle East,,middle east,,33.13906,,35.85869,,33,,44||Middle East,,Syria Iraq Gaza Libya,,33.13906,,35.85869,,56,,77||
+
+
+Gaza Province,,Gaza,,-23.5,,33,,90,,94||
+
+Republic of Uganda,,Uganda,,1.25,,32.5,,15,,21||North America,,U.S.,,46.07323,,-100.54688,,33,,37||Tripoli,,TB,,32.87519,,13.18746,,92,,94||
+California,,Calif,,37.25022,,-119.75126,,48,,53||
+Gaza Province,,Gaza,,-23.5,,33,,0,,4||
+Islamic Republic of Pakistan,,Pakistan,,30,,70,,36,,44||
+Earth,,LA,,0,,0,,4,,6||
+Mumbai,,Mumbai,,19.07283,,72.88261,,14,,20||Vashi Island,,Vashi,,19.06667,,72.98333,,41,,46||
+
+Dominican Republic,,Haiti,,19,,-70.66667,,21,,26||
+Japan,,Japan,,35.68536,,139.75309,,35,,40||
+
+Japan,,Somerset Levels,,35.68536,,139.75309,,101,,116||
+Republic of Zimbabwe,,Zimbabwe,,-19,,29.75,,0,,8||
+Gaza Province,,Gaza,,-23.5,,33,,37,,41||Gaza Province,,Aurangzeb Road,,-23.5,,33,,84,,98||National Capital Region,,Delhi,,28.66047,,77.07733,,100,,105||
+Middle East,,Middle East,,33.13906,,35.85869,,43,,54||
+
+Africa,,Africa,,7.1881,,21.09375,,16,,22||
+
+
+Africa,,Africa,,7.1881,,21.09375,,23,,29||
+Leichhardt,,Leichhardt,,-33.86781,,151.17057,,21,,31||Airport Plaza Shopping Center,,Norton Plaza,,43.17611,,-86.21944,,45,,57||
+Lagos State,,Lagos,,6.53774,,3.3522,,15,,20||
+
+
+Columbus,,Columbus,,39.96118,,-82.99879,,32,,40||
+Métropole du Grand Paris,,Paris,,48.79591,,2.37077,,45,,50||
+
+
+Avenue Bore,,Central Avenue,,-31.1318,,143.1679,,72,,86||
+Chelmsford District,,Chelmsford,,51.73656,,0.49226,,112,,122||
+Central cafeteria, Mahindra Satyam,,Cafeteria,,12.8524,,77.67791,,28,,37||
+
+North America,,AMERICA,,46.07323,,-100.54688,,67,,74||
+Arab Republic of Egypt,,Egypt,,27,,30,,12,,17||
+North America,,North America,,46.07323,,-100.54688,,68,,81||
+
+Sunshine Skyway,,Skyway Bridge,,27.62864,,-82.66371,,77,,90||
+Gaza Province,,Gaza,,-23.5,,33,,117,,121||
+State of Jammu and Kashmīr,,Kashmir,,33.91667,,76.66667,,116,,123||
+Metropolitan Government of Nashville-Davidson,,Nashville,,36.17821,,-86.78113,,11,,20||Tennessee,,Tennessee,,35.75035,,-86.25027,,69,,78||
+
+Inner Mongolia Autonomous Region,,Mongolia,,43.5,,114.75,,22,,30||
+
+Lockport,,Lockport,,41.58948,,-88.05784,,44,,52||Lockport,,Clarence-Alden,,41.58948,,-88.05784,,96,,110||
+Chicago-Naperville-Joliet,,Chicago,,41.70778,,-87.89062,,39,,46||
+Los Angeles-Long Beach-Santa Ana,,Los Angeles,,33.88638,,-118.04535,,42,,53||
+Ukraine,,Ukraine,,49,,32,,60,,67||
+Boone County,,Boone County,,38.99062,,-92.30968,,60,,72||
+
+Cairo,,Cairo,,30.06263,,31.24967,,25,,30||
+Midrand,,Midrand,,-25.98953,,28.12843,,22,,29||Quitman,,Allandale,,32.34877,,-92.72154,,67,,76||Quitman,,Old Joburg Road,,32.34877,,-92.72154,,81,,96||
+Benghazi,,Benghazi,,32.11486,,20.06859,,25,,33||
+California,,California,,37.25022,,-119.75126,,32,,42||
+
+
+
+Yellowstone County,,Yellowstone,,45.93725,,-108.27435,,10,,21||
+North America,,US,,46.07323,,-100.54688,,29,,31||
+
+Selma,,Selma,,36.57078,,-119.61208,,39,,44||
+
+Islamic Republic of Iran,,Iran,,32,,53,,0,,4||
+Chengdu,,Togo,,30.66667,,104.06667,,23,,27||
+San Francisco Bay Area,,Bay Area,,37.77239,,-122.42349,,82,,90||
+
+
+Africa,,Africa,,7.1881,,21.09375,,53,,59||
+
+Town of Glenville,,Glenville,,42.88685,,-73.99251,,40,,49||
+Federal Republic of Nigeria,,Nigeria,,10,,8,,73,,80||
+
+South Hill,,South Pacific,,47.14121,,-122.27012,,40,,53||
+
+
+
+Santa Clara County,,Santa Clara County,,37.23249,,-121.69627,,50,,68||San Francisco Bay Area,,Bay Area,,37.77239,,-122.42349,,85,,93||
+
+Balochistan,,Balochistan,,28.47849,,65.64355,,39,,50||
+
+
+
+
+Napa County,,Napa,,38.50647,,-122.33053,,32,,36||Queen Victoria Peak,,Queen of the Valley,,-33.75,,19.36667,,53,,72||
+
+New York,,NEW YORK,,43.00035,,-75.4999,,73,,81||
+Pacific Northwest,,Pacific,,45.99696,,-118.49854,,70,,77||
+Modesto,,Modesto,,37.6391,,-120.99688,,30,,37||
+
+Bolivarian Republic of Venezuela,,Venezuela,,8,,-66,,21,,30||
+
+
+
+Republic of Yemen,,Yemen,,15.5,,47.5,,30,,35||Republic of Yemen,,Yemen,,15.5,,47.5,,68,,73||Sanaa,,Sanaa,,15.35472,,44.20667,,109,,114||
+Balbriggan,,Balbriggan,,53.60846,,-6.1831,,67,,77||
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,81,,83||
+Hong Kong,,Hong Kong,,22.27832,,114.17469,,34,,43||
+North America,,US,,46.07323,,-100.54688,,74,,76||Arab Republic of Egypt,,Egypt,,27,,30,,130,,135||
+Arab Republic of Egypt,,Arklow Co Wicklow,,27,,30,,70,,87||
+Muzaffarābād,,Muzaffarabad,,34.37002,,73.47082,,98,,110||
+
+Dominican Republic,,Haiti,,19,,-70.66667,,71,,76||
+Plampang,,Plampang,,-7.2617,,112.5649,,22,,30||Republic of Indonesia,,Indonesia,,-5,,120,,32,,41||
+
+Federal Capital Territory,,ABUJA,,8.83333,,7.16667,,35,,40||
+North America,,US,,46.07323,,-100.54688,,7,,9||North America,,US,,46.07323,,-100.54688,,47,,49||
+Islamic Republic of Iran,,Iran,,32,,53,,0,,4||
+Fargo,,Fargo,,46.87719,,-96.7898,,42,,47||South Dakota,,North Dakota,,44.50026,,-100.25069,,49,,61||
+North America,,US,,46.07323,,-100.54688,,47,,49||
+
+Gig Harbor,,Gig Harbor,,47.32926,,-122.58013,,116,,126||
+
+Victoria Park,,Victoria Park London,,51.53838,,-0.03669,,34,,54||
+
+
+Atlanta-Sandy Springs-Marietta,,Atlanta,,33.73119,,-84.38324,,66,,73||Atlanta-Sandy Springs-Marietta,,Atlanta,,33.73119,,-84.38324,,117,,124||
+
+Kansas,,Kansas,,38.50029,,-98.50063,,19,,25||Kansas,,Kansas,,38.50029,,-98.50063,,69,,75||Conway,,Conway,,35.0887,,-92.4421,,108,,114||
+
+
+
+Srīnagar,,Srinagar,,34.08333,,74.83333,,43,,51||
+Republic of Turkey,,Turkey,,39,,35,,35,,41||Courtyard Marriott Istanbul Int Airport,,Istanbul Airport,,41.02963,,28.80618,,90,,106||
+Melbourne,,Melbourne,,-37.814,,144.96332,,35,,44||
+Godarzi It,,Tehran,,35.73328,,51.30714,,27,,33||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,0,,12||
+Republic of Niger,,Niger,,18,,9,,86,,91||
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,36,,38||
+East Midlands,,East Midlands,,52.79572,,-0.84967,,63,,76||
+
+Hammamet,,Hammamet,,36.4,,10.61667,,61,,69||
+Métropole du Grand Paris,,Paris,,48.79591,,2.37077,,72,,77||
+
+Kruger National Park,,Kruger National Park,,-23.95606,,31.44158,,55,,75||
+Fayetteville,,Fayetteville,,35.05266,,-78.87836,,36,,48||
+Casablanca,,White House,,33.58831,,-7.61138,,39,,50||
+Republic of Yemen,,Yemen,,15.5,,47.5,,35,,40||
+North America,,US,,46.07323,,-100.54688,,116,,118||
+Kingdom of Cambodia,,Cambodia,,13,,105,,35,,43||
+Vatika Infotech City,,Vatican,,26.82399,,75.54525,,30,,37||
+San Francisco Bay Area,,Bay Area,,37.77239,,-122.42349,,47,,55||
+
+San Francisco Bay Area,,Riot Fest,,37.77239,,-122.42349,,7,,16||Greater Toronto Area,,Toronto,,43.75919,,-79.26636,,20,,27||
+
+
+United States,,L.A.,,39.76,,-98.5,,34,,38||
+Indian Subcontinent,,India,,22.20775,,76.97021,,12,,17||Islamic Republic of Pakistan,,Pakistan,,30,,70,,26,,34||Islamic Republic of Pakistan,,Pakistan,,30,,70,,87,,95||
+
+San Francisco-Oakland-Fremont,,Oakland,,37.77668,,-122.42031,,29,,36||
+
+San Andreas,,San Andreas,,38.19603,,-120.68049,,1,,12||California,,California,,37.25022,,-119.75126,,49,,59||
+
+New York,,New York,,43.00035,,-75.4999,,63,,71||
+Ukraine,,Ukraine,,49,,32,,0,,7||
+Arkansas,,Arkansas,,34.75037,,-92.50044,,30,,38||
+
+
+
+Hong Kong,,Hong Kong,,22.27832,,114.17469,,0,,9||
+
+
+Indian Subcontinent,,India,,22.20775,,76.97021,,8,,13||
+
+Indian Subcontinent,,Cal State East Bay,,22.20775,,76.97021,,21,,39||Reedley Municipal Airport,,Great California,,36.6696,,-119.44938,,53,,69||
+
+Staffordshire,,Stafford,,52.83333,,-2,,95,,103||
+
+Federal Republic of Nigeria,,Nigeria,,10,,8,,31,,38||
+Magic Sands Beach,,Magic Kingdom,,19.59457,,-155.97218,,15,,28||
+Grasmere,,Grasmere,,-35.01806,,117.75556,,40,,48||
+
+Punjab Province,,Punjab,,30.85,,72.31667,,60,,66||Punjab Province,,Chiarperson,,30.85,,72.31667,,68,,79||
+Comunidad de Madrid,,Madrid,,40.42526,,-3.69063,,90,,96||
+Tanahun,,Tanahun,,27.91667,,84.25,,15,,22||
+Texas,,Texas,,31.25044,,-99.25061,,5,,10||Winter Garden Rodeo Ground,,Texas Winter Garden,,28.6572,,-99.17142,,56,,75||North America,,U.S.,,46.07323,,-100.54688,,103,,107||
+San Francisco Bay Area,,Bay Area,,37.77239,,-122.42349,,34,,42||
+Japan,,Japan,,35.68536,,139.75309,,90,,95||
+
+Houston-Sugar Land-Baytown,,Houston,,29.73576,,-95.3064,,91,,98||
+State of Israel,,Israel,,31.5,,34.75,,39,,45||Palestine,,Palestine,,31.92157,,35.20329,,96,,105||
+Federal Republic of Nigeria,,Nigeria,,10,,8,,46,,53||Lagos State,,Lagos,,6.53774,,3.3522,,70,,75||
+
+Republic of Angola,,West Africa,,-12.5,,18.5,,46,,57||
+Guayaquil,,South L.A.,,-2.19616,,-79.88621,,87,,97||
+Guayaquil,,Paveway,,-2.19616,,-79.88621,,130,,137||
+Hollywood Park,,Hollywood Park,,29.6005,,-98.48724,,90,,104||
+
+Hickory Ridge Crossing Shopping Center,,Hickory Ridge Mall,,35.05065,,-89.86731,,0,,18||
+Middle East,,Middle East,,33.13906,,35.85869,,65,,76||
+
+Republic of Guinea,,Guinea,,10.83333,,-10.66667,,0,,6||
+Islamic Republic of Iran,,Iran,,32,,53,,48,,52||Republic of Iraq,,Iraq,,33,,44,,95,,99||
+
+Syrian Arab Republic,,Syria,,35,,38,,28,,33||
+Republic of Angola,,West Africa West Africa,,-12.5,,18.5,,45,,68||
+
+
+Africa,,Africa,,7.1881,,21.09375,,54,,60||
+San Juan Province,,SAN JUAN,,-31,,-69,,32,,40||
+
+Tel Aviv District,,Tel Aviv,,32.08414,,34.79995,,78,,86||
+Africa,,Africa,,7.1881,,21.09375,,104,,110||
+Republic of the Philippines,,Philippines,,13,,122,,81,,92||
+North America,,US,,46.07323,,-100.54688,,112,,114||
+
+
+
+Lagos State,,LAGOS,,6.53774,,3.3522,,32,,37||Lagos State,,Lagos,,6.53774,,3.3522,,126,,131||
+Mexico,,Mexico,,23,,-102,,115,,121||North America,,US,,46.07323,,-100.54688,,130,,132||
+Gaza Province,,Gaza,,-23.5,,33,,71,,75||
+North America,,US,,46.07323,,-100.54688,,97,,99||
+State of Israel,,Israel,,31.5,,34.75,,12,,18||
+
+Berkeley County,,Berkeley,,33.19768,,-79.95099,,27,,35||
+
+Republic of El Salvador,,El Salvador,,13.83333,,-88.91667,,28,,39||
+North America,,US,,46.07323,,-100.54688,,21,,23||
+Hilo,,Hilo,,19.72991,,-155.09073,,93,,97||
+Middle America,,Americas,,21,,-86,,16,,24||
+North America,,America,,46.07323,,-100.54688,,30,,37||
+
+City of Mandaluyong,,Mandaluyong,,14.58333,,121.03333,,127,,138||
+North America,,United States,,46.07323,,-100.54688,,57,,70||Moskva,,Moscow,,55.76167,,37.60667,,74,,80||
+
+
+Beijing Shi,,Beijing,,39.91691,,116.39706,,59,,66||
+Marin County,,Marin County,,38.05518,,-122.74886,,43,,55||
+Elwha River,,Elwha River,,48.15064,,-123.55963,,63,,74||Olympic Peninsula,,Olympic Peninsula,,47.75009,,-123.75102,,82,,99||
+
+
+Srīnagar,,Srinagar,,34.08333,,74.83333,,118,,126||
+California,,California,,37.25022,,-119.75126,,58,,68||Niland,,Niland,,33.24004,,-115.51888,,77,,83||
+North America,,United States,,46.07323,,-100.54688,,29,,42||
+San Francisco-Oakland-Fremont,,Oakland,,37.77668,,-122.42031,,29,,36||
+Republic of Chile,,Chile,,-30,,-71,,8,,13||
+Misto Kyyiv,,Kiev,,50.4429,,30.54896,,20,,24||Luhansk,,Lugansk,,48.56705,,39.31706,,40,,47||
+
+
+
+
+Japan,,Japan,,35.68536,,139.75309,,35,,40||
+
+Woking,,Woking,,51.31903,,-0.55893,,91,,97||Surrey,,Surrey,,51.24787,,-0.4206,,99,,105||
+Texas,,Texas,,31.25044,,-99.25061,,90,,95||
+Texas,,La Rue des Vignes,,31.25044,,-99.25061,,30,,47||
+Southcentral Foundation Nilavena Subregional Clinic,,Southcentral Alaska,,59.75431,,-154.86942,,65,,84||
+Federal Republic of Nigeria,,Nigeria,,10,,8,,107,,114||
+North America,,U.S.,,46.07323,,-100.54688,,24,,28||
+Cairns,,Cairns,,-16.90268,,145.75287,,15,,21||Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,56,,68||
+
+Republic of Rwanda,,Rwanda,,-2,,30,,5,,11||North America,,America,,46.07323,,-100.54688,,107,,114||
+
+
+
+
+Republic of Indonesia,,INDONESIA,,-5,,120,,37,,46||
+North America,,US,,46.07323,,-100.54688,,23,,25||
+
+North America,,US,,46.07323,,-100.54688,,0,,2||Russian Federation,,Russia,,60,,100,,12,,18||North America,,United States,,46.07323,,-100.54688,,74,,87||Moskva,,Moscow,,55.76167,,37.60667,,97,,103||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,59,,71||
+Federal Republic of Nigeria,,Nigeria,,10,,8,,19,,26||
+
+Republic of Sierra Leone,,Sierra,,8.5,,-11.5,,58,,64||
+
+North America,,United States,,46.07323,,-100.54688,,87,,100||
+California,,California,,37.25022,,-119.75126,,85,,95||
+Africa,,Africa,,7.1881,,21.09375,,82,,88||
+San Francisco Bay Area,,San Francisco,,37.77239,,-122.42349,,34,,47||
+
+North America,,US,,46.07323,,-100.54688,,31,,33||
+Republic of the Sudan,,Sudan,,16,,30,,9,,14||Janja,,Janja,,44.66554,,19.24691,,87,,92||
+
+
+North America,,United States,,46.07323,,-100.54688,,102,,115||
+Japan,,Japan,,35.68536,,139.75309,,74,,79||
+
+Lebanon,,Lebanon,,33.83333,,35.83333,,0,,7||
+Gisborne,,East Coast,,-38.65,,178,,18,,28||
+Republic of Angola,,West Africa,,-12.5,,18.5,,48,,59||
+South Sudan,,South Sudan,,7.5,,30,,16,,27||Republic of Uganda,,Uganda,,1.25,,32.5,,55,,61||Greater Upper Nile,,Upper Nile,,8.23324,,32.13501,,78,,88||
+
+Syrian Arab Republic,,Syria,,35,,38,,87,,92||
+
+Republic of Niger,,Niger,,18,,9,,9,,14||
+Joseph Bonaparte Gulf,,Gulf Coast,,-14.25,,128.5,,40,,50||
+
+Rikers Island,,Rikers,,40.79066,,-73.88097,,128,,134||
+Canada,,Canada,,60.10867,,-113.64258,,87,,93||
+Republic of Poland,,Poland,,52,,20,,88,,94||
+
+North America,,US,,46.07323,,-100.54688,,20,,22||Kingdom of Saudi Arabia,,Saudi Arabia,,25,,45,,57,,69||
+Missouri,,Missouri,,38.25031,,-92.50046,,23,,31||
+
+
+
+Dominican Republic,,Haiti,,19,,-70.66667,,67,,72||
+North America,,US,,46.07323,,-100.54688,,50,,52||
+
+
+
+Plainfield,,Plainfield,,40.63371,,-74.40737,,93,,103||
+
+Earth,,LA,,0,,0,,37,,39||Earth,,LA,,0,,0,,79,,81||
+Oregon,,Oregon,,44.00013,,-120.50139,,63,,69||
+
+
+California,,California,,37.25022,,-119.75126,,64,,74||
+Africa,,Africa,,7.1881,,21.09375,,94,,100||
+State of Bihār,,Bihar,,25.75,,85.75,,98,,103||
+California,,California,,37.25022,,-119.75126,,50,,60||
+North America,,U.S.,,46.07323,,-100.54688,,26,,30||
+Honolulu County,,Honolulu,,21.45543,,-157.96138,,44,,52||
+Honolulu County,,Desegregated America,,21.45543,,-157.96138,,54,,74||
+State of Jammu and Kashmīr,,Jammu,,33.91667,,76.66667,,68,,73||State of Jammu and Kashmīr,,Kashmir,,33.91667,,76.66667,,78,,85||
+San Francisco Bay Area,,Bay Area,,37.77239,,-122.42349,,44,,52||
+Republic of Colombia,,Columbia,,4,,-73.25,,114,,122||Mississippi,,Mississippi,,32.75041,,-89.75036,,124,,135||
+
+
+
+Bukit Bulud Napa,,South Napa,,5.5843,,118.3528,,74,,84||
+North America,,US,,46.07323,,-100.54688,,71,,73||
+
+Africa,,Africa,,7.1881,,21.09375,,30,,36||
+People’s Republic of China,,China,,35,,105,,57,,62||
+Japan,,Japan,,35.68536,,139.75309,,57,,62||
+
+
+
+
+
+England,,England,,52.16045,,-0.70312,,113,,120||
+People’s Republic of China,,China,,35,,105,,45,,50||Yunnan Sheng,,Yunnan Province,,25,,101.5,,94,,109||
+North America,,US,,46.07323,,-100.54688,,45,,47||
+
+
+
+North America,,U.S.,,46.07323,,-100.54688,,0,,4||
+
+Kansas City,,Kansas City,,39.09973,,-94.57857,,36,,47||
+Republic of Angola,,West Africa,,-12.5,,18.5,,37,,48||
+Africa,,Africa,,7.1881,,21.09375,,32,,38||North America,,US,,46.07323,,-100.54688,,76,,78||
+State of New South Wales,,Wales,,-33,,146,,85,,90||
+Republic of Indonesia,,Indonesia,,-5,,120,,49,,58||Pacific Northwest,,Pacific,,45.99696,,-118.49854,,103,,110||
+Sealy,,Sealy,,29.78079,,-96.15718,,54,,59||Austin,,Austin County,,30.26715,,-97.74306,,63,,76||
+
+North America,,US,,46.07323,,-100.54688,,0,,2||
+South Hill,,South Pacific,,47.14121,,-122.27012,,65,,78||Republic of Vanuatu,,Vanuatu,,-16,,167,,89,,96||North America,,US,,46.07323,,-100.54688,,108,,110||
+Punjab Province,,Punjab,,30.85,,72.31667,,17,,23||
+
+
+
+Islamic Republic of Iran,,Iran,,32,,53,,0,,4||Ostān-e Gīlān,,Gilan,,37.16667,,49.5,,32,,37||
+
+North America,,USA,,46.07323,,-100.54688,,28,,31||
+Atlantic County,,Atlantic,,39.46883,,-74.63373,,108,,116||
+
+
+Estado de Querétaro,,Querétaro,,20.85,,-99.85,,91,,100||
+Northumberland,,Northumberland,,55.24253,,-2.06535,,73,,87||
+Earth,,LA,,0,,0,,33,,35||
+California,,California,,37.25022,,-119.75126,,58,,68||
+South America,,Caribbean,,-14.60485,,-57.65625,,50,,59||
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,58,,60||
+North America,,USA,,46.07323,,-100.54688,,39,,42||
+Ukraine,,Ukraine,,49,,32,,54,,61||Syrian Arab Republic,,Syria,,35,,38,,63,,68||Serbia and Montenegro,,Serbia,,44.8174,,20.46341,,72,,78||
+
+Republic of Angola,,West Africa,,-12.5,,18.5,,79,,90||
+North America,,America,,46.07323,,-100.54688,,57,,64||California,,California,,37.25022,,-119.75126,,79,,89||
+Western Europe,,West,,50.21909,,7.42676,,16,,20||
+Sumatra,,Iceland,,0,,102,,0,,7||Sumatra,,Iceland,,0,,102,,57,,64||
+Kolkata,,Kolkata,,22.56263,,88.36304,,15,,22||
+Chipola Airpark,,Florida Panhandle,,30.88888,,-85.16902,,35,,52||Georgia,,Georgia,,32.75042,,-83.50018,,60,,67||
+
+Gambia,,Gambia,,13.5,,-15.5,,4,,10||
+
+Washington,,WASHINGTON,,47.50012,,-120.50147,,54,,64||
+Smithville,,New Galloway,,39.49401,,-74.45709,,50,,62||
+Belle Chasse,,Belle Chasse,,29.85493,,-89.99063,,56,,68||
+Al Baldah al Qadīmah,,Nablus City - Palestine,,32.21915,,35.26244,,60,,83||
+
+Alabama,,ALABAMA,,32.75041,,-86.75026,,83,,90||
+Japan,,Japan,,35.68536,,139.75309,,65,,70||
+Ontario,,Ontario,,49.25014,,-84.49983,,61,,68||
+Federal Republic of Nigeria,,Nigeria,,10,,8,,118,,125||
+Republic of Yemen,,Yemen,,15.5,,47.5,,0,,5||Republic of Yemen,,Yemen,,15.5,,47.5,,52,,57||
+Cumberland County,,Cumberland,,35.04859,,-78.82744,,22,,32||
+North America,,U.S.,,46.07323,,-100.54688,,48,,52||
+North America,,US,,46.07323,,-100.54688,,35,,37||North America,,US,,46.07323,,-100.54688,,67,,69||
+
+Southeast Asia,,Southeast Asia,,12.38293,,103.00781,,93,,107||
+Dominican Republic,,Haiti,,19,,-70.66667,,13,,18||
+Canada,,Canada,,60.10867,,-113.64258,,24,,30||
+
+Margala Motel,,Margalla,,33.70836,,73.09878,,118,,126||
+Athens,,Athens,,37.97945,,23.71622,,52,,58||
+Virginia,,Virginia,,37.54812,,-77.44675,,14,,22||
+Reddochs Bridge,,Mississippi River Bridge,,31.70738,,-89.40701,,66,,90||
+Town of Manchester,,Charlottesville,,41.77534,,-72.52421,,16,,31||Chau Pui,,Eastern Shore,,22.54833,,114.4304,,68,,81||
+
+Seattle-Tacoma International Airport,,Seattle-Tacoma International Airport,,47.44899,,-122.30929,,72,,108||
+
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,22,,34||
+
+Republic of Liberia,,Liberia,,6.5,,-9.5,,47,,54||
+
+Memphis,,Memphis,,35.14953,,-90.04898,,32,,39||
+‘Urf Abū Ḩamām,,Abu Hamam,,24.75,,34.01667,,55,,64||
+
+Bhopāl,,Bhopal,,23.5,,77.41667,,33,,39||
+State of Israel,,Israel,,31.5,,34.75,,74,,80||Cairo,,Cairo,,30.06263,,31.24967,,97,,102||
+Cairo,,Philippine Arena,,30.06263,,31.24967,,21,,37||
+North America,,America,,46.07323,,-100.54688,,38,,45||
+
+
+Russian Federation,,Russia,,60,,100,,3,,9||
+State of Jammu and Kashmīr,,Jammu,,33.91667,,76.66667,,79,,84||
+
+North America,,US,,46.07323,,-100.54688,,32,,34||Costa Mesa,,Harper,,33.64113,,-117.91867,,92,,98||
+North America,,U.S.,,46.07323,,-100.54688,,55,,59||Matterhorn,,Disneyland,,33.81303,,-117.91785,,82,,92||
+
+Plymouth County,,Plymouth,,41.98743,,-70.73707,,21,,29||
+
+Louisiana,,Louisiana,,31.00047,,-92.0004,,83,,92||
+
+
+Islamic Republic of Iran,,Iran,,32,,53,,0,,4||
+British Indian Ocean Territory,,Indian Ocean,,-6,,72,,44,,56||
+Matterhorn,,Disneyland,,33.81303,,-117.91785,,22,,32||
+Republic of Rwanda,,Rwanda,,-2,,30,,15,,21||Commonwealth of Nations,,UK,,51.50488,,-0.13602,,107,,109||
+Midwest,,Midwest,,42.65982,,-93.93863,,99,,106||
+
+
+Tanjung Wabo,,south-east Guinea,,-2.1963,,136.5162,,86,,103||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,61,,73||Republic of Liberia,,Liberia,,6.5,,-9.5,,78,,85||
+
+
+Ohio,,Ohio,,40.25034,,-83.00018,,17,,21||
+California,,California,,37.25022,,-119.75126,,0,,10||
+Tripura,,Tripura,,24,,92,,12,,19||Agartala,,AGARTALA,,23.83605,,91.27939,,58,,66||
+Indian Subcontinent,,India,,22.20775,,76.97021,,71,,76||
+North America,,America,,46.07323,,-100.54688,,20,,27||
+Hyde Park,,Hyde Park,,41.7942,,-87.59394,,16,,25||
+
+Phoenix-Mesa-Scotsdale,,Phoenix,,33.4492,,-112.0784,,31,,38||
+Democratic Socialist Republic of Sri Lanka,,Sri Lanka,,7.75,,80.75,,0,,9||Democratic Socialist Republic of Sri Lanka,,Sri Lanka,,7.75,,80.75,,95,,104||
+Mong Kok,,Mongkok,,22.31935,,114.17136,,68,,75||
+
+Tacloban City,,Tacloban City,,11.27135,,124.95536,,85,,98||Republic of the Philippines,,Philippines,,13,,122,,106,,117||
+M Ramer,,Ramer,,31.69095,,-9.16907,,60,,65||Memphis,,Memphis,,35.14953,,-90.04898,,100,,107||
+Bhiwandi,,Bhiwandi,,19.30023,,73.05881,,13,,21||Federal Democratic Republic of Nepal,,Nepal,,28,,84,,39,,44||
+England,,England,,52.16045,,-0.70312,,48,,55||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,17,,29||Genève,,GENEVA,,46.19673,,6.11044,,64,,70||
+Repubblica Italiana,,Italy,,42.83333,,12.83333,,63,,68||Federal Republic of Germany,,Germany,,51.5,,10.5,,70,,77||Commonwealth of Nations,,UK,,51.50488,,-0.13602,,79,,81||United Kingdom of Great Britain and Northern Ireland,,Ireland,,54.75844,,-2.69531,,86,,93||
+
+Hong Kong,,Hong Kong,,22.27832,,114.17469,,0,,9||
+State of Jammu and Kashmīr,,Kashmir,,33.91667,,76.66667,,0,,7||
+Federal Capital Territory,,Abuja,,8.83333,,7.16667,,65,,70||
+New York City,,New York City,,40.71427,,-74.00597,,47,,60||North America,,United States,,46.07323,,-100.54688,,119,,132||
+
+
+United Kingdom of Great Britain and Northern Ireland,,Britain,,54.75844,,-2.69531,,18,,25||
+Australia and New Zealand,,New Zealand,,-27.83908,,143.26172,,91,,102||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,43,,55||
+Republic of Sierra Leone,,Oklahoma Beheading,,8.5,,-11.5,,72,,90||
+Republic of Yemen,,Yemen,,15.5,,47.5,,0,,5||Republic of Yemen,,Yemen,,15.5,,47.5,,34,,39||Republic of Yemen,,Yemen,,15.5,,47.5,,66,,71||Riverside-San Bernadino-Ontario,,Sana,,34.06062,,-117.4205,,100,,104||
+
+People’s Republic of China,,China,,35,,105,,68,,73||Philippine Basin,,West Philippine Sea,,15.175,,130,,97,,116||
+Burkina Faso,,Burkina Faso,,12.5,,-1.66667,,32,,44||
+
+North America,,America,,46.07323,,-100.54688,,83,,90||
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,21,,23||
+
+
+Africa,,Africa,,7.1881,,21.09375,,132,,138||
+
+
+North America,,United States,,46.07323,,-100.54688,,83,,96||
+
+
+City of West Liberty,,West Liberty Kentucky,,37.91343,,-83.26717,,49,,70||
+
+
+North America,,United States,,46.07323,,-100.54688,,64,,77||
+
+
+Provinsi Kalimantan Selatan,,KS,,-2.5,,115.5,,66,,68||
+East Midlands,,East Midlands,,52.79572,,-0.84967,,76,,89||Nottinghamshire,,Notts,,53.16667,,-1,,116,,121||
+South Holland,,Holland Township,,41.60087,,-87.60699,,46,,62||
+North America,,US,,46.07323,,-100.54688,,0,,2||North America,,United States,,46.07323,,-100.54688,,65,,78||
+
+
+
+Africa,,Ga.,,7.1881,,21.09375,,52,,55||
+Oceanside,,West Side,,33.19587,,-117.37948,,96,,105||
+Anchorage,,Anchorage,,61.21806,,-149.90028,,57,,66||Akwa Ibom State,,AK,,5,,7.83333,,68,,70||
+Hafizabad,,Hafizabad,,32.07095,,73.68802,,55,,64||
+Province of Northern Cape,,Northern Cape,,-29.5,,22,,17,,30||
+Idaho,,Idaho,,44.5002,,-114.25118,,37,,42||
+Richmond County,,Richmond,,40.58344,,-74.14959,,38,,46||Commonwealth of Nations,,CA,,51.50488,,-0.13602,,48,,50||
+Hong Kong,,Hong Kong,,22.27832,,114.17469,,113,,122||
+State of Jammu and Kashmīr,,Kashmir,,33.91667,,76.66667,,70,,77||
+Missouri,,Missouri,,38.25031,,-92.50046,,101,,109||
+
+Australia and New Zealand,,New Zealand,,-27.83908,,143.26172,,33,,44||
+Cabell County,,Cabell County,,38.4203,,-82.24172,,58,,71||
+
+Republic of Fiji,,Fiji Islands,,-18,,178,,53,,65||
+North America,,US,,46.07323,,-100.54688,,32,,34||
+Arizona,,American Canyon,,34.5003,,-111.50098,,65,,80||Commonwealth of Nations,,CA,,51.50488,,-0.13602,,82,,84||North America,,U.S.,,46.07323,,-100.54688,,116,,120||
+
+North America,,United States,,46.07323,,-100.54688,,59,,72||
+Delhi,,New Delhi,,28.65195,,77.23149,,67,,76||
+Missouri,,Missouri,,38.25031,,-92.50046,,102,,110||
+
+
+
+
+Las Vegas,,Las Vegas,,36.17497,,-115.13722,,29,,38||
+London,,London,,51.49227,,-0.30864,,133,,139||
+Republic of Turkey,,Turkey,,39,,35,,24,,30||
+Southern Africa,,South Africa,,-27.11781,,22.28027,,60,,72||
+Southern Africa,,Ludian county,,-27.11781,,22.28027,,78,,91||
+North America,,US,,46.07323,,-100.54688,,0,,2||
+
+City of Crossett,,Crossett,,33.12839,,-91.96306,,102,,110||
+North America,,U.S.,,46.07323,,-100.54688,,0,,4||San Francisco Bay Area,,SAN FRANCISCO,,37.77239,,-122.42349,,70,,83||North America,,United States,,46.07323,,-100.54688,,114,,127||
+
+
+Indian Subcontinent,,India,,22.20775,,76.97021,,1,,6||
+Oxford,,Oxford,,51.75222,,-1.25596,,36,,42||
+
+North America,,America,,46.07323,,-100.54688,,84,,91||
+Tallahassee,,Tallahassee,,30.43826,,-84.28073,,11,,22||
+
+
+
+Canada,,Canada,,60.10867,,-113.64258,,43,,49||
+Hilton Grand Vacations Suites On The Las Vegas Strip,,Las Vegas Strip,,36.1405,,-115.16,,59,,74||
+Dominican Republic,,Haiti,,19,,-70.66667,,6,,11||
+
+Gaza Province,,Gaza,,-23.5,,33,,89,,93||
+
+
+
+
+Atlantic County,,Atlantic,,39.46883,,-74.63373,,46,,54||
+Atlantic County,,South East Coastal District,,39.46883,,-74.63373,,56,,83||
+
+California,,California,,37.25022,,-119.75126,,48,,58||
+Indianapolis,,Indianapolis,,39.76838,,-86.15804,,58,,70||
+
+
+Rio de Janeiro,,Rio,,-22.25,,-42.5,,17,,20||
+
+
+Ukraine,,Ukraine,,49,,32,,69,,76||
+
+Earth,,LA,,0,,0,,58,,60||
+San Francisco Bay Area,,Bay Area,,37.77239,,-122.42349,,26,,34||Napa County,,Napa,,38.50647,,-122.33053,,61,,65||
+Napa County,,Richter Scale,,38.50647,,-122.33053,,53,,66||
+People’s Republic of China,,China,,35,,105,,112,,117||
+
+
+North America,,U.S.,,46.07323,,-100.54688,,30,,34||
+
+
+Republic of Yemen,,Yemen,,15.5,,47.5,,37,,42||
+Lagos State,,Lagos,,6.53774,,3.3522,,72,,77||
+
+
+Indiana,,Indiana,,40.00032,,-86.25027,,47,,54||
+
+Lahore,,Lahore,,31.558,,74.35071,,20,,26||
+California,,California,,37.25022,,-119.75126,,14,,24||
+
+Pyūthān,,Pyuthan,,28.08333,,82.83333,,45,,52||
+Greater Manchester,,Manchester,,53.45,,-2.23333,,30,,40||South Dakota,,South Dakota,,44.50026,,-100.25069,,42,,54||
+Republic of Côte d’Ivoire,,Ivory Coast,,8,,-5.5,,37,,48||Republic of Liberia,,Liberia,,6.5,,-9.5,,81,,88||
+Republic of Mali,,Mali,,18,,-2,,32,,36||
+Syrian Arab Republic,,Syria,,35,,38,,37,,42||
+Ukraine,,Ukraine,,49,,32,,47,,54||
+
+Federal Republic of Nigeria,,Nigeria,,10,,8,,126,,133||
+Ukraine,,Ukraine,,49,,32,,77,,84||
+Ukraine,,South of the Kermadec Islands,,49,,32,,35,,64||Nuku‘alofa,,NUKU'ALOFA,,-21.13938,,-175.2018,,108,,118||
+Earth,,La.,,0,,0,,127,,130||
+
+California,,California,,37.25022,,-119.75126,,0,,10||California,,California,,37.25022,,-119.75126,,59,,69||
+Middle East,,middle east,,33.13906,,35.85869,,35,,46||
+Syrian Arab Republic,,Syria,,35,,38,,21,,26||
+North America,,US,,46.07323,,-100.54688,,104,,106||
+
+St. Louis,,St. Louis,,38.63162,,-90.24925,,74,,83||
+
+
+Hawaii,,Hawaii,,20.78785,,-156.38612,,55,,61||
+North America,,US,,46.07323,,-100.54688,,75,,77||
+Islamic Republic of Iran,,Iran,,32,,53,,84,,88||
+State of Israel,,Israel,,31.5,,34.75,,69,,75||
+Kathmandu District,,Central Valley,,27.70704,,85.33218,,107,,121||
+
+Republic of Iraq,,Iraq,,33,,44,,128,,132||
+
+
+
+
+
+
+
+
+Republic of Iraq,,Sun.Star ANGELES CITY,,33,,44,,46,,67||
+Bomi County,,Bomi County,,6.73333,,-10.81667,,87,,98||Republic of Liberia,,Liberia,,6.5,,-9.5,,102,,109||
+
+North America,,US,,46.07323,,-100.54688,,60,,62||
+
+Gaza Province,,Gaza,,-23.5,,33,,0,,4||Cairo,,CAIRO,,30.06263,,31.24967,,47,,52||Gaza Province,,Gaza,,-23.5,,33,,99,,103||
+Republic of the Philippines,,Philippines,,13,,122,,49,,60||
+Republic of the Philippines,,Biden Overstates Deaths,,13,,122,,0,,23||Missouri,,Missouri,,38.25031,,-92.50046,,35,,43||
+Mariupol,,Mariupol,,47.09514,,37.54131,,37,,45||
+Gaza Province,,Gaza,,-23.5,,33,,43,,47||
+Beltsville,,Beltsville,,39.03483,,-76.90747,,80,,90||
+Vilonia,,Vilonia,,35.08398,,-92.20793,,42,,49||
+Vilonia,,Thaipusam,,35.08398,,-92.20793,,33,,42||Pulau Pinang,,Penang,,5.37677,,100.25848,,59,,65||
+British Indian Ocean Territory,,Indian Ocean,,-6,,72,,33,,45||North America,,US,,46.07323,,-100.54688,,91,,93||
+Islamic Republic of Pakistan,,Pakistan,,30,,70,,86,,94||
+North America,,US,,46.07323,,-100.54688,,58,,60||
+
+Texas,,Texas,,31.25044,,-99.25061,,91,,96||
+Kelantan,,Kelantan,,5.33333,,102,,83,,91||
+
+People’s Republic of China,,China,,35,,105,,30,,35||Guizhou Sheng,,Guizhou,,27,,107,,38,,45||
+
+Bloomington,,Monroe Township,,39.16533,,-86.52639,,29,,44||Bloomington,,Applegarth Rd,,39.16533,,-86.52639,,59,,72||
+
+
+Federal Capital Territory,,Abuja,,8.83333,,7.16667,,31,,36||
+Hong Kong,,Hong Kong,,22.27832,,114.17469,,0,,9||
+
+Hong Kong,,Bonnet Carre Spillway Bridge,,22.27832,,114.17469,,83,,111||
+State of Israel,,Israel,,31.5,,34.75,,25,,31||Republic of Liberia,,Liberia,,6.5,,-9.5,,77,,84||North America,,US,,46.07323,,-100.54688,,112,,114||
+
+
+Muḩāfaz̧at Rīf Dimashq,,Damascus,,33.5,,37.38333,,115,,123||
+Michigan,,Michigan,,44.25029,,-85.50033,,55,,63||
+
+
+Gölbaşı,,Golan,,37.78361,,37.63667,,12,,17||Syrian Arab Republic,,Syria,,35,,38,,55,,60||
+Republic of Yemen,,Yemen,,15.5,,47.5,,76,,81||
+
+City of Laredo,,Webb City,,27.54602,,-99.48702,,0,,9||City of Laredo,,Cardinal Dome,,27.54602,,-99.48702,,53,,66||
+
+Penampang,,Penampang,,5.83333,,116.25,,41,,50||
+Penampang,,Kinsale Road,,5.83333,,116.25,,43,,55||
+Seattle-Tacoma-Bellevue,,Seattle,,47.60014,,-122.3283,,68,,75||
+North America,,USA,,46.07323,,-100.54688,,40,,43||North America,,US,,46.07323,,-100.54688,,95,,97||
+Sahara,,Sahara Desert,,26,,13,,34,,47||Alaska,,Alaska,,64.00028,,-150.00028,,64,,70||
+
+North America,,America,,46.07323,,-100.54688,,29,,36||
+Pendang,,Pendang,,-1.46667,,114.85,,69,,76||Kedah,,Kedah,,6,,100.66667,,78,,83||
+North America,,US,,46.07323,,-100.54688,,20,,22||
+Republic of Guinea,,Guinea,,10.83333,,-10.66667,,49,,55||Federal Republic of Nigeria,,Nigeria,,10,,8,,127,,134||
+Laurens County,,Laurens County,,34.48357,,-82.00593,,95,,109||
+
+North America,,US,,46.07323,,-100.54688,,13,,15||Republic of Yemen,,Yemen,,15.5,,47.5,,45,,50||
+
+
+
+State of Israel,,Israel,,31.5,,34.75,,22,,28||
+North America,,America,,46.07323,,-100.54688,,53,,60||
+Republic of Liberia,,Liberia,,6.5,,-9.5,,85,,92||
+Napa County,,Napa,,38.50647,,-122.33053,,36,,40||
+Iowa,,Iowa,,42.00027,,-93.50049,,70,,74||
+
+California,,California,,37.25022,,-119.75126,,17,,27||
+Oklahoma,,Oklahoma,,35.49209,,-97.50328,,51,,59||
+Oklahoma,,Sailkot,,35.49209,,-97.50328,,125,,132||
+Republic of Kenya,,Kenya,,1,,38,,19,,24||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,20,,32||Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,98,,110||
+
+Libya,,Libya,,28,,17,,0,,5||
+Dominican Republic,,Haiti,,19,,-70.66667,,58,,63||
+North America,,U.S.,,46.07323,,-100.54688,,50,,54||Matterhorn,,Disneyland,,33.81303,,-117.91785,,104,,114||
+
+
+San Francisco-Oakland-Fremont,,Silicon Valley,,37.77668,,-122.42031,,54,,68||
+
+Baghdad,,Baghdad,,33.34058,,44.40088,,3,,10||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,23,,35||
+Seattle-Tacoma-Bellevue,,Seattle,,47.60014,,-122.3283,,125,,132||
+Republic of Liberia,,Liberia,,6.5,,-9.5,,12,,19||
+Republic of Liberia,,Pîrsûs,,6.5,,-9.5,,51,,57||Suruç İlçesi,,Suruç,,36.97681,,38.4262,,59,,64||‘Ayn al ‘Arab,,Kobane,,36.89095,,38.35347,,106,,112||
+
+Denver,,Denver,,39.73915,,-104.9847,,0,,6||
+Federal Republic of Nigeria,,Nigeria,,10,,8,,9,,16||Federal Republic of Nigeria,,Nigeria,,10,,8,,18,,25||
+Islamic Republic of Pakistan,,Pakistan,,30,,70,,31,,39||
+Alabama,,Alabama,,32.75041,,-86.75026,,55,,62||
+
+State of Israel,,Israel,,31.5,,34.75,,15,,21||Gaza Province,,Gaza,,-23.5,,33,,29,,33||
+Kansas,,Kansas,,38.50029,,-98.50063,,19,,25||
+
+Republic of Kenya,,Kenya,,1,,38,,14,,19||Republic of Liberia,,Liberia,,6.5,,-9.5,,49,,56||
+Port-Vila,,Port-Vila,,-17.73648,,168.31366,,45,,54||Republic of Vanuatu,,Vanuatu,,-16,,167,,56,,63||North America,,US,,46.07323,,-100.54688,,95,,97||
+
+North Centre Street Station Beaver Dam Water Works,,Centre Street,,43.47027,,-88.83927,,58,,71||
+North Centre Street Station Beaver Dam Water Works,,Islambad,,43.47027,,-88.83927,,50,,58||
+Winnipeg,,Winnipeg,,49.8844,,-97.14704,,53,,61||
+Federal Republic of Germany,,Germany,,51.5,,10.5,,60,,67||
+Lagos State,,Lagos,,6.53774,,3.3522,,40,,45||
+
+County of Cheshire,,Cheshire,,53.16667,,-2.58333,,6,,14||
+
+California,,California,,37.25022,,-119.75126,,0,,10||
+
+Detroit-Warren-Livonia,,DETROIT,,42.34231,,-83.07175,,95,,102||
+Cleveland,,Cleveland,,54.525,,-1.189,,42,,51||
+
+Georgia,,GEORGIA,,32.75042,,-83.50018,,16,,23||
+London,,London,,51.49227,,-0.30864,,38,,44||
+Asia,,AZ,,29.84064,,89.29688,,31,,33||
+Republic of El Salvador,,El Salvador,,13.83333,,-88.91667,,60,,71||
+Dominican Republic,,Haiti,,19,,-70.66667,,27,,32||Dominican Republic,,Haiti,,19,,-70.66667,,93,,98||
+North America,,America,,46.07323,,-100.54688,,0,,7||
+Japan,,Japan,,35.68536,,139.75309,,37,,42||
+
+Western Region,,W. Africa,,-0.61179,,30.55573,,34,,43||
+Republic of France,,France,,46,,2,,15,,21||
+State of Israel,,Israel,,31.5,,34.75,,33,,39||Gaza Province,,Gaza,,-23.5,,33,,42,,46||
+Donets’ka Oblast’,,Ukraine DONETSK,,48,,37.66667,,90,,106||
+London,,London,,51.49227,,-0.30864,,91,,97||
+Sumatra Shoal,,S. Sumatra,,-1.92806,,146.61901,,51,,61||
+Mississippi,,Mississippi,,32.75041,,-89.75036,,35,,46||
+Deseronto,,Deseronto,,44.20012,,-77.04944,,49,,58||
+
+North America,,US,,46.07323,,-100.54688,,92,,94||
+North America,,US,,46.07323,,-100.54688,,79,,81||
+Serbia and Montenegro,,Serbia,,44.8174,,20.46341,,69,,75||Republic of Albania,,Albania,,41,,20,,78,,85||
+Luton,,Luton,,51.87967,,-0.41748,,11,,16||London,,London,,51.49227,,-0.30864,,28,,34||
+
+Saint Louis County,,St Louis County,,38.64068,,-90.44341,,72,,87||
+North America,,US,,46.07323,,-100.54688,,50,,52||
+
+North America,,Gaza BBC Newcastle,,46.07323,,-100.54688,,65,,83||North America,,Barrack Road,,46.07323,,-100.54688,,85,,99||
+
+
+Haifa,,Haifa,,32.58333,,35,,32,,37||State of Israel,,Israel,,31.5,,34.75,,39,,45||
+
+
+Republic of Slovenia,,Slovenia,,46.08333,,15,,24,,32||Principality of Andorra,,Andorra,,42.55,,1.58333,,43,,50||
+
+Kerman,,Kerman,,29.75,,57.25,,21,,27||
+North America,,USA,,46.07323,,-100.54688,,81,,84||
+Islamic Republic of Pakistan,,Pakistan,,30,,70,,0,,8||
+
+
+Bangladesh,,Ghana,,24,,90,,29,,34||Bangladesh,,Ghana,,24,,90,,67,,72||
+Buenos Aires,,Santa,,-34.61315,,-58.37723,,0,,5||Ogunquit,,Ogunquit,,43.24898,,-70.59922,,66,,74||
+
+
+Canary Islands,,Canary Islands,,28,,-15.5,,101,,115||
+
+North America,,U.S.,,46.07323,,-100.54688,,115,,119||
+North Mount Lofty Ranges,,Mount Lofty Ranges,,-33.83333,,138.83333,,24,,42||
+Merseyside,,Merseyside,,53.4,,-3.08333,,49,,59||
+
+Donets’ka Oblast’,,Donetsk,,48,,37.66667,,48,,55||
+Australia and New Zealand,,New Zealand,,-27.83908,,143.26172,,28,,39||Wellington,,Wellington,,-41.28333,,174.76667,,47,,57||
+Republic of Uganda,,Uganda,,1.25,,32.5,,58,,64||
+
+
+Baile Átha Cliath,,Dublin,,53.38046,,-6.27113,,117,,123||
+Ringgold County,,Ringgold,,40.7352,,-94.24397,,74,,82||
+
+
+Hungary,,Hungary,,47,,20,,21,,28||
+Republic of El Salvador,,Salvador,,13.83333,,-88.91667,,40,,48||Republic of Guatemala,,Guatemala,,15.5,,-90.25,,50,,59||Republic of Honduras,,Honduras,,15,,-86.5,,61,,69||Mexico,,Mexico,,23,,-102,,72,,78||North America,,US,,46.07323,,-100.54688,,130,,132||
+
+North America,,America,,46.07323,,-100.54688,,9,,16||
+
+North America,,US,,46.07323,,-100.54688,,73,,75||
+Lagos State,,Lagos,,6.53774,,3.3522,,36,,41||
+
+Missouri,,Missouri,,38.25031,,-92.50046,,42,,50||
+River Drive,,River Drive,,14.23317,,121.10964,,0,,11||Moline,,Moline,,41.5067,,-90.51513,,15,,21||
+Western Cape,,Western Cape,,-34,,20,,34,,46||City of Cape Town,,Cape Town,,-33.89267,,18.59418,,124,,133||
+Georgia,,Georgia,,32.75042,,-83.50018,,51,,58||
+Republic of Yemen,,Yemen,,15.5,,47.5,,0,,5||
+
+Japan,,Japan,,35.68536,,139.75309,,80,,85||
+Ukraine,,Ukraine,,49,,32,,18,,25||
+Malaysia,,Malaysia,,2.5,,112.5,,27,,35||
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,43,,45||
+Greater Glasgow,,Greater Glasgow,,55.85723,,-4.30535,,80,,95||
+
+
+
+Berkeley County,,Berkeley,,33.19768,,-79.95099,,27,,35||
+
+
+
+Republic of Angola,,West Africa,,-12.5,,18.5,,75,,86||
+Shizuoka,,Shizuoka,,35.01667,,138.33333,,74,,82||Japan,,Japan,,35.68536,,139.75309,,84,,89||HVDC Hokkaido-Honschu - Tohoku Static Inverter Plant,,Aomori - Hokkaido,,40.80222,,141.19831,,98,,115||
+Republic of Guinea,,Guinea,,10.83333,,-10.66667,,46,,52||
+Republic of Cuba,,Cuba,,22,,-79.5,,65,,69||
+Dundalk,,Dundalk,,39.25066,,-76.52052,,29,,36||
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,21,,23||United Kingdom of Great Britain and Northern Ireland,,Britain,,54.75844,,-2.69531,,130,,137||
+Republic of Fiji,,Fiji,,-18,,178,,61,,65||
+Republic of Fiji,,Kalebuka,,-18,,178,,123,,131||
+Loma Prieta,,Loma Prieta,,22.58056,,-101.00111,,36,,47||
+Republic of Korea,,Korea,,36.5,,127.75,,3,,8||Republic of Singapore,,Singapore,,1.36667,,103.8,,51,,60||
+Orlando,,Orlando,,28.53834,,-81.37924,,27,,34||
+
+South Vineland,,South Jersey,,39.44595,,-75.02879,,73,,85||
+Africa,,Africa,,7.1881,,21.09375,,132,,138||
+
+North America,,US,,46.07323,,-100.54688,,7,,9||Washington,,WASHINGTON,,47.50012,,-120.50147,,47,,57||North America,,U.S.,,46.07323,,-100.54688,,97,,101||
+Limpopo,,Limpopo,,-24,,29.5,,81,,88||
+Africa,,Africa,,7.1881,,21.09375,,43,,49||North America,,America,,46.07323,,-100.54688,,101,,108||
+
+La Ciotat,,S. Paca,,43.17476,,5.60449,,104,,111||
+
+Ukraine,,Ukraine,,49,,32,,0,,7||Ukraine,,Ukraine,,49,,32,,64,,71||
+
+Northern Mindanao,,Mindanao,,8.5262,,125.22669,,0,,8||
+Africa,,Africa,,7.1881,,21.09375,,95,,101||
+Kingdom of Cambodia,,Cambodia,,13,,105,,11,,19||
+
+Republic of France,,France,,46,,2,,25,,31||
+Gaza Province,,Gaza,,-23.5,,33,,0,,4||Cairo,,Cairo,,30.06263,,31.24967,,14,,19||State of Israel,,Israel,,31.5,,34.75,,48,,54||
+Japan,,Japan,,35.68536,,139.75309,,42,,47||
+
+
+Aurora,,Aurora,,39.72943,,-104.83192,,18,,24||
+Aurora,,Middelburg Plaza,,39.72943,,-104.83192,,41,,57||
+
+Ukraine,,Ukraine,,49,,32,,0,,7||Ukraine,,Ukraine,,49,,32,,56,,63||
+Catterick Garrison,,UK Garrison,,54.37748,,-1.72232,,60,,71||
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,58,,60||
+
+State of Tasmania,,Tasmania,,-42,,147,,67,,75||
+State of Qatar,,Qatar,,25.5,,51.25,,111,,116||
+People’s Republic of China,,China,,35,,105,,7,,12||People’s Republic of China,,China,,35,,105,,64,,69||
+
+Arab Republic of Egypt,,Egypt,,27,,30,,46,,51||Cairo,,Cairo,,30.06263,,31.24967,,74,,79||
+
+Gaza Province,,Gaza,,-23.5,,33,,115,,119||
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,67,,79||
+North America,,America,,46.07323,,-100.54688,,47,,54||
+
+State of Israel,,Israel,,31.5,,34.75,,0,,6||Nuşrah,,Nusra,,31.14535,,31.00694,,42,,47||
+North America,,US,,46.07323,,-100.54688,,7,,9||Republic of Angola,,West Africa,,-12.5,,18.5,,30,,41||North America,,United States,,46.07323,,-100.54688,,47,,60||Republic of Angola,,West Africa,,-12.5,,18.5,,96,,107||
+Seattle-Tacoma-Bellevue,,Seattle,,47.60014,,-122.3283,,64,,71||
+
+Place des Martyrs,,Martyrs ' Square,,33.89611,,35.50694,,42,,57||
+North America,,USA,,46.07323,,-100.54688,,68,,71||
+Republic of Poland,,Poland,,52,,20,,0,,6||
+Republic of Iraq,,Iraq,,33,,44,,5,,9||Republic of Iraq,,Iraq,,33,,44,,43,,47||
+Northridge,,Northridge,,34.22834,,-118.53675,,51,,61||
+Krugersdorp,,Krugersdorp,,-26.08577,,27.77515,,67,,78||
+
+Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,38,,50||
+
+Dallas-Fort Worth-Arlington,,Dallas,,32.76303,,-97.03262,,88,,94||
+Repubblica Italiana,,Italy,,42.83333,,12.83333,,19,,24||England,,England,,52.16045,,-0.70312,,26,,33||North America,,USA,,46.07323,,-100.54688,,35,,38||Republic of Kenya,,Kenya,,1,,38,,118,,123||
+East Midlands,,East Midlands,,52.79572,,-0.84967,,23,,36||Game Park East,,East Midland,,-19.21667,,29.68333,,102,,114||
+
+Republic of the Philippines,,Philippines,,13,,122,,31,,42||National Capital Region,,Manila,,14.57775,,121.04599,,62,,68||
+
+
+
+
+
+Texas,,Texas,,31.25044,,-99.25061,,22,,27||
+Anantnāg,,Anantnag,,33.83333,,75.16667,,94,,102||
+Southern Africa,,Southern Africa,,-27.11781,,22.28027,,73,,88||
+Novotel Nathan Road Kowloon Hong Kong,,Nathan Road,,22.30734,,114.17192,,17,,28||
+Huntington Beach,,Huntington Beach,,33.6603,,-117.99923,,25,,41||
+Republic of Iraq,,Iraq,,33,,44,,0,,4||
+
+
+
+Illinois,,Illinois,,40.00032,,-89.25037,,71,,79||
+
+Chicago-Naperville-Joliet,,Chicago,,41.70778,,-87.89062,,62,,69||
+
+North America,,U.S.,,46.07323,,-100.54688,,27,,31||San Joaquin Valley,,Great Central U.S.,,37.98326,,-121.86774,,84,,102||
+Matterhorn,,Disneyland,,33.81303,,-117.91785,,16,,26||
+Laki,,Iceland Volcano,,64.07033,,-18.2366,,41,,56||
+Memphis,,Memphis,,35.14953,,-90.04898,,34,,41||Tennessee,,Tennessee,,35.75035,,-86.25027,,43,,52||
+Central America,,Central America,,25.32417,,-99.66797,,37,,52||Gibsons,,Pacific Coast,,49.39539,,-123.50555,,88,,101||
+England,,England,,52.16045,,-0.70312,,34,,41||
+
+
+
+Commonwealth of Nations,,CA,,51.50488,,-0.13602,,55,,57||
+Scotland,,Scotland,,56,,-4,,52,,60||
+
+Cairo,,Cairo,,30.06263,,31.24967,,40,,45||
+Republic of Angola,,West Africa,,-12.5,,18.5,,45,,56||
+North America,,US,,46.07323,,-100.54688,,27,,29||
+Greater Accra Region,,Accra,,5.75,,0,,11,,16||Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,57,,69||Republic of Liberia,,Liberia,,6.5,,-9.5,,74,,81||
+
+North America,,US,,46.07323,,-100.54688,,137,,139||
+
+Illinois,,Illinois,,40.00032,,-89.25037,,42,,50||Chicago-Naperville-Joliet,,Chicago,,41.70778,,-87.89062,,62,,69||
+San Francisco Bay Area,,San Francisco Bay,,37.77239,,-122.42349,,64,,81||
+Republic of Mali,,Mali,,18,,-2,,48,,52||
+
+
+North America,,U.S.,,46.07323,,-100.54688,,35,,39||Republic of Sierra Leone,,Sierra Leone,,8.5,,-11.5,,73,,85||Nebraska,,Nebraska,,41.50028,,-99.75067,,105,,113||
+
+Gig Harbor,,Gig Harbor,,47.32926,,-122.58013,,64,,74||
+
+North America,,U.S.,,46.07323,,-100.54688,,69,,73||
+London,,London,,51.49227,,-0.30864,,43,,49||London,,London,,51.49227,,-0.30864,,83,,89||
+Ukraine,,Ukraine,,49,,32,,7,,14||Debal’tseve,,Debaltseve,,48.34072,,38.4049,,73,,83||
+North America,,U.S.,,46.07323,,-100.54688,,32,,36||
+
+Georgia,,Georgia,,32.75042,,-83.50018,,0,,7||Georgia,,Georgia,,32.75042,,-83.50018,,83,,90||
+Alexanderfjellet,,Mt Alexander,,78.80799,,11.89067,,87,,99||
+
+North America,,US,,46.07323,,-100.54688,,49,,51||
+Islamic Republic of Iran,,Iran,,32,,53,,0,,4||
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,34,,36||
+California,,California,,37.25022,,-119.75126,,29,,39||
+Southern California,,Southern California,,34.68743,,-116.78467,,98,,117||Arizona,,Arizona,,34.5003,,-111.50098,,129,,136||
+Republic of Angola,,West Africa,,-12.5,,18.5,,84,,95||
+
+San Francisco Bay Area,,Bay,,37.77239,,-122.42349,,27,,30||
+
+Indian Subcontinent,,India,,22.20775,,76.97021,,14,,19||
+Springfield,,Springfield,,37.21533,,-93.29824,,20,,31||Willmar,,Ill.,,45.12191,,-95.04334,,33,,37||
+
+
+
+
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,38,,40||
+Commonwealth of Nations,,UK,,51.50488,,-0.13602,,71,,73||
+Gaza,,GAZA CITY,,31.50161,,34.46672,,12,,21||Gaza Province,,Gaza,,-23.5,,33,,23,,27||Gaza Province,,Gaza,,-23.5,,33,,70,,74||State of Israel,,Israel,,31.5,,34.75,,87,,93||
+Sacramento County,,Sacramento,,38.44932,,-121.34424,,19,,29||
+Sanaa,,SANAA,,15.35472,,44.20667,,50,,55||Republic of Yemen,,Yemen,,15.5,,47.5,,57,,62||Republic of Yemen,,Yemen,,15.5,,47.5,,87,,92||
+
+Misto Kyyiv,,Kiev,,50.4429,,30.54896,,57,,61||
+Windhoek,,Khomas,,-22.55941,,17.08323,,20,,26||
+Ukraine,,Ukraine,,49,,32,,0,,7||
+
+

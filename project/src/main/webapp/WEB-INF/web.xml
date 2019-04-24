@@ -1,0 +1,77 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>EUPEG</display-name>
+  <listener>
+  	<listener-class>edu.buffalo.gsda.UpdateResultListener</listener-class>
+  </listener>
+  
+
+  <servlet>
+  	<servlet-name>EvaluationServlet</servlet-name>
+  	<display-name>EvaluationServlet</display-name>
+  	<description></description>
+  	<servlet-class>edu.buffalo.gsda.EvaluationServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>CorpusUploadServlet</servlet-name>
+  	<display-name>CorpusUploadServlet</display-name>
+  	<description></description>
+  	<servlet-class>edu.buffalo.gsda.CorpusUploadServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ParserUploadServlet</servlet-name>
+  	<display-name>ParserUploadServlet</display-name>
+  	<description></description>
+  	<servlet-class>edu.buffalo.gsda.ParserUploadServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>GetRecordsByIDServlet</servlet-name>
+  	<display-name>GetRecordsByIDServlet</display-name>
+  	<description></description>
+  	<servlet-class>edu.buffalo.gsda.GetRecordsByIDServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ServiceConnectionTestServlet</servlet-name>
+  	<display-name>ServiceConnectionTestServlet</display-name>
+  	<description></description>
+  	<servlet-class>edu.buffalo.gsda.ServiceConnectionTestServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>TestDemoParser</servlet-name>
+  	<display-name>TestDemoParser</display-name>
+  	<description></description>
+  	<servlet-class>edu.buffalo.gsda.TestDemoParser</servlet-class>
+  </servlet>
+
+ 
+ 
+  <servlet-mapping>
+  	<servlet-name>EvaluationServlet</servlet-name>
+  	<url-pattern>/EvaluationServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>CorpusUploadServlet</servlet-name>
+  	<url-pattern>/CorpusUploadServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ParserUploadServlet</servlet-name>
+  	<url-pattern>/ParserUploadServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>GetRecordsByIDServlet</servlet-name>
+  	<url-pattern>/GetRecordsByIDServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ServiceConnectionTestServlet</servlet-name>
+  	<url-pattern>/ServiceConnectionTestServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>TestDemoParser</servlet-name>
+  	<url-pattern>/TestDemoParser</url-pattern>
+  </servlet-mapping>
+
+  
+</web-app>

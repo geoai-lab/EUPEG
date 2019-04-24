@@ -1,0 +1,323 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="img/UB_favicon.ico" > 
+    
+    
+    <title>EUPEG - An Extensible and Unified Platform for Evaluating Geoparsers</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Custom styles for this template -->
+    <link href="css/general.css" rel="stylesheet">
+
+  </head>
+
+  <body class="bg-img" data-spy="scroll" data-target="#navbarNavAltMarkup" >
+      
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" role="navigation">
+         <div class="container">
+		  <a class="navbar-brand" href="#">Home</a>
+		  <div class="float-right">
+			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+			    <span class="navbar-toggler-icon"></span>
+			  </button>
+			  <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
+			    <div class="navbar-nav ">
+			      <a class="nav-item nav-link active mx-2" href="#run">Run Experiments</a>
+			      <a class="nav-item nav-link mx-2" href="#search">Search Experiments</a>
+			      <a class="nav-item nav-link mx-2" href="#about">About</a>
+			    </div> 
+			  </div>
+		  </div>
+		</div>
+	 </nav>
+    
+    
+
+    <div class="container ">
+	  
+	  <div style="height:90px;"></div>
+	  
+	  
+	  <div class="row wordShade" >
+	     <div class="col-2"><h1>EUPEG</h1></div>
+	     <div class="col-10"><h4 class="float-right pt-3 mx-2">an Extensible and Unified Platform for Evaluating Geoparsers</h4></div>
+	  </div>
+      
+      <div class="my-4"></div>
+      
+      <div id="errorMessageContainer" class="alert alert-primary" role="alert" style="display:none;">
+          <div id="errorMessage"></div>
+          <div id="errorMessage2"></div>
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close" style="margin-top:-25px;">
+    		<span aria-hidden="true">&times;</span>
+  		  </button>
+      </div>
+      
+      <!-- run experiment module start --> 
+      <div id="run" class="module round shadow ">
+         <h3>Run Experiments</h3>
+         
+         <div class="my-4"></div>
+      
+         <!-- dataset box start --> 
+         <div id="datasetBox">
+	         <p class="lead">1. Choose your datasets: </p>
+	         <div class="row" style="padding-left: 23px;margin-top:-20px;">
+	            <div class="col-11"  id="corpusList">	 
+		        </div>
+		        <div class="col-1">
+			        <div class="custom-control-inline float-right mt-2">
+					   <button type="button" class="btn btn-outline-secondary btn-sm" data-toggle="modal" data-target="#geoCorpusModal" data-whatever="corpus">Add corpus...</button>
+				    </div>
+			    </div>
+	         </div>
+
+		    
+		    <!-- upload corpus window start -->
+			<div class="modal fade bd-example-modal-lg" id="geoCorpusModal" tabindex="-1" role="dialog" aria-labelledby="geoCorpusModalLabel" aria-hidden="true">
+		  	  <div class="modal-dialog modal-lg" role="document">
+		    	<div class="modal-content">
+		      	<div class="modal-header">
+		     	   <h5 class="modal-title" id="geoCorpusModalLabel">Add a new corpus</h5>
+		        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		        	  <span aria-hidden="true">&times;</span>
+		        	</button>
+		    	 </div>
+		     	 <div class="modal-body">  
+		       	 <form name="uploadForm" id="xmlFormSubmit" action ="corpusUploadServlet"  enctype = "multipart/form-data" method = "post">
+		          	<div class="form-group">
+		            	<label for="corpusName" class="col-form-label">Corpus name:</label>
+		            	<input type="text" class="form-control" id="corpusName" placeholder="Enter a name, e.g., myCorpus, for your corpus...">
+		          	</div>
+		          	<div class="form-group">
+		            	<label for="corpusSelect" class="col-form-label">Corpus file path:</label>
+		           	    <p><input type="file" name="fileSelect[]" class="form-control" id="corpusSelect" onchange="updateCorpusName();" multiple accept=".xml,XML"/> 
+		          	</div>
+		          	<div class="form-group">
+		          	<p><input type="submit" value="Upload this file"  class="btn btn-primary" style="width:170px;" id="corpusSubmitButton" ></p>		
+		          	</div>
+		         </form>
+		         <div id ="dataset-group" class="form-group" style="width: 95%; text-align:center; display:none;">
+		         	<h5>Your corpus is uploaded successfully. </h5>
+		         	<h5 align = "left">Your corpus: <i style='color:red;' id ='corpusTableTitle'>No corpus</i></h5>
+		        	<table class="table">
+ 						<thead class="thead-dark">
+				 	 <tr>
+				    	<th>File size</th>
+				    	<th>Entry numbers</th> 
+				    	<th>Valid toponym numbers</th>
+				    	<th>Average toponym per entry</th>
+				 	 </tr>
+				 	 <tr>
+				    	<td id='corpusSize'>--</td>
+				    	<td id='articleNum'>--</td> 
+				    	<td id='toponymNum'>--</td>
+				    	<td id='avgToponyms'>--</td>
+				  	</tr>
+					</table>
+				</div>
+		      	</div>
+		     	 <div class="modal-footer">
+		        	<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+		        	<!-- <button type="button" class="btn btn-secondary" onClick = "refresh();">Reset</button> -->
+		      	</div>
+		    	</div>
+		  	  </div>
+		    </div>
+			<!-- upload corpus window start -->
+		    
+	    </div>  
+	    <!-- dataset box finish --> 
+	    
+	    
+	    <div class="mt-4"></div>
+	    
+	    
+	    <!-- Geoparser box start -->
+	    <div id="geoparserBox">
+	        <p class="lead">2. Choose your geoparsers: </p>
+	        
+            <div class="row" style="padding-left: 23px;margin-top:-20px;" >
+                 <div class="col-11" id="geoparserList"  ></div>
+                 <div class="col-1">
+                   <div class="custom-control-inline float-right mt-2">
+	                 <button type="button" class="btn btn-outline-secondary btn-sm" data-toggle="modal" data-target="#geoParserModal" data-whatever="parser">Add geoparser...</button>
+		           </div>
+		         </div>
+			</div>
+			
+			
+			<!-- connect geoparser window -->
+			<div class="modal fade bd-example-modal-lg" id="geoParserModal" tabindex="-1" role="dialog" aria-labelledby="geoParserModalLabel" aria-hidden="true">
+			  <div class="modal-dialog modal-lg" role="document">
+			    <div class="modal-content">
+			      <div class="modal-header">
+			        <h5 class="modal-title" id="geoParserModalLabel">Add a new geoparser</h5>
+			        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+			          <span aria-hidden="true">&times;</span>
+			        </button>
+			      </div>
+			      <div class="modal-body">
+			        <form>
+			          <div class="form-group">
+			            <label for="parserName" class="col-form-label">Geoparser name:</label>
+			            <input type="text" class="form-control" id="parserName" placeholder="Enter a name, e.g., myGeoparser, for your geoparser...">
+			          </div>
+			          <div class="form-group">
+			            <label for="parserURL" class="col-form-label">Geoparser URL:</label>
+			            <input type="text" class="form-control" id="parserURL" placeholder="Provide the URI of your geoparser as a Web service...">
+			          </div>
+			        </form>
+			        <div class="form-group mt-3">
+		          	   <button type="button" class="btn btn-primary" onClick = "testService();" style="width:170px;" id="geoparserConnectButton">Connect</button>
+		          	</div>
+			      </div>
+			      <div class="modal-footer">
+			        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+			        <!-- <button type="button" class="btn btn-secondary" onClick = "testService();">Reset</button> -->
+			      </div>
+			      <div class="modal-body">
+			      <div contenteditable="true" id="testArticle" class="form-control" style="height:100px;overflow:auto;display:none;">Trying to connect your service</div>
+			      </div>
+			    </div>
+			  </div>
+			</div>
+			<!-- connect geoparser window finishes -->
+			
+	    </div>
+	    <!-- Geoparser box finish -->
+	    
+	    
+	    <div class="mt-4"></div>
+      
+      
+        <!-- Performance measure box starts -->
+        <div id="metricBox">
+            <p class="lead">3. Choose evaluation metrics</p>
+            <div  style="padding-left: 23px; margin-top:-18px;" id="runMetrics">
+		       	<div class="custom-control custom-checkbox custom-control-inline mt-2 mr-4">
+					  <input type="checkbox" class="custom-control-input" id="precision" checked >
+					  <label class="custom-control-label" for="precision">Precision</label>
+				</div>
+				<div class="custom-control custom-checkbox custom-control-inline mt-2 mr-4">
+					  <input type="checkbox" class="custom-control-input" id="recall" checked>
+					  <label class="custom-control-label" for="recall">Recall</label>
+				</div>
+				<div class="custom-control custom-checkbox custom-control-inline mt-2 mr-4">
+					  <input type="checkbox" class="custom-control-input" id="f_score" checked>
+					  <label class="custom-control-label" for="f_score">F-Score</label>
+				</div> 																					
+				<div class="custom-control custom-checkbox custom-control-inline mt-2 mr-4">
+					  <input type="checkbox" class="custom-control-input" id="accuracy" checked>
+					  <label class="custom-control-label" for="accuracy">Accuracy</label>
+				</div> 
+				<div class="custom-control custom-checkbox custom-control-inline mt-2 mr-4">
+					  <input type="checkbox" class="custom-control-input" id="mean" checked>
+					  <label class="custom-control-label" for="mean">Mean Error Distance</label>
+				</div>
+				<div class="custom-control custom-checkbox custom-control-inline mt-2 mr-4">
+					  <input type="checkbox" class="custom-control-input" id="median" checked>
+					  <label class="custom-control-label" for="median">Median Error Distance</label>
+				</div>
+				<div class="custom-control custom-checkbox custom-control-inline mt-2 mr-4">
+					  <input type="checkbox" class="custom-control-input" id="accuracy_161" checked>
+					  <label class="custom-control-label" for="accuracy_161">Accuracy@161</label>
+				</div> 
+				<div class="custom-control custom-checkbox custom-control-inline mt-2 mr-4">
+					  <input type="checkbox" class="custom-control-input" id="AUC" checked>
+					  <label class="custom-control-label" for="AUC">AUC</label>
+				</div> 
+			  </div>
+        </div>
+        <!-- Performance measure box finishes -->
+        
+        <div class="mt-5"></div>
+        
+        <!-- The run experiment button -->
+		<button id="runExpButton" type="button" class="btn btn-primary" onclick="runAnExperiment();">Run this experiment</button>
+	   
+	    
+	    <!-- Result visualization box -->
+		<div id="experimentMetadataPanel" style="height: 80%; overflow-y: auto;width:100%; margin-top:80px ; display:none;" >    
+		</div>
+		
+	    <div id="experimentResultPanel" style="height: 80%; overflow-y: auto;width:100%; margin-top:20px ; min-height:100px;display:none;" >      
+	    </div> 
+        
+      </div>
+      <!-- run experiment module finish --> 
+      
+      
+      
+      <div style="height:120px;"></div> <!-- space filler -->
+      
+      
+      
+      <!-- Search experiment module starts -->
+      <div id="search" class="module round shadow" style="background-color:#C8FCEC!important;">
+        <h3>Search Experiments</h3>
+        
+        <div class="my-4" ></div>
+        
+        <form>
+            <input type="text" class="form-control " placeholder="Please input the 16-digit ID of a previous experiment, e.g., 4FULTSBCEEPNNPQL " id ="searchTextNew">
+            <div class="my-3" ></div>
+            <button type="button" id="searchExperimentButton" class="btn btn-primary" style="width:170px;" onclick="getRecordsByID();">Search</button>  
+        </form>
+
+        <div class="my-4" ></div>
+			
+		<div id="experimentResultPanel2" style="height: 80%; overflow-y: auto;width:100%; margin-top:20px ; min-height:100px;display:none;" >       
+		</div> 
+		
+      </div>
+      <!-- Search experiment module finishes -->
+      
+      
+      
+      <div style="height:120px;"></div> <!-- space filler -->
+      
+      
+      
+      <!-- About module starts -->
+      <div id="about"  class="module round shadow">
+        <h3>About</h3>
+       
+        <div class="my-4" ></div>
+        
+        <p class="lead text-justify">
+           <strong>EUPEG</strong> is an <strong>E</strong>xtensible and <strong>U</strong>nified <strong>P</strong>latform for <strong>E</strong>valuating <strong>G</strong>eoparsers. 
+           EUPEG is an open source project with the goals of reducing the burdens of researchers in implementing previous methods and enhancing research reproducibility. 
+        </p>
+      </div>
+      <!-- About module finishes -->
+      
+      
+      <div style="height:120px;"></div> <!-- space filler -->
+     
+	      
+
+    </div> <!-- /container -->
+    
+    
+    <!-- Library script -->
+    <script src="bootstrap/jquery-3.3.1.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- EUPEG script -->
+    <script src="js/config.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/getRecordsbyID.js"></script>
+    <script src="js/uploadCorpus.js"></script>
+    <script src="js/uploadParser.js"></script>
+    <script src="js/download.js"></script>
+  </body>
+</html>

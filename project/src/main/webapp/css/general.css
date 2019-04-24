@@ -1,0 +1,88 @@
+
+
+.round {
+	border-radius: 5px;
+}
+
+.shadow {
+	box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.block {
+	display:block;
+}
+
+
+.searchPanel
+{
+	padding: 20px 20px 20px 20px;
+	border-style: dotted;
+	border-width: 1px;
+	border-color: #333333;
+	
+}
+
+
+.bg-img {
+	background: url(../img/bg/beige-cork-board.PNG);
+}
+
+
+body {
+  /*padding-top: 2rem;*/
+  padding-bottom: 2rem;
+}
+
+.wordShade{
+	
+  text-shadow: 1.5px 1.5px 2px rgba(0, 0, 0, 0.4);
+
+}
+
+
+.row {
+  margin-bottom: 1rem;
+}
+.row .row {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+/* [class*="col-"] { */
+/*   padding-top: 1rem; */
+/*   padding-bottom: 1rem; */
+/*   background-color: rgba(86, 61, 124, .15); */
+/*   border: 1px solid rgba(86, 61, 124, .2); */
+/* } */
+
+
+
+.module{
+   padding: 2rem 2rem 3rem 2rem; 
+   background-color: #f5ecd9;
+   border: 1px solid #a3a3a3;
+}
+
+ .custom-control-input:hover:enabled ~ .custom-control-label::before {
+    -webkit-box-shadow: 0 0 0 1px #fff, 0 0 0 3px #0275d8;
+    box-shadow: 0 0 0 1px #fff, 0 0 0 3px #0275d8;
+}
+
+
+
+/*
+.custom-control-input:inactive ~ .custom-control-label::before {
+    -webkit-box-shadow: 0 0 0 1px #fff, 0 0 0 3px #0275d8;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.custom-control-input:active ~ .custom-control-label::before {
+    background-color: #fff;
+} */
+
+
+
+hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}

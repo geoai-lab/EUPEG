@@ -1,0 +1,134 @@
+Washington, Arkansas,,Washington,,35.97907,,-94.21558,,66,,75||
+Washington, Arkansas,,Washington,,35.97907,,-94.21558,,1,,10||
+Washington, Arkansas,,Washington,,35.97907,,-94.21558,,31,,40||
+Washington, Arkansas,,Washington,,35.97907,,-94.21558,,5,,14||
+Washington, Arkansas,,Washington,,35.97907,,-94.21558,,70,,79||Washington, Arkansas,,Washington,,35.97907,,-94.21558,,105,,114||Washington, Arkansas,,Washington,,35.97907,,-94.21558,,161,,170||
+Washington, Arkansas,,Washington,,35.97907,,-94.21558,,31,,40||
+Washington, Connecticut,,Washington,,41.63148,,-73.31067,,13,,22||
+Washington, Connecticut,,Washington,,41.63148,,-73.31067,,1,,10||
+Washington, Connecticut,,Washington,,41.63148,,-73.31067,,105,,114||
+Washington, Connecticut,,Washington,,41.63148,,-73.31067,,36,,45||
+Washington, Connecticut,,Washington,,41.63148,,-73.31067,,83,,92||
+Washington, Connecticut,,Washington,,41.63148,,-73.31067,,17,,26||
+Washington, Connecticut,,Washington,,41.63148,,-73.31067,,164,,173||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,1,,10||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,45,,54||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,1,,10||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,37,,46||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,187,,196||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,37,,46||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,31,,40||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,83,,92||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,66,,75||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,53,,62||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,58,,67||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,61,,70||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,82,,91||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,21,,30||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,109,,118||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,28,,37||Washington, Illinois,,Washington,,40.70365,,-89.40731,,118,,127||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,180,,189||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,41,,50||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,1,,10||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,28,,37||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,13,,22||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,9,,18||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,24,,33||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,65,,74||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,1,,10||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,73,,82||
+Washington, Illinois,,Washington,,40.70365,,-89.40731,,71,,80||Washington, Illinois,,Washington,,40.70365,,-89.40731,,127,,136||
+Washington, Iowa,,Washington,,41.33559,,-91.71787,,13,,22||
+Washington, Iowa,,Washington,,41.33559,,-91.71787,,29,,38||
+Washington, Iowa,,Washington,,41.33559,,-91.71787,,1,,10||Washington, Iowa,,Washington,,41.33559,,-91.71787,,53,,62||
+Washington, Iowa,,Washington,,41.33559,,-91.71787,,1,,10||Washington, Iowa,,Washington,,41.33559,,-91.71787,,97,,106||Washington, Iowa,,Washington,,41.33559,,-91.71787,,140,,149||Washington, Iowa,,Washington,,41.33559,,-91.71787,,230,,239||
+Washington, Iowa,,Washington,,41.33559,,-91.71787,,85,,94||
+Washington, Iowa,,Washington,,41.33559,,-91.71787,,80,,89||
+Washington, Iowa,,Washington,,41.33559,,-91.71787,,18,,27||Washington, Iowa,,Washington,,41.33559,,-91.71787,,290,,299||
+Washington, Iowa,,Washington,,41.33559,,-91.71787,,1,,10||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,1,,10||Washington, Kansas,,Washington,,39.7842,,-97.08754,,93,,102||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,102,,111||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,1,,10||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,1,,10||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,5,,14||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,69,,78||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,243,,252||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,35,,44||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,14,,23||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,29,,38||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,71,,80||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,1,,10||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,5,,14||Washington, Kansas,,Washington,,39.7842,,-97.08754,,32,,41||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,13,,22||
+Washington, Kansas,,Washington,,39.7842,,-97.08754,,123,,132||
+Washington, Louisiana,,Washington,,30.85334,,-90.04052,,43,,52||
+Washington, Louisiana,,Washington,,30.85334,,-90.04052,,107,,116||
+Washington, Louisiana,,Washington,,30.85334,,-90.04052,,13,,22||
+Washington, Louisiana,,Washington,,30.85334,,-90.04052,,38,,47||
+Washington, Louisiana,,Washington,,30.85334,,-90.04052,,110,,119||
+Washington, Louisiana,,Washington,,30.85334,,-90.04052,,45,,54||
+Washington, Louisiana,,Washington,,30.85334,,-90.04052,,10,,19||Washington, Louisiana,,Washington,,30.85334,,-90.04052,,73,,82||
+Washington, Louisiana,,Washington,,30.85334,,-90.04052,,1,,10||
+Washington, Louisiana,,Washington,,30.85334,,-90.04052,,30,,39||
+Washington, Maine,,Washington,,44.96946,,-67.60906,,1,,10||
+Washington, Maine,,Washington,,44.96946,,-67.60906,,44,,53||Washington, Maine,,Washington,,44.96946,,-67.60906,,87,,96||
+Washington, Maine,,Washington,,44.96946,,-67.60906,,200,,209||Washington, Maine,,Washington,,44.96946,,-67.60906,,226,,235||
+Washington, Maine,,Washington,,44.96946,,-67.60906,,20,,29||
+Washington, Maine,,Washington,,44.96946,,-67.60906,,84,,93||
+Washington, New Jersey,,Washington,,40.44649,,-74.38598,,1,,10||
+Washington, New Jersey,,Washington,,40.44649,,-74.38598,,1,,10||Washington, New Jersey,,Washington,,40.44649,,-74.38598,,122,,131||
+Washington, New Jersey,,Washington,,40.44649,,-74.38598,,331,,340||
+Washington, New Jersey,,Washington,,40.44649,,-74.38598,,47,,56||
+Washington, New Jersey,,Washington,,40.44649,,-74.38598,,1,,10||Washington, New Jersey,,Washington,,40.44649,,-74.38598,,73,,82||
+Washington, New Jersey,,Washington,,40.44649,,-74.38598,,1,,10||
+Washington, New Jersey,,Washington,,40.44649,,-74.38598,,54,,63||
+Washington, New Jersey,,Washington,,40.44649,,-74.38598,,186,,195||
+Washington, New Jersey,,Washington,,40.44649,,-74.38598,,33,,42||
+Washington, New Jersey,,Washington,,40.44649,,-74.38598,,63,,72||Washington, New Jersey,,Washington,,40.44649,,-74.38598,,124,,133||Washington, New Jersey,,Washington,,40.44649,,-74.38598,,168,,177||
+Washington, New Jersey,,Washington,,40.44649,,-74.38598,,205,,214||
+Washington, New Jersey,,Washington,,40.44649,,-74.38598,,62,,71||
+Washington, New Jersey,,Washington,,40.44649,,-74.38598,,57,,66||
+Washington, North Carolina,,Washington,,35.54655,,-77.05217,,30,,39||Washington, North Carolina,,Washington,,35.54655,,-77.05217,,120,,129||
+Washington, North Carolina,,Washington,,35.54655,,-77.05217,,73,,82||Washington, North Carolina,,Washington,,35.54655,,-77.05217,,126,,135||
+Washington, North Carolina,,Washington,,35.54655,,-77.05217,,53,,62||Washington, North Carolina,,Washington,,35.54655,,-77.05217,,216,,225||
+Washington, Virginia,,Washington,,36.72448,,-81.95966,,70,,79||
+Washington, Virginia,,Washington,,36.72448,,-81.95966,,254,,263||Washington, Virginia,,Washington,,36.72448,,-81.95966,,577,,586||Washington, Virginia,,Washington,,36.72448,,-81.95966,,683,,692||
+Washington, Virginia,,Washington,,36.72448,,-81.95966,,13,,22||Washington, Virginia,,Washington,,36.72448,,-81.95966,,100,,109||Washington, Virginia,,Washington,,36.72448,,-81.95966,,139,,148||
+Washington, Virginia,,Washington,,36.72448,,-81.95966,,8,,17||
+Washington, Virginia,,Washington,,36.72448,,-81.95966,,231,,240||
+Washington, Virginia,,Washington,,36.72448,,-81.95966,,7,,16||Washington, Virginia,,Washington,,36.72448,,-81.95966,,117,,126||
+Washington, Virginia,,Washington,,36.72448,,-81.95966,,275,,284||
+Greenville, Alabama,,Greenville,,31.8296,,-86.61775,,76,,85||
+Greenville, Alabama,,Greenville,,31.8296,,-86.61775,,20,,29||
+Greenville, Alabama,,Greenville,,31.8296,,-86.61775,,105,,114||
+Greenville, Alabama,,Greenville,,31.8296,,-86.61775,,81,,90||
+Greenville, Alabama,,Greenville,,31.8296,,-86.61775,,143,,152||
+Greenville, Georgia,,Greenville,,33.02874,,-84.71298,,1,,10||
+Greenville, Georgia,,Greenville,,33.02874,,-84.71298,,116,,125||
+Greenville, Georgia,,Greenville,,33.02874,,-84.71298,,88,,97||
+Greenville, Georgia,,Greenville,,33.02874,,-84.71298,,131,,140||
+Greenville, Illinois,,Greenville,,38.89227,,-89.41314,,1,,10||
+Greenville, Illinois,,Greenville,,38.89227,,-89.41314,,1,,10||
+Greenville, Illinois,,Greenville,,38.89227,,-89.41314,,1,,10||
+Greenville, Illinois,,Greenville,,38.89227,,-89.41314,,1,,10||
+Greenville, Indiana,,Greenville,,38.37256,,-85.98636,,12,,21||
+Greenville, Indiana,,Greenville,,38.37256,,-85.98636,,34,,43||
+Greenville, Kentucky,,Greenville,,37.20115,,-87.17889,,54,,63||
+Greenville, Kentucky,,Greenville,,37.20115,,-87.17889,,1,,10||
+Greenville, Kentucky,,Greenville,,37.20115,,-87.17889,,14,,23||
+Greenville, Mississippi,,Greenville,,33.41012,,-91.06177,,1,,10||
+Greenville, Mississippi,,Greenville,,33.41012,,-91.06177,,1,,10||
+Greenville, Mississippi,,Greenville,,33.41012,,-91.06177,,64,,73||
+Greenville, Mississippi,,Greenville,,33.41012,,-91.06177,,10,,19||
+Greenville, Mississippi,,Greenville,,33.41012,,-91.06177,,119,,128||
+Greenville, North Carolina,,Greenville,,35.61266,,-77.36635,,34,,43||
+Greenville, North Carolina,,Greenville,,35.61266,,-77.36635,,243,,252||
+Greenville, North Carolina,,Greenville,,35.61266,,-77.36635,,193,,202||
+Greenville, North Carolina,,Greenville,,35.61266,,-77.36635,,59,,68||
+Greenville, North Carolina,,Greenville,,35.61266,,-77.36635,,211,,220||
+Greenville, North Carolina,,Greenville,,35.61266,,-77.36635,,415,,424||
+Greenville, North Carolina,,Greenville,,35.61266,,-77.36635,,88,,97||
+Greenville, Pennsylvania,,Greenville,,41.4045,,-80.39118,,16,,25||
+Greenville, Pennsylvania,,Greenville,,41.4045,,-80.39118,,16,,25||
+Greenville, Pennsylvania,,Greenville,,41.4045,,-80.39118,,82,,91||
+Greenville, Pennsylvania,,Greenville,,41.4045,,-80.39118,,16,,25||

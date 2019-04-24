@@ -1,0 +1,134 @@
+Hempstead County,,Hempstead County,,33.74361,,-93.66361,,11,,27||Washington State,,Washington State,,45.0,,116.0,,65,,81||
+Washington,,Washington,,45.0,,116.0,,0,,10||
+Washington,,Washington,,45.0,,116.0,,30,,40||
+Arkansas,,Arkansas,,34.8,,-92.2,,55,,63||
+Arkansas,,Arkansas,,34.8,,-92.2,,20,,28||Washington,,Washington,,45.0,,116.0,,69,,79||Washington,,Washington,,45.0,,116.0,,103,,113||
+
+Washington,,Washington,,45.0,,116.0,,12,,22||Woodbury,,Woodbury,,41.561943,,-73.20944,,61,,69||Litchfield,,Litchfield,,41.79,,-73.24,,71,,81||Kent,,Kent,,41.731667,,-73.4525,,83,,87||
+Washington,,Washington,,45.0,,116.0,,0,,10||
+Washington,,Washington,,45.0,,116.0,,104,,114||
+Washington,,Washington,,45.0,,116.0,,35,,45||
+
+Washington,,Washington,,45.0,,116.0,,16,,26||
+Aspetuck,,Aspetuck,,41.22333,,-73.32333,,134,,142||Washington,,Washington,,45.0,,116.0,,163,,173||
+Washington,,Washington,,45.0,,116.0,,0,,10||
+Washington,,Washington,,45.0,,116.0,,44,,54||
+Washington,,Washington,,45.0,,116.0,,0,,10||
+Washington,,Washington,,45.0,,116.0,,36,,46||Holland,,Holland,,52.316666,,4.883333,,138,,145||
+Washington,,Washington,,45.0,,116.0,,186,,196||
+Washington,,Washington,,45.0,,116.0,,36,,46||
+Washington,,Washington,,45.0,,116.0,,30,,40||Kentucky,,Kentucky,,37.5,,-85.0,,94,,102||Holland,,Holland,,52.316666,,4.883333,,127,,134||
+Holland,,Holland,,52.316666,,4.883333,,0,,7||
+Washington,,Washington,,45.0,,116.0,,65,,75||
+Washington,,Washington,,45.0,,116.0,,52,,62||
+Washington,,Washington,,45.0,,116.0,,57,,67||
+Holland,,Holland,,52.316666,,4.883333,,16,,23||Washington,,Washington,,45.0,,116.0,,60,,70||
+Washington,,Washington,,45.0,,116.0,,81,,91||
+Washington,,Washington,,45.0,,116.0,,20,,30||
+
+Washington,,Washington,,45.0,,116.0,,27,,37||Washington,,Washington,,45.0,,116.0,,116,,126||
+Tazewell County,,Tazewell County,,40.51,,-89.51,,93,,108||Woodford county,,Woodford county,,40.79,,-89.21,,121,,136||Washington,,Washington,,45.0,,116.0,,179,,189||
+
+Washington,,Washington,,45.0,,116.0,,0,,10||
+Washington,,Washington,,45.0,,116.0,,27,,37||Illinois,,Illinois,,41.278217,,-88.38024,,125,,133||
+Washington,,Washington,,45.0,,116.0,,12,,22||
+Washington,,Washington,,45.0,,116.0,,8,,18||
+Washington,,Washington,,45.0,,116.0,,23,,33||
+Peoria,,Peoria,,40.720833,,-89.60944,,49,,55||Washington,,Washington,,45.0,,116.0,,64,,74||
+Washington,,Washington,,45.0,,116.0,,0,,10||
+Illinois,,Illinois,,41.278217,,-88.38024,,84,,92||
+Illinois,,Illinois,,41.278217,,-88.38024,,82,,90||Washington,,Washington,,45.0,,116.0,,125,,135||
+Washington,,Washington,,45.0,,116.0,,12,,22||
+Washington,,Washington,,45.0,,116.0,,28,,38||Iowa,,Iowa,,40.0,,90.0,,70,,74||Iowa City,,Iowa City,,41.666668,,-91.53333,,100,,109||
+Washington,,Washington,,45.0,,116.0,,0,,10||
+Washington,,Washington,,45.0,,116.0,,0,,10||Washington,,Washington,,45.0,,116.0,,95,,105||Washington,,Washington,,45.0,,116.0,,137,,147||Washington,,Washington,,45.0,,116.0,,226,,236||
+Central Park,,Central Park,,40.783333,,-73.96667,,59,,71||
+Central Park,,Central Park,,40.783333,,-73.96667,,43,,55||Washington,,Washington,,45.0,,116.0,,79,,89||
+Washington,,Washington,,45.0,,116.0,,17,,27||Washington,,Washington,,45.0,,116.0,,288,,298||
+Washington,,Washington,,45.0,,116.0,,0,,10||
+Washington,,Washington,,45.0,,116.0,,0,,10||Kansas,,Kansas,,38.45,,-96.53333,,39,,45||Washington,,Washington,,45.0,,116.0,,91,,101||
+Washington,,Washington,,45.0,,116.0,,101,,111||
+Washington,,Washington,,45.0,,116.0,,0,,10||
+Washington,,Washington,,45.0,,116.0,,0,,10||
+Washington County,,Washington County,,39.6,,-77.81,,4,,21||
+Washington,,Washington,,45.0,,116.0,,68,,78||
+
+Washington, Kansas,,Washington, Kansas,,39.816944,,-97.0,,34,,52||
+Washington,,Washington,,45.0,,116.0,,13,,23||
+
+Washington,,Washington,,45.0,,116.0,,70,,80||
+Washington,,Washington,,45.0,,116.0,,0,,10||
+Washington,,Washington,,45.0,,116.0,,4,,14||
+Washington,,Washington,,45.0,,116.0,,12,,22||
+Washington city,,Washington city,,38.904724,,-77.01639,,122,,137||
+Washington,,Washington,,45.0,,116.0,,42,,52||
+Washington,,Washington,,45.0,,116.0,,106,,116||
+Washington,,Washington,,45.0,,116.0,,12,,22||
+Washington,,Washington,,45.0,,116.0,,37,,47||Louisiana,,Louisiana,,31.0,,-92.0,,76,,85||
+New Orleans,,New Orleans,,29.95,,-90.07056,,41,,52||Washington,,Washington,,45.0,,116.0,,110,,120||
+Washington,,Washington,,45.0,,116.0,,44,,54||
+Washington,,Washington,,45.0,,116.0,,9,,19||Washington,,Washington,,45.0,,116.0,,71,,81||Louisiana,,Louisiana,,31.0,,-92.0,,116,,125||
+Washington,,Washington,,45.0,,116.0,,0,,10||Louisiana,,Louisiana,,31.0,,-92.0,,95,,104||
+Washington,,Washington,,45.0,,116.0,,29,,39||
+Washington, Maine,,Washington, Maine,,44.273056,,-69.38556,,0,,17||Knox County,,Knox County,,44.03,,-69.03,,109,,120||Rockland,,Rockland,,41.15,,-74.03,,149,,157||
+Washington,,Washington,,45.0,,116.0,,43,,53||Washington,,Washington,,45.0,,116.0,,85,,95||
+Washington,,Washington,,45.0,,116.0,,199,,209||Washington,,Washington,,45.0,,116.0,,224,,234||
+Washington,,Washington,,45.0,,116.0,,19,,29||
+Medomak River,,Medomak River,,44.3634,,-69.3524,,64,,77||Washington,,Washington,,45.0,,116.0,,83,,93||
+Washington,,Washington,,45.0,,116.0,,0,,10||New Jersey,,New Jersey,,38.0,,73.0,,46,,56||
+Washington,,Washington,,45.0,,116.0,,0,,10||Washington,,Washington,,45.0,,116.0,,120,,130||
+Pohatcong Mountain,,Pohatcong Mountain,,40.730278,,-75.0175,,166,,184||Phillipsburg,,Phillipsburg,,40.691975,,-75.17901,,290,,302||
+Washington,,Washington,,45.0,,116.0,,46,,56||
+Washington Borough,,Washington Borough,,40.758526,,-74.98319,,0,,18||American,,American,,40.0,,-100.0,,30,,38||Washington Township,,Washington Township,,40.988304,,-74.06469,,71,,90||
+Washington,,Washington,,45.0,,116.0,,0,,10||
+Washington,,Washington,,45.0,,116.0,,53,,63||
+Mecca,,Mecca,,21.416666,,39.816666,,316,,321||
+Washington,,Washington,,45.0,,116.0,,32,,42||
+Washington Borough,,Washington Borough,,40.758526,,-74.98319,,122,,140||Washington,,Washington,,45.0,,116.0,,165,,175||
+Washington,,Washington,,45.0,,116.0,,204,,214||
+Washington,,Washington,,45.0,,116.0,,61,,71||
+Washington,,Washington,,45.0,,116.0,,56,,66||
+Washington, North Carolina,,Washington, North Carolina,,35.55361,,-77.05194,,29,,55||
+Washington,,Washington,,45.0,,116.0,,72,,82||Washington,,Washington,,45.0,,116.0,,124,,134||
+Washington,,Washington,,45.0,,116.0,,52,,62||Washington,,Washington,,45.0,,116.0,,214,,224||
+Washington,,Washington,,45.0,,116.0,,69,,79||
+Washington,,Washington,,45.0,,116.0,,253,,263||Middleton,,Middleton,,43.060276,,-89.57166,,298,,307||Virginia,,Virginia,,36.0,,75.0,,587,,595||
+Washington, DC,,Washington, DC,,38.904724,,-77.01639,,136,,150||
+Washington,,Washington,,45.0,,116.0,,7,,17||
+Washington,,Washington,,45.0,,116.0,,230,,240||Virginia,,Virginia,,36.0,,75.0,,346,,354||
+Washington,,Washington,,45.0,,116.0,,6,,16||Rappahannock County,,Rappahannock County,,38.69,,-78.17,,46,,65||Washington,,Washington,,45.0,,116.0,,115,,125||
+Virginia,,Virginia,,36.0,,75.0,,77,,85||Shenandoah National Park,,Shenandoah National Park,,38.533333,,-78.35,,118,,142||
+Greenville,,Greenville,,34.844444,,-82.38556,,75,,85||
+Greenville,,Greenville,,34.844444,,-82.38556,,19,,29||
+Montgomery,,Montgomery,,32.361668,,-86.27917,,35,,45||Alabama,,Alabama,,32.7,,-86.7,,72,,79||Greenville,,Greenville,,34.844444,,-82.38556,,104,,114||
+Montgomery Regional Airport,,Montgomery Regional Airport,,32.300556,,-86.39389,,0,,27||
+Greenville,,Greenville,,34.844444,,-82.38556,,142,,152||
+Meriwether County,,Meriwether County,,33.04,,-84.69,,31,,48||
+Meriwether County,,Meriwether County,,33.04,,-84.69,,83,,100||Greenville,,Greenville,,40.1025,,-84.62805,,115,,125||
+Meriwether County,,Meriwether County,,33.04,,-84.69,,24,,41||
+Luthersville,,Luthersville,,33.209167,,-84.74528,,50,,62||
+Greenville, Illinois,,Greenville, Illinois,,38.883335,,-89.4,,0,,20||Bond County,,Bond County,,38.88,,-89.44,,33,,44||
+
+
+Greenville,,Greenville,,34.844444,,-82.38556,,0,,10||
+Greenville, Indiana,,Greenville, Indiana,,38.372776,,-85.98861,,11,,30||
+Floyd County,,Floyd County,,36.94,,-80.36,,9,,21||
+
+Greenville,,Greenville,,34.844444,,-82.38556,,0,,10||
+Greenville,,Greenville,,35.601665,,-77.3725,,13,,23||
+Greenville, Mississippi,,Greenville, Mississippi,,33.398613,,-91.04833,,0,,23||
+Greenville,,Greenville,,34.844444,,-82.38556,,0,,10||
+Mississippi,,Mississippi,,30.0,,88.0,,50,,61||
+
+Greenville,,Greenville,,34.844444,,-82.38556,,118,,128||
+
+Greenville,,Greenville,,34.844444,,-82.38556,,242,,252||
+Greenville,,Greenville,,34.844444,,-82.38556,,192,,202||
+Greenville,,Greenville,,34.844444,,-82.38556,,58,,68||
+North Carolina,,North Carolina,,33.0,,75.0,,137,,151||Greenville,,Greenville,,35.601665,,-77.3725,,210,,220||
+Greenville,,Greenville,,35.601665,,-77.3725,,414,,424||
+Greenville, North Carolina,,Greenville, North Carolina,,35.601665,,-77.3725,,87,,113||
+
+Greenville,,Greenville,,34.844444,,-82.38556,,15,,25||
+Greenville,,Greenville,,34.844444,,-82.38556,,81,,91||
+
