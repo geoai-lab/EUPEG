@@ -8,7 +8,7 @@ This repository contains the source code of EUPEG as well as the corpora under p
 
 #### Repository organization
 
-The whole repository is organized as a Maven Java Web Application:
+The whole repository is organized as a Maven Java Web Application under the "/project" folder:
 * pom.xml file contains information about the EUPEG as well as its configuration details used by Maven to build the project;
 * The file "/src/main/webapp/index.html" contains the HTML home page of EUPEG;
 * The folder "/src/main/webapp/js" contains the JavaScript code for implementing the user side functions: selecting corpora, geoparsers, and metrics, sending request to the server, and visualizing the results;
@@ -47,6 +47,9 @@ A number of geoparsers need to deployed on your local machine. You can follow th
 * SpaCyNER (https://spacy.io/usage)
 * Topocluster (https://github.com/grantdelozier/TopoCluster)
 
+For CamCoder, we rewrite the geoparse.py to support the unified result format used by EUPEG, please see the new geoparse.py under the "/dependency" folder;
+For SpaCyNER, we write the main.py to run SpaCyNER with inputted text and convert the parsing outputs into the unified result format used by EUPEG, please see the main.py under the "/dependency" folder.
+
 The three geoparsers listed below are either connected by their APIs or embedded inside EUPEG, so you don't need to deploy local instances for them. We also provide their URLs in case you would like to change them in EUPEG.
 * DBpedia Spotlight (https://www.dbpedia-spotlight.org/)
 * GeoTxt (http://www.geotxt.org/)
@@ -54,8 +57,10 @@ The three geoparsers listed below are either connected by their APIs or embedded
 
 At the time of writing this document, the online service of Yahoo! PlaceSpotter cannot be connected. Please follow the instruction here: https://developer.yahoo.com/boss/geo/docs/PM_KeyConcepts.html, if you want to revise the code related to Yahoo! PlaceSpotter.
 
+#### Step3 - SQLite3 Database
+The EUPEG connected database is used to store information of successful experiments, uploaded corpora, and added geoparsers. Find the .db file under the "/dependency" folder. 
 
-#### Step3 - Import EUPEG into an IDE 
+#### Step4 - Import EUPEG into an IDE 
 This tutorial is based on deploying and configuring the EUPEG as a Java Web application using Eclipse IDE. You can use other IDEs as well.
 
 #### Import the project via Maven
@@ -76,7 +81,7 @@ Congratulations! You have finished all the steps of deploying EUPEG. You may now
 
 * Updating Maven Dependencies is very slow:
 
-Make sure you have completed CLAVIN configuration. If you want to deploy CLAVIN later, please replace the content of pom.xml with the content of pom_no_CLAVIN.xml. 
+Make sure you have completed CLAVIN configuration. If you want to deploy CLAVIN later, please delete the CLAVIN dependencies from the pom.xml first.
 
 * Java version error:
 
