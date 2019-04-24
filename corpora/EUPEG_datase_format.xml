@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entries>
+	<entry>
+		<text><![CDATA[Two women hit by car when crossing road. Two women were hit by a car when they attempted to cross Browns Bridge Road Wednesday evening. The names of the victims have not yet been released, but one woman suffered multiple broken bones and internal injuries in the accident, according to a release from Gainesville Police. Police say the women were crossing Browns Bridge Road near its intersection with Dixie Drive when they were struck by an eastbound car. Both were taken to Northeast Gainesville Medical Center for treatment.]]></text>
+		<toponyms>
+			<toponym>
+				<start>301</start>
+				<end>312</end>
+				<phrase>Gainesville</phrase>
+				<place>
+					<placename>Gainesville</placename>
+					<footprint>-83.8241 34.2979</footprint>
+					<placetype>PPL</placetype>					   
+				</place>
+			</toponym>
+			<toponym>
+				<start>486</start>
+				<end>493</end>
+				<phrase>Gainesville</phrase>
+				<place>
+					<placename>Gainesville</placename>
+					<footprint>-83.8241 34.2979</footprint>					
+					<placetype>PPL</placetype>					   
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text><![CDATA[Coral Gables man charged with possessing child porn. A Coral Gables man was arrested on child pornography charges after he dropped his computer off for repairs, police said. A worker at the shop found pictures of naked children engaged in sex acts on Keith Martello's computer. Miami-Dade police's Internet Crimes Against Children unit got a search warrant for the computer and found lewd pictures of young girls, likely between the ages of 5 and 12, police said. Martello, 64, a retired Naval officer, was arrested Thursday for possession of child pornography.]]></text>
+		<toponyms>
+			<toponym>
+				<start>0</start>
+				<end>12</end>
+				<phrase>Coral Gables</phrase>
+				<place>
+					<placename>Coral Gables</placename>
+					<footprint>-80.268 25.722</footprint>				
+					<placetype>PPL</placetype>					   
+				</place>
+			</toponym>
+			<toponym>
+				<start>55</start>
+				<end>67</end>
+				<phrase>Coral Gables</phrase>
+				<place>
+					<placename>Coral Gables</placename>
+					<footprint>-80.268 25.722</footprint>
+					<placetype>PPL</placetype>					   
+				</place>
+			</toponym>
+			<toponym>
+				<start>339</start>
+				<end>345</end>
+				<phrase>Miami-Dade</phrase>
+				<place>
+					<placename>Miami-Dade</placename>
+					<footprint>-80.533 25.617 </footprint>
+					<placetype>ADM2</placetype>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text><![CDATA[Jordan is a relatively-small, semi-arid, almost-landlocked country with an area of 89,342 km2 (34,495 sq mi) and a population numbering 10 million, making it the 11th-most populous Arab country. Sunni Islam, practiced by around 95% of the population, is the dominant religion in Jordan and coexists with the indigenous Christian minority. Jordan has been repeatedly referred to as an "oasis of stability" in a turbulent region. It has been mostly unscathed by the violence that swept the Middle East since 2010]]></text>
+		<toponyms>
+			<toponym>
+				<start>0</start>
+				<end>6</end>
+				<phrase>Jordan</phrase>
+				<place>
+					<placename>Hashemite Kingdom of Jordan</placename>
+					<footprint>33 36</footprint>
+					<placetype>PCLI</placetype>
+				</place>
+			</toponym>
+			<toponym>
+				<start>339</start>
+				<end>345</end>
+				<phrase>Jordan</phrase>
+				<place>
+					<placename>Hashemite Kingdom of Jordan</placename>
+					<footprint>33 36</footprint>
+					<placetype>PCLI</placetype>
+				</place>
+			</toponym>
+			<toponym>
+				<start>488</start>
+				<end>345</end>
+				<phrase>Middel East</phrase>
+				<place>
+					<placename>Middel East</placename>
+					<footprint>35.859 33.139</footprint>
+					<placetype>RGN</placetype>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+</entries>
