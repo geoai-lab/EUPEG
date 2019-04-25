@@ -50,11 +50,11 @@ public class StanfordNERParser
 			//save the output file under backup folder when updating
 			if(if_backup==true)
 			{
-				parsedResultPath = utils.getPath()+File.separator+"output_backup"+File.separator+corpus_name+"StanfordNER.txt";
+				parsedResultPath = utils.getPath()+File.separator+"output_backup"+File.separator+corpus_name+"_StanfordNER.txt";
 			}
 			else 
 			{
-				parsedResultPath = utils.getPath()+File.separator+"geoparser_output"+File.separator+corpus_name+"StanfordNER.txt";
+				parsedResultPath = utils.getPath()+File.separator+"geoparser_output"+File.separator+corpus_name+"_StanfordNER.txt";
 			}
 			
 			File directory = new File(corpusFolderPath);
