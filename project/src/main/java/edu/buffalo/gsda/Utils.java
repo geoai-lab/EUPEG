@@ -149,7 +149,7 @@ public class Utils
 	    	        //  If the toponym position (its mean) is no more than 9 characters from gold AND the two
 	                //  strings are equal then it's a match. For reasons to do with UTF-8 encoding and decoding,
 	                //  the toponym indices may, in a few instances, be off by a few positions when using Web APIs.
-	    	        if (Math.abs(mean_g - mean_p) < 10) //&& (predicted_top_items[1].toLowerCase().equals(gold_top_items[1].toLowerCase())))
+	    	        if (Math.abs(mean_g - mean_p) < 10 && (predicted_top_items[1].toLowerCase().equals(gold_top_items[1].toLowerCase())))
     	        	{
     	        		match = true;   // Change the number above to 0 for EXACT matches, 10 for INEXACT matches
 					}
